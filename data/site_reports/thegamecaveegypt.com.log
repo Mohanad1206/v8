@@ -1,0 +1,6 @@
+[2025-10-06T18:37:04.588915Z] Trying ShopifySitemapProvider
+[2025-10-06T18:37:07.792853Z] ShopifySitemapProvider yielded 0 items
+[2025-10-06T18:37:07.792869Z] Trying GenericSitemapProvider
+[2025-10-06T18:37:08.685060Z] GenericSitemapProvider yielded 0 items
+[2025-10-06T18:37:08.685075Z] Trying HeuristicCatalogProvider
+[2025-10-06T18:38:07.483702Z] HeuristicCatalogProvider yielded 48 items
