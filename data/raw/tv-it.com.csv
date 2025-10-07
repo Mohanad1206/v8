@@ -1,238 +1,238 @@
-brand,category,currency,image_url,name,price_egp,scraped_at,source,url
-,,EGP,https://tv-it.com/storage/41rr4cktsds-sl500-ac-sl500.jpg,Shop Best Laptops in Egypt,109999.0,2025-10-06T18:58:53.698265Z,tv-it.com,https://tv-it.com/public/product-categories/laptops-in-egypt
-,,EGP,https://tv-it.com/storage/lenovo-ban-1.png,Shop Best Gaming Laptop in Egypt - Gaming Laptop,109999.0,2025-10-06T18:58:53.698269Z,tv-it.com,https://tv-it.com/product-categories/gaming-laptop
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Buy Business Laptop with Best Price in Egypt | Technology Valley,20999.0,2025-10-06T18:58:53.698271Z,tv-it.com,https://tv-it.com/product-categories/business-laptops
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop Student Laptop with Best Price in Egypt | Technology Valley,25555.0,2025-10-06T18:58:53.698272Z,tv-it.com,https://tv-it.com/product-categories/economic-laptops-1
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop Best Intel AI Laptop in Egypt - Intel AI Laptop,72800.0,2025-10-06T18:58:53.698273Z,tv-it.com,https://tv-it.com/product-categories/intel-ai-laptop#list
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop 2-in-1 Laptop with Best Price in Egypt | Technology Valley,72800.0,2025-10-06T18:58:53.698274Z,tv-it.com,https://tv-it.com/product-categories/2-in-1-laptop-1#list
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Best Laptop Lenovo and Lenovo Tablet in Egypt,84999.0,2025-10-06T18:58:53.698276Z,tv-it.com,https://tv-it.com/product-categories/lenovo
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop Asus Laptop - Gaming Laptop in Egypt,109999.0,2025-10-06T18:58:53.698277Z,tv-it.com,https://tv-it.com/product-categories/asus
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Buy MSI Laptop with Best Price in Egypt | Technology Valley,23999.0,2025-10-06T18:58:53.698278Z,tv-it.com,https://tv-it.com/product-categories/msi-laptops
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Buy Laptop HP with Best Price in Egypt | Technology Valley,62999.0,2025-10-06T18:58:53.698279Z,tv-it.com,https://tv-it.com/product-categories/hp-laptops
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Buy Dell Laptop with Best Price in Egypt | Technology Valley,20999.0,2025-10-06T18:58:53.698281Z,tv-it.com,https://tv-it.com/product-categories/dell-laptops
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Buy Laptop Acer with Best Price in Egypt | Technology Valley,31099.0,2025-10-06T18:58:53.698282Z,tv-it.com,https://tv-it.com/product-categories/acer-laptops
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop Best Laptop Huawei in Egypt - Laptop Huawei,23999.0,2025-10-06T18:58:53.698283Z,tv-it.com,https://tv-it.com/product-categories/huawei-1
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop Macbook in Egypt | Technology Valley,52000.0,2025-10-06T18:58:53.698285Z,tv-it.com,https://tv-it.com/product-categories/macbook
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Buy Microsoft Surface Laptop wirh Best Price in Egypt | Technology Valley,0.0,2025-10-06T18:58:53.698286Z,tv-it.com,https://tv-it.com/product-categories/microsoft
-,,EGP,https://tv-it.com/storage/lenovo-legion-7-16achg6-gaming-laptop-amd-ryzen-9-5900hx-technology.webp,Shop Best Computer Components in Egypt - Computer Components,2900.0,2025-10-06T18:58:53.698287Z,tv-it.com,https://tv-it.com/public/product-categories/computer-1
-,,EGP,https://tv-it.com/storage/agvmmsmkb7dkrau9qmbusjlbk6txolp9qodhvd4v.jpg,Build Your PC in Egypt | Technology Valley,4400.0,2025-10-06T18:58:53.698289Z,tv-it.com,https://tv-it.com/product-categories/computer-components-14
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop Processor in Egypt | Technology Valley,10400.0,2025-10-06T18:58:53.698290Z,tv-it.com,https://tv-it.com/product-categories/processor
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop Motherboard in Egypt | Technology Valley,4400.0,2025-10-06T18:58:53.698291Z,tv-it.com,https://tv-it.com/product-categories/motherboard
-,,EGP,https://tv-it.com/storage/images-1.jpg,Shop Graphic Cards in Egypt | Technology Valley,18999.0,2025-10-06T18:58:53.698292Z,tv-it.com,https://tv-it.com/product-categories/graphics-cards
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop Computer Case in Egypt | Technology Valley,3500.0,2025-10-06T18:58:53.698293Z,tv-it.com,https://tv-it.com/product-categories/computer-case
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop Computer Fans in Egypt | Technology Valley,4500.0,2025-10-06T18:58:53.698295Z,tv-it.com,https://tv-it.com/product-categories/computer-fans
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop Power Supply in Egypt | Technology Valley,2200.0,2025-10-06T18:58:53.698296Z,tv-it.com,https://tv-it.com/product-categories/power-supply
-,,EGP,https://tv-it.com/storage/71rjtisoozl-ac-sl1500.jpg,Shop Best Gaming PC - PC Bundle with best Price in Egypt,10666.0,2025-10-06T18:58:53.698297Z,tv-it.com,https://tv-it.com/product-categories/gaming-pcs-17
-,,EGP,https://tv-it.com/storage/327e8qjab-89-ims-en-eg.webp,Computer Monitor | Technology Valley,47250.0,2025-10-06T18:58:53.698299Z,tv-it.com,https://tv-it.com/product-categories/monitor-6
-,,EGP,https://tv-it.com/storage/dell-optiplex-5090-i5-tower-desktop.webp,Shop Best Desktop Price in Egypt -  Desktop,18250.0,2025-10-06T18:58:53.698300Z,tv-it.com,https://tv-it.com/product-categories/desktop
-,,EGP,https://tv-it.com/storage/81qay8skvel-ac-sl1500.jpg,Shop Printers with best Price in Egypt | Technology Valley,3499.0,2025-10-06T18:58:53.698302Z,tv-it.com,https://tv-it.com/product-categories/printers
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop Multi-Function Printers with best Price in Egypt | Technology Valley,8250.0,2025-10-06T18:58:53.698303Z,tv-it.com,https://tv-it.com/product-categories/multi-function-printers
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop laser Printers in Egypt | Technology Valley,7999.0,2025-10-06T18:58:53.698304Z,tv-it.com,https://tv-it.com/product-categories/laser-printers
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop InkJet Printers with best Price in Egypt | Technology Valley,8250.0,2025-10-06T18:58:53.698305Z,tv-it.com,https://tv-it.com/product-categories/inkjet-printers
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop Printer Ink & Toner in Egypt | Technology Valley,380.0,2025-10-06T18:58:53.698306Z,tv-it.com,https://tv-it.com/product-categories/printer-ink-toner
-,,EGP,https://tv-it.com/storage/41x3m6fhwgs-ac-uf8941000-ql80.jpg,Shop Software in Egypt | Technology Valley,200.0,2025-10-06T18:58:53.698307Z,tv-it.com,https://tv-it.com/product-categories/software
-,,EGP,https://tv-it.com/storage/flash-drives-and-compact-flash-cards.jpg,Shop Storage in Egypt | Technology Valley,2900.0,2025-10-06T18:58:53.698309Z,tv-it.com,https://tv-it.com/product-categories/storage-7
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop Network in Egypt | Technology Valley,875.0,2025-10-06T18:58:53.698310Z,tv-it.com,https://tv-it.com/product-categories/network-8
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop Security Cameras in Egypt | Technology Valley,875.0,2025-10-06T18:58:53.698311Z,tv-it.com,https://tv-it.com/product-categories/security#list
-,,EGP,https://tv-it.com/storage/51ge3tjw5ul-sy355.jpg,Shop Routers in Egypt | Technology Valley,2025.0,2025-10-06T18:58:53.698312Z,tv-it.com,https://tv-it.com/product-categories/routers#list
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Time Attendance Device,1950.0,2025-10-06T18:58:53.698313Z,tv-it.com,https://tv-it.com/product-categories/time-attendance
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop UPS in Egypt | Technology Valley,8425.0,2025-10-06T18:58:53.698314Z,tv-it.com,https://tv-it.com/product-categories/ups#list
-,,EGP,https://tv-it.com/storage/trade-in-og-202205.jpg,"""Shop Best iPhone prices in Egypt """,115500.0,2025-10-06T18:58:53.698316Z,tv-it.com,https://tv-it.com/product-categories/apple-16
-,,EGP,https://tv-it.com/storage/iphone-ky2k6x5u6vue-og.png,Shop Best iPhone prices in Egypt,115500.0,2025-10-06T18:58:53.698317Z,tv-it.com,https://tv-it.com/product-categories/iphone
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop iPad in Egypt | Technology Valley,67500.0,2025-10-06T18:58:53.698318Z,tv-it.com,https://tv-it.com/product-categories/ipad
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop Apple Pencil in Egypt | Technology Valley,10500.0,2025-10-06T18:58:53.698319Z,tv-it.com,https://tv-it.com/product-categories/pencil
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop Apple Watch in Egypt | Technology Valley,22800.0,2025-10-06T18:58:53.698321Z,tv-it.com,https://tv-it.com/product-categories/watch
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop Air Pod in Egypt | Technology Valley,760.0,2025-10-06T18:58:53.698322Z,tv-it.com,https://tv-it.com/product-categories/air-pod
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop Apple Power Adapter in Egypt | Technology Valley,205.0,2025-10-06T18:58:53.698323Z,tv-it.com,https://tv-it.com/product-categories/power-adapter
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop iPad Keyboard in Egypt | Technology Valley,19400.0,2025-10-06T18:58:53.698324Z,tv-it.com,https://tv-it.com/product-categories/ipad-keyboard
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop the Latest Mobile Phones at Technology Valley | TV-IT,7390.0,2025-10-06T18:58:53.698326Z,tv-it.com,https://tv-it.com/product-categories/mobiles-18
-,,EGP,https://tv-it.com/storage/screenshot-2022-04-25-at-14-18-31-tab-p12-pro-premium-tablet-with-12-6-2k-amoled-display-lenovo-us.webp,Shop the Latest Tablet at Technology Valley | TV-IT,12699.0,2025-10-06T18:58:53.698327Z,tv-it.com,https://tv-it.com/product-categories/tablet-19
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop Best Tablet Lenovo in Egypt - Lenovo Tablet,12699.0,2025-10-06T18:58:53.698328Z,tv-it.com,https://tv-it.com/product-categories/lenovo-tablets
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop Best Tablet Huawei in Egypt - Huawei Tablet,25699.0,2025-10-06T18:58:53.698329Z,tv-it.com,https://tv-it.com/product-categories/huawei-tablets
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop Best Tablet Samsung in Egypt - Samsung Galaxy Tablet,7050.0,2025-10-06T18:58:53.698330Z,tv-it.com,https://tv-it.com/product-categories/samsung-tablets
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop Best Tablet Nokia in Egypt - Nokia Tablet,5250.0,2025-10-06T18:58:53.698332Z,tv-it.com,https://tv-it.com/product-categories/nokia-tablets
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop Best Mobile Samsung in Egypt - Samsung Galaxy,7390.0,2025-10-06T18:58:53.698333Z,tv-it.com,https://tv-it.com/product-categories/samsung-mobiles
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop Best Mobile Xiaomi in Egypt - Xiaomi Redmi,6750.0,2025-10-06T18:58:53.698334Z,tv-it.com,https://tv-it.com/product-categories/xiaomi-mobiles
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop Best Mobile Realme in Egypt - Realme,13199.0,2025-10-06T18:58:53.698335Z,tv-it.com,https://tv-it.com/product-categories/realme-mobiles
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop Best Mobile OPPO in Egypt - Oppo - Oppo Reno,7450.0,2025-10-06T18:58:53.698336Z,tv-it.com,https://tv-it.com/product-categories/oppo-mobiles
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop Best Mobile Honor in Egypt - Honor,8555.0,2025-10-06T18:58:53.698338Z,tv-it.com,https://tv-it.com/product-categories/mobile-honor#list
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop Best Mobile Nokia in Egypt - Nokia,1775.0,2025-10-06T18:58:53.698339Z,tv-it.com,https://tv-it.com/product-categories/nokia-mobiles
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop Best Mobile Infinix in Egypt - Infinix,4399.0,2025-10-06T18:58:53.698340Z,tv-it.com,https://tv-it.com/product-categories/infinix-mobiles
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop Best Mobile Vivo in Egypt - Vivo,27555.0,2025-10-06T18:58:53.698341Z,tv-it.com,https://tv-it.com/product-categories/vivo-mobiles
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop Best Mobile Lava in Egypt - Lava,800.0,2025-10-06T18:58:53.698342Z,tv-it.com,https://tv-it.com/product-categories/lava-mobiles
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop Best Mobile Mtouch in Egypt - Mtouch,615.0,2025-10-06T18:58:53.698343Z,tv-it.com,https://tv-it.com/product-categories/mtouch-mobiles
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop Best Mobile Ace in Egypt - Ace,650.0,2025-10-06T18:58:53.698345Z,tv-it.com,https://tv-it.com/product-categories/ace
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop Best Mobile Itel in Egypt - Itel,4099.0,2025-10-06T18:58:53.698346Z,tv-it.com,https://tv-it.com/product-categories/itel
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop Premium Accessories for Your Devices,2999.0,2025-10-06T18:58:53.698347Z,tv-it.com,https://tv-it.com/product-categories/accessories-1
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop Microsoft Surface Accessories in Egypt,6325.0,2025-10-06T18:58:53.698348Z,tv-it.com,https://tv-it.com/product-categories/microsoft-surface-accessories
-,,EGP,https://tv-it.com/storage/images.jpg,Shop Laptop - Computer Accessories in Egypt | Technology Valley,299.0,2025-10-06T18:58:53.698349Z,tv-it.com,https://tv-it.com/product-categories/laptop-computer-accessories
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop Webcam in Egypt | Technology Valley,4399.0,2025-10-06T18:58:53.698350Z,tv-it.com,https://tv-it.com/product-categories/webcam
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop Cooler Fan in Egypt | Technology Valley,250.0,2025-10-06T18:58:53.698351Z,tv-it.com,https://tv-it.com/product-categories/cooler-fan
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop Microphones in Egypt | Technology Valley,1050.0,2025-10-06T18:58:53.698353Z,tv-it.com,https://tv-it.com/product-categories/microphones
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop Cables and Power Strips in Egypt | Technology Valley,145.0,2025-10-06T18:58:53.698354Z,tv-it.com,https://tv-it.com/product-categories/cables-and-power-strips
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop Speaker in Egypt | Technology Valley,6499.0,2025-10-06T18:58:53.698355Z,tv-it.com,https://tv-it.com/product-categories/speaker
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop Bags & Sleeves in Egypt | Technology Valley,299.0,2025-10-06T18:58:53.698356Z,tv-it.com,https://tv-it.com/product-categories/bag-and-sleeve
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop Headset in Egypt | Technology Valley,5999.0,2025-10-06T18:58:53.698357Z,tv-it.com,https://tv-it.com/product-categories/headphone
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop Keyboard in Egypt | Technology Valley,1599.0,2025-10-06T18:58:53.698358Z,tv-it.com,https://tv-it.com/product-categories/keyboard
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop Mouse - Mouse Pad in Egypt | Technology Valley,175.0,2025-10-06T18:58:53.698360Z,tv-it.com,https://tv-it.com/product-categories/mouse-mousepad
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Presentation Remote,7100.0,2025-10-06T18:58:53.698361Z,tv-it.com,https://tv-it.com/product-categories/presentation-remote
-,,EGP,https://tv-it.com/storage/mobility.jpg,Shop Mobile Accessories in Egypt | Technology Valley,2999.0,2025-10-06T18:58:53.698362Z,tv-it.com,https://tv-it.com/product-categories/mobile-accessories
-,,EGP,https://tv-it.com/storage/1-16050910335a51.jpg,Shop Chargers and Adapters in Egypt | Technology Valley,325.0,2025-10-06T18:58:53.698363Z,tv-it.com,https://tv-it.com/product-categories/chargers-and-adapters
-,,EGP,https://tv-it.com/storage/61-uda1mkpl-ac-uf8941000-ql80.jpg,Shop Earbuds in Egypt | Technology Valley,2999.0,2025-10-06T18:58:53.698364Z,tv-it.com,https://tv-it.com/product-categories/earbuds
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop Earphones in Egypt | Technology Valley,175.0,2025-10-06T18:58:53.698365Z,tv-it.com,https://tv-it.com/product-categories/earphones
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop Wireless Headphones  in Egypt | Technology Valley,1099.0,2025-10-06T18:58:53.698366Z,tv-it.com,https://tv-it.com/product-categories/wireless-headphones
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop Bluetooth Speaker & Microphones in Egypt | Technology Valley,4444.0,2025-10-06T18:58:53.698368Z,tv-it.com,https://tv-it.com/product-categories/bluetooth-speaker-and-microphones
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop Powerbank in Egypt | Technology Valley,1555.0,2025-10-06T18:58:53.698369Z,tv-it.com,https://tv-it.com/product-categories/powerbank
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop Cables and Hubs  in Egypt | Technology Valley,120.0,2025-10-06T18:58:53.698370Z,tv-it.com,https://tv-it.com/product-categories/cables-and-hubs
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop Magnetic Charger in Egypt | Technology Valley,250.0,2025-10-06T18:58:53.698371Z,tv-it.com,https://tv-it.com/product-categories/magnetic-charger
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop Car Charger and Holders in Egypt | Technology Valley,299.0,2025-10-06T18:58:53.698372Z,tv-it.com,https://tv-it.com/product-categories/car-charger-and-holders
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop Ring light and Selfie Stick in Egypt | Technology Valley,850.0,2025-10-06T18:58:53.698374Z,tv-it.com,https://tv-it.com/product-categories/ring-light-and-selfie-stick
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop Smart Scale in Egypt | Technology Valley,799.0,2025-10-06T18:58:53.698375Z,tv-it.com,https://tv-it.com/product-categories/scale
-,,EGP,https://tv-it.com/storage/01g8eqh7x3frj93nqfh2.webp,Shop Gaming Accessories in Egypt | Technology Valley,5999.0,2025-10-06T18:58:53.698376Z,tv-it.com,https://tv-it.com/product-categories/gaming-accessories
-,,EGP,https://tv-it.com/storage/af8d7dc5880d606f6a92ae4b089d598b34a41ec5.webp,Shop Gaming in Egypt | Technology Valley,5999.0,2025-10-06T18:58:53.698377Z,tv-it.com,https://tv-it.com/product-categories/gaming-consoles-11
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop PlayStation in Egypt | Technology Valley,34500.0,2025-10-06T18:58:53.698378Z,tv-it.com,https://tv-it.com/product-categories/playstation-&-xbox-consoles
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop PS Account in Egypt | Technology Valley,0.0,2025-10-06T18:58:53.698379Z,tv-it.com,https://tv-it.com/product-categories/ps-account
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop PlayStation Games in Egypt | Technology Valley,625.0,2025-10-06T18:58:53.698381Z,tv-it.com,https://tv-it.com/product-categories/playstation-ps-games
-,,EGP,https://tv-it.com/storage/gadgets.png,Shop the Latest Home Appliances at Technology Valley | TV-IT,27500.0,2025-10-06T18:58:53.698382Z,tv-it.com,https://tv-it.com/product-categories/home-appliances-12
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop Best Air Conditioner inverter/Split in Egypt,23500.0,2025-10-06T18:58:53.698383Z,tv-it.com,https://tv-it.com/product-categories/air-conditioner-air-purifier
-,,EGP,https://tv-it.com/storage/3a-cdt-televisions.jpg,Shop Best Televisions in Egypt,7299.0,2025-10-06T18:58:53.698384Z,tv-it.com,https://tv-it.com/product-categories/televisions
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop TV Accessories in Egypt | Technology Valley,2750.0,2025-10-06T18:58:53.698385Z,tv-it.com,https://tv-it.com/product-categories/tv-accessories
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop Hair Products in Egypt | Technology Valley,1699.0,2025-10-06T18:58:53.698386Z,tv-it.com,https://tv-it.com/public/product-categories/hair-products
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop Kitchen Appliances in Egypt | Technology Valley,430.0,2025-10-06T18:58:53.698387Z,tv-it.com,https://tv-it.com/product-categories/kitchen
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop Kettle in Egypt | Technology Valley,430.0,2025-10-06T18:58:53.698388Z,tv-it.com,https://tv-it.com/product-categories/kettle
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop Kitchen Machine  in Egypt | Technology Valley,4999.0,2025-10-06T18:58:53.698390Z,tv-it.com,https://tv-it.com/product-categories/kitchen-machine
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop Food Processor in Egypt | Technology Valley,3699.0,2025-10-06T18:58:53.698391Z,tv-it.com,https://tv-it.com/product-categories/food-processor
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop Electric Blenders in Egypt | Technology Valley,799.0,2025-10-06T18:58:53.698392Z,tv-it.com,https://tv-it.com/product-categories/electric-blenders
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop Hand Blenders in Egypt | Technology Valley,1099.0,2025-10-06T18:58:53.698393Z,tv-it.com,https://tv-it.com/product-categories/hand-blenders
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Buy Best Food Chopper & Mincer in Egypt at Best Price,1150.0,2025-10-06T18:58:53.698394Z,tv-it.com,https://tv-it.com/product-categories/chopper
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop Hand Mixer in Egypt | Technology Valley,1890.0,2025-10-06T18:58:53.698395Z,tv-it.com,https://tv-it.com/product-categories/hand-mixer
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop Meat Grinder in Egypt | Technology Valley,2799.0,2025-10-06T18:58:53.698396Z,tv-it.com,https://tv-it.com/product-categories/meat-grinder
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop Sandwich Maker in Egypt | Technology Valley,2250.0,2025-10-06T18:58:53.698397Z,tv-it.com,https://tv-it.com/product-categories/sandwich-maker
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop Juicer in Egypt | Technology Valley,1280.0,2025-10-06T18:58:53.698398Z,tv-it.com,https://tv-it.com/product-categories/juicer
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Buy Best Air Fryer in Egypt at Best Price Online,3499.0,2025-10-06T18:58:53.698400Z,tv-it.com,https://tv-it.com/product-categories/fryer
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop Hot Plate in Egypt | Technology Valley,1050.0,2025-10-06T18:58:53.698401Z,tv-it.com,https://tv-it.com/product-categories/hot-plate#list
-,,EGP,https://tv-it.com/storage/6222013211455.webp,Shop Small Home Appliances in Egypt | Technology Valley,2190.0,2025-10-06T18:58:53.698402Z,tv-it.com,https://tv-it.com/product-categories/small-home-appliances
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop Water Heaters in Egypt | Technology Valley,3679.0,2025-10-06T18:58:53.698403Z,tv-it.com,https://tv-it.com/product-categories/water-heaters
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop Fans in Egypt | Technology Valley,840.0,2025-10-06T18:58:53.698404Z,tv-it.com,https://tv-it.com/product-categories/fans
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop Water Dispenser in Egypt | Technology Valley,6320.0,2025-10-06T18:58:53.698405Z,tv-it.com,https://tv-it.com/product-categories/water-dispenser
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop Vacuum Cleaner in Egypt | Technology Valley,2850.0,2025-10-06T18:58:53.698407Z,tv-it.com,https://tv-it.com/product-categories/vacuum-cleaner
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop Heater in Egypt | Technology Valley,2525.0,2025-10-06T18:58:53.698408Z,tv-it.com,https://tv-it.com/product-categories/heater
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop Steam Iron in Egypt | Technology Valley,999.0,2025-10-06T18:58:53.698409Z,tv-it.com,https://tv-it.com/product-categories/steam-iron-
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop Microwave in Egypt | Technology Valley,4050.0,2025-10-06T18:58:53.698410Z,tv-it.com,https://tv-it.com/product-categories/microwave
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop Suction Fan  in Egypt | Technology Valley,670.0,2025-10-06T18:58:53.698411Z,tv-it.com,https://tv-it.com/product-categories/ventilating-fan
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop Electric Ovens in Egypt | Technology Valley,2699.0,2025-10-06T18:58:53.698412Z,tv-it.com,https://tv-it.com/product-categories/electric-ovens
-,,EGP,https://tv-it.com/storage/large-appliances-is-amazons-most-lucrative-category-shutterstock-318473174.jpg,Shop Best Large Home Appliances in Egypt,27500.0,2025-10-06T18:58:53.698414Z,tv-it.com,https://tv-it.com/product-categories/large-home-appliances
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop Freezers in Egypt | Technology Valley,8600.0,2025-10-06T18:58:53.698415Z,tv-it.com,https://tv-it.com/product-categories/freezers
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop Refrigerators  in Egypt | Technology Valley,27500.0,2025-10-06T18:58:53.698416Z,tv-it.com,https://tv-it.com/product-categories/refrigerators
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Buy Best Freestanding Gas Cooker in Egypt at Best Price,10999.0,2025-10-06T18:58:53.698417Z,tv-it.com,https://tv-it.com/product-categories/freestanding-cookers
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop Washing Machine in Egypt | Technology Valley,8175.0,2025-10-06T18:58:53.698418Z,tv-it.com,https://tv-it.com/product-categories/washing-machine
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop Dish Washer in Egypt | Technology Valley,16199.0,2025-10-06T18:58:53.698420Z,tv-it.com,https://tv-it.com/product-categories/dish-washer#list
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop Built in Appliances in Egypt | Technology Valley,3980.0,2025-10-06T18:58:53.698421Z,tv-it.com,https://tv-it.com/product-categories/built-in
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop Built in Cookers in Egypt | Technology Valley,5405.0,2025-10-06T18:58:53.698422Z,tv-it.com,https://tv-it.com/product-categories/built-in-hobs-cookers#list
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop Built in ovens in Egypt | Technology Valley,15570.0,2025-10-06T18:58:53.698423Z,tv-it.com,https://tv-it.com/product-categories/built-in-ovens#list
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop Cooker Hood in Egypt | Technology Valley,3980.0,2025-10-06T18:58:53.698424Z,tv-it.com,https://tv-it.com/product-categories/cooker-hood
-,,EGP,https://tv-it.com/storage/61zjlboprl-ac-uf10001000-ql80.jpg,Shop for a touch watch Smart watch | Smart watch at the best price in Egypt,1850.0,2025-10-06T18:58:53.698425Z,tv-it.com,https://tv-it.com/product-categories/smart-watch
-,,EGP,https://tv-it.com/storage/41rr4cktsds-sl500-ac-sl500.jpg,Shop Best Laptops in Egypt,109999.0,2025-10-06T18:58:53.698426Z,tv-it.com,https://tv-it.com/product-categories/laptops-in-egypt
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop 2-in-1 Laptop with Best Price in Egypt | Technology Valley,72800.0,2025-10-06T18:58:53.698428Z,tv-it.com,https://tv-it.com/product-categories/2-in-1-laptop-1
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop Best Intel AI Laptop in Egypt - Intel AI Laptop,72800.0,2025-10-06T18:58:53.698429Z,tv-it.com,https://tv-it.com/product-categories/intel-ai-laptop
-,,EGP,https://tv-it.com/storage/lenovo-legion-7-16achg6-gaming-laptop-amd-ryzen-9-5900hx-technology.webp,Shop Best Computer Components in Egypt - Computer Components,2900.0,2025-10-06T18:58:53.698430Z,tv-it.com,https://tv-it.com/product-categories/computer-1
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop Scanner in Egypt | Technology Valley,3499.0,2025-10-06T18:58:53.698431Z,tv-it.com,https://tv-it.com/product-categories/scanner-4
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop Projector in Egypt | Technology Valley,12999.0,2025-10-06T18:58:53.698432Z,tv-it.com,https://tv-it.com/product-categories/projector-5
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop Flash Drives in Egypt | Technology Valley,300.0,2025-10-06T18:58:53.698434Z,tv-it.com,https://tv-it.com/product-categories/flash-drives
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop Memory Cards SD in Egypt | Technology Valley,2250.0,2025-10-06T18:58:53.698435Z,tv-it.com,https://tv-it.com/product-categories/memory-cards-sd
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop RAM in Egypt | Technology Valley,2900.0,2025-10-06T18:58:53.698436Z,tv-it.com,https://tv-it.com/product-categories/ram-50
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop HDD in Egypt | Technology Valley,19900.0,2025-10-06T18:58:53.698437Z,tv-it.com,https://tv-it.com/product-categories/hdd
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop SSD in Egypt | Technology Valley,15900.0,2025-10-06T18:58:53.698438Z,tv-it.com,https://tv-it.com/product-categories/sdd
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop PC Bundles with best Price in Egypt | Technology Valley,10666.0,2025-10-06T18:58:53.698439Z,tv-it.com,https://tv-it.com/product-categories/pc-bundles-egypt
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop Security Cameras in Egypt | Technology Valley,875.0,2025-10-06T18:58:53.698440Z,tv-it.com,https://tv-it.com/product-categories/security
-,,EGP,https://tv-it.com/storage/51ge3tjw5ul-sy355.jpg,Shop Routers in Egypt | Technology Valley,2025.0,2025-10-06T18:58:53.698441Z,tv-it.com,https://tv-it.com/product-categories/routers
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop UPS in Egypt | Technology Valley,8425.0,2025-10-06T18:58:53.698443Z,tv-it.com,https://tv-it.com/product-categories/ups
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop AirTag in Egypt | Technology Valley,4900.0,2025-10-06T18:58:53.698444Z,tv-it.com,https://tv-it.com/product-categories/airtag
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop Best Tablet Lava in Egypt - Lava Tablet,1810.0,2025-10-06T18:58:53.698445Z,tv-it.com,https://tv-it.com/product-categories/lava-tablets
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop Best Tablet Xiaomi in Egypt - Xiaomi Tablet,9799.0,2025-10-06T18:58:53.698446Z,tv-it.com,https://tv-it.com/product-categories/xiaomi
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop Best Tablet Honor in Egypt - Honor Tablet,15200.0,2025-10-06T18:58:53.698447Z,tv-it.com,https://tv-it.com/product-categories/tablet-honor
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop Best Mobile Honor in Egypt - Honor,8555.0,2025-10-06T18:58:53.698448Z,tv-it.com,https://tv-it.com/product-categories/mobile-honor
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop Gaming Keyboard - Gaming Mouse in Egypt | Technology Valley,7599.0,2025-10-06T18:58:53.698449Z,tv-it.com,https://tv-it.com/product-categories/gaming-keyboard-mouse
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop Gaming Headset in Egypt | Technology Valley,5999.0,2025-10-06T18:58:53.698450Z,tv-it.com,https://tv-it.com/product-categories/gaming-headset
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop Gaming Mousepad in Egypt | Technology Valley,549.0,2025-10-06T18:58:53.698451Z,tv-it.com,https://tv-it.com/product-categories/gaming-mousepad
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop Controllers - Gaming Pad in Egypt | Technology Valley,1299.0,2025-10-06T18:58:53.698452Z,tv-it.com,https://tv-it.com/product-categories/controller-and-gamepad
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop Gaming Desk - Gaming Chair in Egypt | Technology Valley,14500.0,2025-10-06T18:58:53.698453Z,tv-it.com,https://tv-it.com/product-categories/gaming-desk-chair
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop Racing Wheel and Shifter in Egypt | Technology Valley,3499.0,2025-10-06T18:58:53.698455Z,tv-it.com,https://tv-it.com/product-categories/driving-wheel-and-shifter
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop Gaming Chargers & Cables in Egypt | Technology Valley,799.0,2025-10-06T18:58:53.698456Z,tv-it.com,https://tv-it.com/product-categories/gaming-chargers-cables
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop Personal Care Products in Egypt | Technology Valley,1699.0,2025-10-06T18:58:53.698457Z,tv-it.com,https://tv-it.com/product-categories/personal-care-products
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop Hair Products in Egypt | Technology Valley,1699.0,2025-10-06T18:58:53.698458Z,tv-it.com,https://tv-it.com/product-categories/hair-products
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop Dish Washer in Egypt | Technology Valley,16199.0,2025-10-06T18:58:53.698460Z,tv-it.com,https://tv-it.com/product-categories/dish-washer
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop Hot Plate in Egypt | Technology Valley,1050.0,2025-10-06T18:58:53.698461Z,tv-it.com,https://tv-it.com/product-categories/hot-plate
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop Scooters & Equipment  in Egypt | Technology Valley,22999.0,2025-10-06T18:58:53.698462Z,tv-it.com,https://tv-it.com/product-categories/scooters-and-equipment
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop Electric Scooters in Egypt | Technology Valley,22999.0,2025-10-06T18:58:53.698463Z,tv-it.com,https://tv-it.com/product-categories/electric-scooters
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop Mobile Photo Printer in Egypt | Technology Valley,180.0,2025-10-06T18:58:53.698464Z,tv-it.com,https://tv-it.com/product-categories/mobile-photo-printer-vr-glasses
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop Stylus Pen in Egypt | Technology Valley,345.0,2025-10-06T18:58:53.698465Z,tv-it.com,https://tv-it.com/product-categories/stylus
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Hot Deals Products,10666.0,2025-10-06T18:58:53.698466Z,tv-it.com,https://tv-it.com/product-categories/hot-deals-products
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Mobile Offers,7450.0,2025-10-06T18:58:53.698467Z,tv-it.com,https://tv-it.com/product-categories/mobile-offers
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Xiaomi,6750.0,2025-10-06T18:58:53.698468Z,tv-it.com,https://tv-it.com/product-categories/xiaomi-1
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Samsung,19850.0,2025-10-06T18:58:53.698469Z,tv-it.com,https://tv-it.com/product-categories/samsung
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Vivo,22999.0,2025-10-06T18:58:53.698470Z,tv-it.com,https://tv-it.com/product-categories/vivo
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Itel,4099.0,2025-10-06T18:58:53.698472Z,tv-it.com,https://tv-it.com/product-categories/itel-1
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Oppo,7450.0,2025-10-06T18:58:53.698473Z,tv-it.com,https://tv-it.com/product-categories/oppo
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,NOKIA,899.0,2025-10-06T18:58:53.698474Z,tv-it.com,https://tv-it.com/product-categories/nokia
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Laptop Offers,24999.0,2025-10-06T18:58:53.698475Z,tv-it.com,https://tv-it.com/product-categories/laptop-offers
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Lenovo,24999.0,2025-10-06T18:58:53.698476Z,tv-it.com,https://tv-it.com/product-categories/lenovo-1
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Dell,41299.0,2025-10-06T18:58:53.698477Z,tv-it.com,https://tv-it.com/product-categories/dell
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Asus,25999.0,2025-10-06T18:58:53.698478Z,tv-it.com,https://tv-it.com/product-categories/asus-1
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,HP,57399.0,2025-10-06T18:58:53.698480Z,tv-it.com,https://tv-it.com/product-categories/hp
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Mobile Accessories Offers,1899.0,2025-10-06T18:58:53.698481Z,tv-it.com,https://tv-it.com/product-categories/mobile-accessories-offers
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Smart Watch,2999.0,2025-10-06T18:58:53.698482Z,tv-it.com,https://tv-it.com/product-categories/smart-watch-1
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Earphones,99.0,2025-10-06T18:58:53.698483Z,tv-it.com,https://tv-it.com/product-categories/earphones-1
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Charging Cable,120.0,2025-10-06T18:58:53.698484Z,tv-it.com,https://tv-it.com/product-categories/charging-cable
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Earbuds,1899.0,2025-10-06T18:58:53.698485Z,tv-it.com,https://tv-it.com/product-categories/earbuds-1
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Power Bank,1899.0,2025-10-06T18:58:53.698486Z,tv-it.com,https://tv-it.com/product-categories/power-bank
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Charger,150.0,2025-10-06T18:58:53.698487Z,tv-it.com,https://tv-it.com/product-categories/charger
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Playstation Offers,34500.0,2025-10-06T18:58:53.698488Z,tv-it.com,https://tv-it.com/product-categories/playstation-offers
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Playstation Games,625.0,2025-10-06T18:58:53.698490Z,tv-it.com,https://tv-it.com/product-categories/playstation-games
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,playstation,34500.0,2025-10-06T18:58:53.698491Z,tv-it.com,https://tv-it.com/product-categories/playstation
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,PC Component Offers,10666.0,2025-10-06T18:58:53.698492Z,tv-it.com,https://tv-it.com/product-categories/pc-component-offers
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,PC Monitors,3600.0,2025-10-06T18:58:53.698493Z,tv-it.com,https://tv-it.com/product-categories/pc-monitors
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,VGA Cards,9700.0,2025-10-06T18:58:53.698494Z,tv-it.com,https://tv-it.com/product-categories/vga-cards
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Gaming Bundles,10666.0,2025-10-06T18:58:53.698495Z,tv-it.com,https://tv-it.com/product-categories/gaming-bundles
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Motherboards,6900.0,2025-10-06T18:58:53.698496Z,tv-it.com,https://tv-it.com/product-categories/motherboards
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Processors,3900.0,2025-10-06T18:58:53.698497Z,tv-it.com,https://tv-it.com/product-categories/processors
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Rush Brush Offers,1699.0,2025-10-06T18:58:53.698498Z,tv-it.com,https://tv-it.com/product-categories/rush-brush
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Small Home Appliances Offers,999.0,2025-10-06T18:58:53.698499Z,tv-it.com,https://tv-it.com/product-categories/kenwood-offers
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Vacuum Cleaner,2850.0,2025-10-06T18:58:53.698500Z,tv-it.com,https://tv-it.com/product-categories/vacuum-cleaner-1
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Steam Irons,999.0,2025-10-06T18:58:53.698502Z,tv-it.com,https://tv-it.com/product-categories/steam-irons-1
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Microwave,5999.0,2025-10-06T18:58:53.698503Z,tv-it.com,https://tv-it.com/product-categories/microwave-1
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Water Heater,3050.0,2025-10-06T18:58:53.698504Z,tv-it.com,https://tv-it.com/product-categories/water-heater
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Television Deals | Best Discounts and Offers | Technology Valley,7299.0,2025-10-06T18:58:53.698505Z,tv-it.com,https://tv-it.com/product-categories/tv-offers
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Samsung,19999.0,2025-10-06T18:58:53.698506Z,tv-it.com,https://tv-it.com/product-categories/samsung-tv
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,LG,18999.0,2025-10-06T18:58:53.698507Z,tv-it.com,https://tv-it.com/product-categories/lg
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop Now Large Home Appliances Deals | Best Discounts and Offers | Technology Valley,20500.0,2025-10-06T18:58:53.698508Z,tv-it.com,https://tv-it.com/product-categories/refrigerators-offers
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Refrigerators Deals | Best Discounts and Offers on Refrigerators,20500.0,2025-10-06T18:58:53.698510Z,tv-it.com,https://tv-it.com/product-categories/refrigerators-2
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Washing Machine Deals | Best Discounts and Offers | Technology Valley,13245.0,2025-10-06T18:58:53.698511Z,tv-it.com,https://tv-it.com/product-categories/washing-machines
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Built in Hoods,4999.0,2025-10-06T18:58:53.698512Z,tv-it.com,https://tv-it.com/product-categories/cooker-hoods
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Built in Cooker,10200.0,2025-10-06T18:58:53.698513Z,tv-it.com,https://tv-it.com/product-categories/built-in-cooker
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Buy Best Freestanding Gas Cooker in Egypt at Best Price,16199.0,2025-10-06T18:58:53.698514Z,tv-it.com,https://tv-it.com/product-categories/gas-cookers
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,El ARABY Offers,27500.0,2025-10-06T18:58:53.698515Z,tv-it.com,https://tv-it.com/product-categories/el-araby-offers
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Washing Machine,11999.0,2025-10-06T18:58:53.698516Z,tv-it.com,https://tv-it.com/product-categories/al-araby-offers
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Refrigerators,27500.0,2025-10-06T18:58:53.698517Z,tv-it.com,https://tv-it.com/product-categories/refrigerators-1
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Microwave and Electric Ovens,5299.0,2025-10-06T18:58:53.698518Z,tv-it.com,https://tv-it.com/product-categories/microwave-and-electric-ovens
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Freezers,20500.0,2025-10-06T18:58:53.698519Z,tv-it.com,https://tv-it.com/product-categories/freezers-2
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Air Conditioner,33075.0,2025-10-06T18:58:53.698520Z,tv-it.com,https://tv-it.com/product-categories/air-conditioner
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,TVs,7299.0,2025-10-06T18:58:53.698521Z,tv-it.com,https://tv-it.com/product-categories/tvs
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Vacuum Cleaner,3700.0,2025-10-06T18:58:53.698522Z,tv-it.com,https://tv-it.com/product-categories/vacuum-cleaner-2
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Water Heater,3079.0,2025-10-06T18:58:53.698523Z,tv-it.com,https://tv-it.com/product-categories/water-heater-1
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Kitchen Appliances,1099.0,2025-10-06T18:58:53.698525Z,tv-it.com,https://tv-it.com/product-categories/kitchen-appliances
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Dish Washer,17799.0,2025-10-06T18:58:53.698526Z,tv-it.com,https://tv-it.com/product-categories/dish-washer-2
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Fan,1250.0,2025-10-06T18:58:53.698527Z,tv-it.com,https://tv-it.com/product-categories/fan
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Ventilating Fan,1235.0,2025-10-06T18:58:53.698528Z,tv-it.com,https://tv-it.com/product-categories/ventilating-fan-1
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Water Dispenser,6500.0,2025-10-06T18:58:53.698529Z,tv-it.com,https://tv-it.com/product-categories/water-dispenser-1
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Steam Iron,2970.0,2025-10-06T18:58:53.698530Z,tv-it.com,https://tv-it.com/product-categories/steam-iron
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Cooker and Cooker Hoods,18849.0,2025-10-06T18:58:53.698531Z,tv-it.com,https://tv-it.com/product-categories/freestanding-cooker
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Back to Campus,4400.0,2025-10-06T18:58:53.698533Z,tv-it.com,https://tv-it.com/product-categories/back-to-campus
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop Best Selling Products in Egypt | Technology Valley,599.0,2025-10-06T18:58:53.698534Z,tv-it.com,https://tv-it.com/product-categories/best-selling
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Shop Outlet Products in Egypt | Technology Valley,575.0,2025-10-06T18:58:53.698535Z,tv-it.com,https://tv-it.com/product-categories/outlet
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Search result for,3600.0,2025-10-06T18:58:53.698536Z,tv-it.com,https://tv-it.com/products?categories%5B%5D=6&q=lenovo
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Search result for,194999.0,2025-10-06T18:58:53.698537Z,tv-it.com,https://tv-it.com/products?categories%5B0%5D=0&q=legion%20pro%207
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Search result for,34999.0,2025-10-06T18:58:53.698539Z,tv-it.com,https://tv-it.com/products?categories%5B%5D=0&q=Lenovo+LOQ+15
-,,EGP,https://tv-it.com/storage/shada/lenovo/ideapad-duet3-p1.webp,Lenovo IdeaPad Duet 3 11IAN8 4GB RAM 128GB | Technology Valley,18333.0,2025-10-06T18:58:53.698540Z,tv-it.com,https://tv-it.com/products/lenovo-ideapad-duet-3-11ian8-82xk0032ed
-,,EGP,https://tv-it.com/storage/shada/asus-warranty-logo/asus-zenbook-s14-oled-1.webp,"ASUS ZenBook S14 Laptop | Intel Core Ultra 7 258V, Intel Arc, 32GB RAM",92199.0,2025-10-06T18:58:53.698541Z,tv-it.com,https://tv-it.com/products/asus-zenbook-s14-oled-ux5406sa-pv007w-laptop
-,,EGP,https://tv-it.com/storage/product-categories/logo-tv-1.png,Technology Valley,109999.0,2025-10-06T18:58:53.698542Z,tv-it.com,https://tv-it.com/products
+id,product name,product price,currency,product url,site name,time stamp
+6d533d996179,Shop Best Laptops in Egypt,109999.0,EGP,https://tv-it.com/public/product-categories/laptops-in-egypt,tv-it.com,2025-10-07T01:08:39.405417Z
+777d161a63fd,Shop Best Gaming Laptop in Egypt - Gaming Laptop,109999.0,EGP,https://tv-it.com/product-categories/gaming-laptop,tv-it.com,2025-10-07T01:08:39.405417Z
+bb778e8f0454,Buy Business Laptop with Best Price in Egypt | Technology Valley,20999.0,EGP,https://tv-it.com/product-categories/business-laptops,tv-it.com,2025-10-07T01:08:39.405417Z
+2148688f8a8c,Shop Student Laptop with Best Price in Egypt | Technology Valley,25555.0,EGP,https://tv-it.com/product-categories/economic-laptops-1,tv-it.com,2025-10-07T01:08:39.405417Z
+d86bf95f7bec,Shop Best Intel AI Laptop in Egypt - Intel AI Laptop,72800.0,EGP,https://tv-it.com/product-categories/intel-ai-laptop#list,tv-it.com,2025-10-07T01:08:39.405417Z
+6cf7176948a7,Shop 2-in-1 Laptop with Best Price in Egypt | Technology Valley,72800.0,EGP,https://tv-it.com/product-categories/2-in-1-laptop-1#list,tv-it.com,2025-10-07T01:08:39.405417Z
+88e02e367a32,Best Laptop Lenovo and Lenovo Tablet in Egypt,84999.0,EGP,https://tv-it.com/product-categories/lenovo,tv-it.com,2025-10-07T01:08:39.405417Z
+254e67c9c95c,Shop Asus Laptop - Gaming Laptop in Egypt,109999.0,EGP,https://tv-it.com/product-categories/asus,tv-it.com,2025-10-07T01:08:39.405417Z
+8093680a9491,Buy MSI Laptop with Best Price in Egypt | Technology Valley,23999.0,EGP,https://tv-it.com/product-categories/msi-laptops,tv-it.com,2025-10-07T01:08:39.405417Z
+262cf27bf344,Buy Laptop HP with Best Price in Egypt | Technology Valley,62999.0,EGP,https://tv-it.com/product-categories/hp-laptops,tv-it.com,2025-10-07T01:08:39.405417Z
+630bf57af963,Buy Dell Laptop with Best Price in Egypt | Technology Valley,20999.0,EGP,https://tv-it.com/product-categories/dell-laptops,tv-it.com,2025-10-07T01:08:39.405417Z
+0dbfdb3b7112,Buy Laptop Acer with Best Price in Egypt | Technology Valley,31099.0,EGP,https://tv-it.com/product-categories/acer-laptops,tv-it.com,2025-10-07T01:08:39.405417Z
+0db6a917a30f,Shop Best Laptop Huawei in Egypt - Laptop Huawei,23999.0,EGP,https://tv-it.com/product-categories/huawei-1,tv-it.com,2025-10-07T01:08:39.405417Z
+9829a3614697,Shop Macbook in Egypt | Technology Valley,52000.0,EGP,https://tv-it.com/product-categories/macbook,tv-it.com,2025-10-07T01:08:39.405417Z
+443934825a94,Buy Microsoft Surface Laptop wirh Best Price in Egypt | Technology Valley,0.0,EGP,https://tv-it.com/product-categories/microsoft,tv-it.com,2025-10-07T01:08:39.405417Z
+c6db0f8da5b1,Shop Best Computer Components in Egypt - Computer Components,2900.0,EGP,https://tv-it.com/public/product-categories/computer-1,tv-it.com,2025-10-07T01:08:39.405417Z
+56894f434851,Build Your PC in Egypt | Technology Valley,4400.0,EGP,https://tv-it.com/product-categories/computer-components-14,tv-it.com,2025-10-07T01:08:39.405417Z
+608b6adb0b70,Shop Processor in Egypt | Technology Valley,10400.0,EGP,https://tv-it.com/product-categories/processor,tv-it.com,2025-10-07T01:08:39.405417Z
+d4ff69002438,Shop Motherboard in Egypt | Technology Valley,4400.0,EGP,https://tv-it.com/product-categories/motherboard,tv-it.com,2025-10-07T01:08:39.405417Z
+81411e43421b,Shop Graphic Cards in Egypt | Technology Valley,18999.0,EGP,https://tv-it.com/product-categories/graphics-cards,tv-it.com,2025-10-07T01:08:39.405417Z
+36fe1bc6daa5,Shop Computer Case in Egypt | Technology Valley,3500.0,EGP,https://tv-it.com/product-categories/computer-case,tv-it.com,2025-10-07T01:08:39.405417Z
+f1ab5859f117,Shop Computer Fans in Egypt | Technology Valley,4500.0,EGP,https://tv-it.com/product-categories/computer-fans,tv-it.com,2025-10-07T01:08:39.405417Z
+57d3867a69c6,Shop Power Supply in Egypt | Technology Valley,2200.0,EGP,https://tv-it.com/product-categories/power-supply,tv-it.com,2025-10-07T01:08:39.405417Z
+26bcf5463f7c,Shop Best Gaming PC - PC Bundle with best Price in Egypt,10666.0,EGP,https://tv-it.com/product-categories/gaming-pcs-17,tv-it.com,2025-10-07T01:08:39.405417Z
+7560c3e7b12a,Computer Monitor | Technology Valley,47250.0,EGP,https://tv-it.com/product-categories/monitor-6,tv-it.com,2025-10-07T01:08:39.405417Z
+60a0db7f98ae,Shop Best Desktop Price in Egypt -  Desktop,18250.0,EGP,https://tv-it.com/product-categories/desktop,tv-it.com,2025-10-07T01:08:39.405417Z
+2666a107e2e4,Shop Printers with best Price in Egypt | Technology Valley,3499.0,EGP,https://tv-it.com/product-categories/printers,tv-it.com,2025-10-07T01:08:39.405417Z
+e37cea4cac54,Shop Multi-Function Printers with best Price in Egypt | Technology Valley,8250.0,EGP,https://tv-it.com/product-categories/multi-function-printers,tv-it.com,2025-10-07T01:08:39.405417Z
+b49319df6691,Shop laser Printers in Egypt | Technology Valley,7999.0,EGP,https://tv-it.com/product-categories/laser-printers,tv-it.com,2025-10-07T01:08:39.405417Z
+a062df4e853f,Shop InkJet Printers with best Price in Egypt | Technology Valley,8250.0,EGP,https://tv-it.com/product-categories/inkjet-printers,tv-it.com,2025-10-07T01:08:39.405417Z
+b673ef146f6e,Shop Printer Ink & Toner in Egypt | Technology Valley,380.0,EGP,https://tv-it.com/product-categories/printer-ink-toner,tv-it.com,2025-10-07T01:08:39.405417Z
+f395fc778823,Shop Software in Egypt | Technology Valley,200.0,EGP,https://tv-it.com/product-categories/software,tv-it.com,2025-10-07T01:08:39.405417Z
+1c8424457247,Shop Storage in Egypt | Technology Valley,2900.0,EGP,https://tv-it.com/product-categories/storage-7,tv-it.com,2025-10-07T01:08:39.405417Z
+556411e936c9,Shop Network in Egypt | Technology Valley,875.0,EGP,https://tv-it.com/product-categories/network-8,tv-it.com,2025-10-07T01:08:39.405417Z
+f90b75b8ce39,Shop Security Cameras in Egypt | Technology Valley,875.0,EGP,https://tv-it.com/product-categories/security#list,tv-it.com,2025-10-07T01:08:39.405417Z
+8f4c7e2eb4b8,Shop Routers in Egypt | Technology Valley,2025.0,EGP,https://tv-it.com/product-categories/routers#list,tv-it.com,2025-10-07T01:08:39.405417Z
+b31b889d8eae,Time Attendance Device,1950.0,EGP,https://tv-it.com/product-categories/time-attendance,tv-it.com,2025-10-07T01:08:39.405417Z
+19c45016f694,Shop UPS in Egypt | Technology Valley,8425.0,EGP,https://tv-it.com/product-categories/ups#list,tv-it.com,2025-10-07T01:08:39.405417Z
+90a025a92ac3,"""Shop Best iPhone prices in Egypt """,115500.0,EGP,https://tv-it.com/product-categories/apple-16,tv-it.com,2025-10-07T01:08:39.405417Z
+452a95ed6df2,Shop Best iPhone prices in Egypt,115500.0,EGP,https://tv-it.com/product-categories/iphone,tv-it.com,2025-10-07T01:08:39.405417Z
+953076c0f309,Shop iPad in Egypt | Technology Valley,67500.0,EGP,https://tv-it.com/product-categories/ipad,tv-it.com,2025-10-07T01:08:39.405417Z
+3f5a7a605e8b,Shop Apple Pencil in Egypt | Technology Valley,10500.0,EGP,https://tv-it.com/product-categories/pencil,tv-it.com,2025-10-07T01:08:39.405417Z
+1d86e648a5d8,Shop Apple Watch in Egypt | Technology Valley,22800.0,EGP,https://tv-it.com/product-categories/watch,tv-it.com,2025-10-07T01:08:39.405417Z
+437b49d54b99,Shop Air Pod in Egypt | Technology Valley,760.0,EGP,https://tv-it.com/product-categories/air-pod,tv-it.com,2025-10-07T01:08:39.405417Z
+339dd882158f,Shop Apple Power Adapter in Egypt | Technology Valley,205.0,EGP,https://tv-it.com/product-categories/power-adapter,tv-it.com,2025-10-07T01:08:39.405417Z
+ae658b4b1e42,Shop iPad Keyboard in Egypt | Technology Valley,19400.0,EGP,https://tv-it.com/product-categories/ipad-keyboard,tv-it.com,2025-10-07T01:08:39.405417Z
+48e7082bedaa,Shop the Latest Mobile Phones at Technology Valley | TV-IT,7390.0,EGP,https://tv-it.com/product-categories/mobiles-18,tv-it.com,2025-10-07T01:08:39.405417Z
+21c6d94c5234,Shop the Latest Tablet at Technology Valley | TV-IT,12699.0,EGP,https://tv-it.com/product-categories/tablet-19,tv-it.com,2025-10-07T01:08:39.405417Z
+6b8b09867474,Shop Best Tablet Lenovo in Egypt - Lenovo Tablet,12699.0,EGP,https://tv-it.com/product-categories/lenovo-tablets,tv-it.com,2025-10-07T01:08:39.405417Z
+580c6c1e7d6f,Shop Best Tablet Huawei in Egypt - Huawei Tablet,25699.0,EGP,https://tv-it.com/product-categories/huawei-tablets,tv-it.com,2025-10-07T01:08:39.405417Z
+752fc8fc9200,Shop Best Tablet Samsung in Egypt - Samsung Galaxy Tablet,7050.0,EGP,https://tv-it.com/product-categories/samsung-tablets,tv-it.com,2025-10-07T01:08:39.405417Z
+5208a698b290,Shop Best Tablet Nokia in Egypt - Nokia Tablet,5250.0,EGP,https://tv-it.com/product-categories/nokia-tablets,tv-it.com,2025-10-07T01:08:39.405417Z
+153e6e0ee992,Shop Best Mobile Samsung in Egypt - Samsung Galaxy,7390.0,EGP,https://tv-it.com/product-categories/samsung-mobiles,tv-it.com,2025-10-07T01:08:39.405417Z
+daf598b46f39,Shop Best Mobile Xiaomi in Egypt - Xiaomi Redmi,6750.0,EGP,https://tv-it.com/product-categories/xiaomi-mobiles,tv-it.com,2025-10-07T01:08:39.405417Z
+38b2b538e88c,Shop Best Mobile Realme in Egypt - Realme,13199.0,EGP,https://tv-it.com/product-categories/realme-mobiles,tv-it.com,2025-10-07T01:08:39.405417Z
+204414398e8c,Shop Best Mobile OPPO in Egypt - Oppo - Oppo Reno,7450.0,EGP,https://tv-it.com/product-categories/oppo-mobiles,tv-it.com,2025-10-07T01:08:39.405417Z
+4867f2326b66,Shop Best Mobile Honor in Egypt - Honor,8555.0,EGP,https://tv-it.com/product-categories/mobile-honor#list,tv-it.com,2025-10-07T01:08:39.405417Z
+4463210a7861,Shop Best Mobile Nokia in Egypt - Nokia,1775.0,EGP,https://tv-it.com/product-categories/nokia-mobiles,tv-it.com,2025-10-07T01:08:39.405417Z
+ef9e9c26cb7d,Shop Best Mobile Infinix in Egypt - Infinix,4399.0,EGP,https://tv-it.com/product-categories/infinix-mobiles,tv-it.com,2025-10-07T01:08:39.405417Z
+f8f732d1eedc,Shop Best Mobile Vivo in Egypt - Vivo,27555.0,EGP,https://tv-it.com/product-categories/vivo-mobiles,tv-it.com,2025-10-07T01:08:39.405417Z
+132256925698,Shop Best Mobile Lava in Egypt - Lava,800.0,EGP,https://tv-it.com/product-categories/lava-mobiles,tv-it.com,2025-10-07T01:08:39.405417Z
+4b569974d56e,Shop Best Mobile Mtouch in Egypt - Mtouch,615.0,EGP,https://tv-it.com/product-categories/mtouch-mobiles,tv-it.com,2025-10-07T01:08:39.405417Z
+133bbded4b21,Shop Best Mobile Ace in Egypt - Ace,650.0,EGP,https://tv-it.com/product-categories/ace,tv-it.com,2025-10-07T01:08:39.405417Z
+a80aa7b7fab9,Shop Best Mobile Itel in Egypt - Itel,4099.0,EGP,https://tv-it.com/product-categories/itel,tv-it.com,2025-10-07T01:08:39.405417Z
+e73b276b37c8,Shop Premium Accessories for Your Devices,2999.0,EGP,https://tv-it.com/product-categories/accessories-1,tv-it.com,2025-10-07T01:08:39.405417Z
+6a1474aa7dfe,Shop Microsoft Surface Accessories in Egypt,6325.0,EGP,https://tv-it.com/product-categories/microsoft-surface-accessories,tv-it.com,2025-10-07T01:08:39.405417Z
+a392c2cd1cdd,Shop Laptop - Computer Accessories in Egypt | Technology Valley,299.0,EGP,https://tv-it.com/product-categories/laptop-computer-accessories,tv-it.com,2025-10-07T01:08:39.405417Z
+86383e489d9c,Shop Webcam in Egypt | Technology Valley,4399.0,EGP,https://tv-it.com/product-categories/webcam,tv-it.com,2025-10-07T01:08:39.405417Z
+ec54571dbc94,Shop Cooler Fan in Egypt | Technology Valley,250.0,EGP,https://tv-it.com/product-categories/cooler-fan,tv-it.com,2025-10-07T01:08:39.405417Z
+6c353925c855,Shop Microphones in Egypt | Technology Valley,1050.0,EGP,https://tv-it.com/product-categories/microphones,tv-it.com,2025-10-07T01:08:39.405417Z
+8699c8bc0fb1,Shop Cables and Power Strips in Egypt | Technology Valley,145.0,EGP,https://tv-it.com/product-categories/cables-and-power-strips,tv-it.com,2025-10-07T01:08:39.405417Z
+2145d956892e,Shop Speaker in Egypt | Technology Valley,6499.0,EGP,https://tv-it.com/product-categories/speaker,tv-it.com,2025-10-07T01:08:39.405417Z
+a6de4e4b7856,Shop Bags & Sleeves in Egypt | Technology Valley,299.0,EGP,https://tv-it.com/product-categories/bag-and-sleeve,tv-it.com,2025-10-07T01:08:39.405417Z
+1c6bcdcb77a6,Shop Headset in Egypt | Technology Valley,5999.0,EGP,https://tv-it.com/product-categories/headphone,tv-it.com,2025-10-07T01:08:39.405417Z
+e7e8bb43e43e,Shop Keyboard in Egypt | Technology Valley,1599.0,EGP,https://tv-it.com/product-categories/keyboard,tv-it.com,2025-10-07T01:08:39.405417Z
+ec8602ef53f6,Shop Mouse - Mouse Pad in Egypt | Technology Valley,175.0,EGP,https://tv-it.com/product-categories/mouse-mousepad,tv-it.com,2025-10-07T01:08:39.405417Z
+256fc16f33b0,Presentation Remote,7100.0,EGP,https://tv-it.com/product-categories/presentation-remote,tv-it.com,2025-10-07T01:08:39.405417Z
+df27f0f91c6d,Shop Mobile Accessories in Egypt | Technology Valley,2999.0,EGP,https://tv-it.com/product-categories/mobile-accessories,tv-it.com,2025-10-07T01:08:39.405417Z
+665ae8e248a9,Shop Chargers and Adapters in Egypt | Technology Valley,325.0,EGP,https://tv-it.com/product-categories/chargers-and-adapters,tv-it.com,2025-10-07T01:08:39.405417Z
+e8077bae638f,Shop Earbuds in Egypt | Technology Valley,2999.0,EGP,https://tv-it.com/product-categories/earbuds,tv-it.com,2025-10-07T01:08:39.405417Z
+637ab285f444,Shop Earphones in Egypt | Technology Valley,175.0,EGP,https://tv-it.com/product-categories/earphones,tv-it.com,2025-10-07T01:08:39.405417Z
+0efcb37cb81d,Shop Wireless Headphones  in Egypt | Technology Valley,1099.0,EGP,https://tv-it.com/product-categories/wireless-headphones,tv-it.com,2025-10-07T01:08:39.405417Z
+5bf3750f9e4e,Shop Bluetooth Speaker & Microphones in Egypt | Technology Valley,4444.0,EGP,https://tv-it.com/product-categories/bluetooth-speaker-and-microphones,tv-it.com,2025-10-07T01:08:39.405417Z
+0e8599308705,Shop Powerbank in Egypt | Technology Valley,1555.0,EGP,https://tv-it.com/product-categories/powerbank,tv-it.com,2025-10-07T01:08:39.405417Z
+ca66d0e6b3d6,Shop Cables and Hubs  in Egypt | Technology Valley,120.0,EGP,https://tv-it.com/product-categories/cables-and-hubs,tv-it.com,2025-10-07T01:08:39.405417Z
+ce5dae9f3a5f,Shop Magnetic Charger in Egypt | Technology Valley,250.0,EGP,https://tv-it.com/product-categories/magnetic-charger,tv-it.com,2025-10-07T01:08:39.405417Z
+912b07eac2cf,Shop Car Charger and Holders in Egypt | Technology Valley,299.0,EGP,https://tv-it.com/product-categories/car-charger-and-holders,tv-it.com,2025-10-07T01:08:39.405417Z
+52b8aeb0cac4,Shop Ring light and Selfie Stick in Egypt | Technology Valley,850.0,EGP,https://tv-it.com/product-categories/ring-light-and-selfie-stick,tv-it.com,2025-10-07T01:08:39.405417Z
+83501e55fd55,Shop Smart Scale in Egypt | Technology Valley,799.0,EGP,https://tv-it.com/product-categories/scale,tv-it.com,2025-10-07T01:08:39.405417Z
+e444d95d3290,Shop Gaming Accessories in Egypt | Technology Valley,5999.0,EGP,https://tv-it.com/product-categories/gaming-accessories,tv-it.com,2025-10-07T01:08:39.405417Z
+2bab913d6979,Shop Gaming in Egypt | Technology Valley,5999.0,EGP,https://tv-it.com/product-categories/gaming-consoles-11,tv-it.com,2025-10-07T01:08:39.405417Z
+df6ce682b29f,Shop PlayStation in Egypt | Technology Valley,34500.0,EGP,https://tv-it.com/product-categories/playstation-&-xbox-consoles,tv-it.com,2025-10-07T01:08:39.405417Z
+d3b87c2abf8a,Shop PS Account in Egypt | Technology Valley,0.0,EGP,https://tv-it.com/product-categories/ps-account,tv-it.com,2025-10-07T01:08:39.405417Z
+a08788e83b55,Shop PlayStation Games in Egypt | Technology Valley,625.0,EGP,https://tv-it.com/product-categories/playstation-ps-games,tv-it.com,2025-10-07T01:08:39.405417Z
+f249ac69f56e,Shop the Latest Home Appliances at Technology Valley | TV-IT,27500.0,EGP,https://tv-it.com/product-categories/home-appliances-12,tv-it.com,2025-10-07T01:08:39.405417Z
+1b83b8f55c0f,Shop Best Air Conditioner inverter/Split in Egypt,23500.0,EGP,https://tv-it.com/product-categories/air-conditioner-air-purifier,tv-it.com,2025-10-07T01:08:39.405417Z
+bc1b02da536f,Shop Best Televisions in Egypt,7299.0,EGP,https://tv-it.com/product-categories/televisions,tv-it.com,2025-10-07T01:08:39.405417Z
+acabd7cb95e9,Shop TV Accessories in Egypt | Technology Valley,2750.0,EGP,https://tv-it.com/product-categories/tv-accessories,tv-it.com,2025-10-07T01:08:39.405417Z
+7d831278e43c,Shop Hair Products in Egypt | Technology Valley,1699.0,EGP,https://tv-it.com/public/product-categories/hair-products,tv-it.com,2025-10-07T01:08:39.405417Z
+3b02af7837e7,Shop Kitchen Appliances in Egypt | Technology Valley,430.0,EGP,https://tv-it.com/product-categories/kitchen,tv-it.com,2025-10-07T01:08:39.405417Z
+95530bcc2f5d,Shop Kettle in Egypt | Technology Valley,430.0,EGP,https://tv-it.com/product-categories/kettle,tv-it.com,2025-10-07T01:08:39.405417Z
+1a934adb63fd,Shop Kitchen Machine  in Egypt | Technology Valley,4999.0,EGP,https://tv-it.com/product-categories/kitchen-machine,tv-it.com,2025-10-07T01:08:39.405417Z
+b5c9cc38bf4e,Shop Food Processor in Egypt | Technology Valley,3699.0,EGP,https://tv-it.com/product-categories/food-processor,tv-it.com,2025-10-07T01:08:39.405417Z
+2adaba6f08a2,Shop Electric Blenders in Egypt | Technology Valley,799.0,EGP,https://tv-it.com/product-categories/electric-blenders,tv-it.com,2025-10-07T01:08:39.405417Z
+0b419499da6c,Shop Hand Blenders in Egypt | Technology Valley,1099.0,EGP,https://tv-it.com/product-categories/hand-blenders,tv-it.com,2025-10-07T01:08:39.405417Z
+768328229bdf,Buy Best Food Chopper & Mincer in Egypt at Best Price,1150.0,EGP,https://tv-it.com/product-categories/chopper,tv-it.com,2025-10-07T01:08:39.405417Z
+94fefc40c77c,Shop Hand Mixer in Egypt | Technology Valley,1890.0,EGP,https://tv-it.com/product-categories/hand-mixer,tv-it.com,2025-10-07T01:08:39.405417Z
+ad9f7311ecca,Shop Meat Grinder in Egypt | Technology Valley,2799.0,EGP,https://tv-it.com/product-categories/meat-grinder,tv-it.com,2025-10-07T01:08:39.405417Z
+812f375e7b3e,Shop Sandwich Maker in Egypt | Technology Valley,2250.0,EGP,https://tv-it.com/product-categories/sandwich-maker,tv-it.com,2025-10-07T01:08:39.405417Z
+eaca49ae0c5c,Shop Juicer in Egypt | Technology Valley,1280.0,EGP,https://tv-it.com/product-categories/juicer,tv-it.com,2025-10-07T01:08:39.405417Z
+b3102811e8c8,Buy Best Air Fryer in Egypt at Best Price Online,3499.0,EGP,https://tv-it.com/product-categories/fryer,tv-it.com,2025-10-07T01:08:39.405417Z
+3674335417ef,Shop Hot Plate in Egypt | Technology Valley,1050.0,EGP,https://tv-it.com/product-categories/hot-plate#list,tv-it.com,2025-10-07T01:08:39.405417Z
+944546fa648e,Shop Small Home Appliances in Egypt | Technology Valley,2190.0,EGP,https://tv-it.com/product-categories/small-home-appliances,tv-it.com,2025-10-07T01:08:39.405417Z
+7ae53e767e3d,Shop Water Heaters in Egypt | Technology Valley,3679.0,EGP,https://tv-it.com/product-categories/water-heaters,tv-it.com,2025-10-07T01:08:39.405417Z
+3952dd86d530,Shop Fans in Egypt | Technology Valley,840.0,EGP,https://tv-it.com/product-categories/fans,tv-it.com,2025-10-07T01:08:39.405417Z
+aaeec4083f22,Shop Water Dispenser in Egypt | Technology Valley,6320.0,EGP,https://tv-it.com/product-categories/water-dispenser,tv-it.com,2025-10-07T01:08:39.405417Z
+a999976c298d,Shop Vacuum Cleaner in Egypt | Technology Valley,2850.0,EGP,https://tv-it.com/product-categories/vacuum-cleaner,tv-it.com,2025-10-07T01:08:39.405417Z
+37f9530c3579,Shop Heater in Egypt | Technology Valley,2525.0,EGP,https://tv-it.com/product-categories/heater,tv-it.com,2025-10-07T01:08:39.405417Z
+a3766b2cbfb3,Shop Steam Iron in Egypt | Technology Valley,999.0,EGP,https://tv-it.com/product-categories/steam-iron-,tv-it.com,2025-10-07T01:08:39.405417Z
+13fdaf8aa1ab,Shop Microwave in Egypt | Technology Valley,4050.0,EGP,https://tv-it.com/product-categories/microwave,tv-it.com,2025-10-07T01:08:39.405417Z
+bc19ab1203a3,Shop Suction Fan  in Egypt | Technology Valley,670.0,EGP,https://tv-it.com/product-categories/ventilating-fan,tv-it.com,2025-10-07T01:08:39.405417Z
+4d8fd70f3917,Shop Electric Ovens in Egypt | Technology Valley,2699.0,EGP,https://tv-it.com/product-categories/electric-ovens,tv-it.com,2025-10-07T01:08:39.405417Z
+1be4a996b623,Shop Best Large Home Appliances in Egypt,27500.0,EGP,https://tv-it.com/product-categories/large-home-appliances,tv-it.com,2025-10-07T01:08:39.405417Z
+25fd9069e462,Shop Freezers in Egypt | Technology Valley,8600.0,EGP,https://tv-it.com/product-categories/freezers,tv-it.com,2025-10-07T01:08:39.405417Z
+a3fa3f1e7052,Shop Refrigerators  in Egypt | Technology Valley,27500.0,EGP,https://tv-it.com/product-categories/refrigerators,tv-it.com,2025-10-07T01:08:39.405417Z
+f50a634af2e9,Buy Best Freestanding Gas Cooker in Egypt at Best Price,10999.0,EGP,https://tv-it.com/product-categories/freestanding-cookers,tv-it.com,2025-10-07T01:08:39.405417Z
+72065ec6cfb4,Shop Washing Machine in Egypt | Technology Valley,8175.0,EGP,https://tv-it.com/product-categories/washing-machine,tv-it.com,2025-10-07T01:08:39.405417Z
+b3a9a3bbdf24,Shop Dish Washer in Egypt | Technology Valley,16199.0,EGP,https://tv-it.com/product-categories/dish-washer#list,tv-it.com,2025-10-07T01:08:39.405417Z
+28bf48f1028b,Shop Built in Appliances in Egypt | Technology Valley,3980.0,EGP,https://tv-it.com/product-categories/built-in,tv-it.com,2025-10-07T01:08:39.405417Z
+de6eb7109e09,Shop Built in Cookers in Egypt | Technology Valley,5405.0,EGP,https://tv-it.com/product-categories/built-in-hobs-cookers#list,tv-it.com,2025-10-07T01:08:39.405417Z
+fb6588245bce,Shop Built in ovens in Egypt | Technology Valley,15570.0,EGP,https://tv-it.com/product-categories/built-in-ovens#list,tv-it.com,2025-10-07T01:08:39.405417Z
+9281a5e9cdb1,Shop Cooker Hood in Egypt | Technology Valley,3980.0,EGP,https://tv-it.com/product-categories/cooker-hood,tv-it.com,2025-10-07T01:08:39.405417Z
+6f9fead1643b,Shop for a touch watch Smart watch | Smart watch at the best price in Egypt,1850.0,EGP,https://tv-it.com/product-categories/smart-watch,tv-it.com,2025-10-07T01:08:39.405417Z
+eb9c2657eaa4,Shop Best Laptops in Egypt,109999.0,EGP,https://tv-it.com/product-categories/laptops-in-egypt,tv-it.com,2025-10-07T01:08:39.405417Z
+fc375d10200f,Shop 2-in-1 Laptop with Best Price in Egypt | Technology Valley,72800.0,EGP,https://tv-it.com/product-categories/2-in-1-laptop-1,tv-it.com,2025-10-07T01:08:39.405417Z
+b2b5eca08051,Shop Best Intel AI Laptop in Egypt - Intel AI Laptop,72800.0,EGP,https://tv-it.com/product-categories/intel-ai-laptop,tv-it.com,2025-10-07T01:08:39.405417Z
+8e6e68955c08,Shop Best Computer Components in Egypt - Computer Components,2900.0,EGP,https://tv-it.com/product-categories/computer-1,tv-it.com,2025-10-07T01:08:39.405417Z
+0b9fd211fd04,Shop Scanner in Egypt | Technology Valley,3499.0,EGP,https://tv-it.com/product-categories/scanner-4,tv-it.com,2025-10-07T01:08:39.405417Z
+1a2578ad2c4c,Shop Projector in Egypt | Technology Valley,12999.0,EGP,https://tv-it.com/product-categories/projector-5,tv-it.com,2025-10-07T01:08:39.405417Z
+98019869d16a,Shop Flash Drives in Egypt | Technology Valley,300.0,EGP,https://tv-it.com/product-categories/flash-drives,tv-it.com,2025-10-07T01:08:39.405417Z
+72befeb7bb1a,Shop Memory Cards SD in Egypt | Technology Valley,2250.0,EGP,https://tv-it.com/product-categories/memory-cards-sd,tv-it.com,2025-10-07T01:08:39.405417Z
+76295e547436,Shop RAM in Egypt | Technology Valley,2900.0,EGP,https://tv-it.com/product-categories/ram-50,tv-it.com,2025-10-07T01:08:39.405417Z
+da434ce9cc93,Shop HDD in Egypt | Technology Valley,19900.0,EGP,https://tv-it.com/product-categories/hdd,tv-it.com,2025-10-07T01:08:39.405417Z
+60dff0f8041d,Shop SSD in Egypt | Technology Valley,15900.0,EGP,https://tv-it.com/product-categories/sdd,tv-it.com,2025-10-07T01:08:39.405417Z
+daabdebcad07,Shop PC Bundles with best Price in Egypt | Technology Valley,10666.0,EGP,https://tv-it.com/product-categories/pc-bundles-egypt,tv-it.com,2025-10-07T01:08:39.405417Z
+5043dba93593,Shop Security Cameras in Egypt | Technology Valley,875.0,EGP,https://tv-it.com/product-categories/security,tv-it.com,2025-10-07T01:08:39.405417Z
+0df610db20cf,Shop Routers in Egypt | Technology Valley,2025.0,EGP,https://tv-it.com/product-categories/routers,tv-it.com,2025-10-07T01:08:39.405417Z
+0e9936c01f9f,Shop UPS in Egypt | Technology Valley,8425.0,EGP,https://tv-it.com/product-categories/ups,tv-it.com,2025-10-07T01:08:39.405417Z
+e3cf23360ca4,Shop AirTag in Egypt | Technology Valley,4900.0,EGP,https://tv-it.com/product-categories/airtag,tv-it.com,2025-10-07T01:08:39.405417Z
+cdb79629e307,Shop Best Tablet Lava in Egypt - Lava Tablet,1810.0,EGP,https://tv-it.com/product-categories/lava-tablets,tv-it.com,2025-10-07T01:08:39.405417Z
+c573a303de78,Shop Best Tablet Xiaomi in Egypt - Xiaomi Tablet,9799.0,EGP,https://tv-it.com/product-categories/xiaomi,tv-it.com,2025-10-07T01:08:39.405417Z
+7fac022a82cf,Shop Best Tablet Honor in Egypt - Honor Tablet,15200.0,EGP,https://tv-it.com/product-categories/tablet-honor,tv-it.com,2025-10-07T01:08:39.405417Z
+7810ff25fe30,Shop Best Mobile Honor in Egypt - Honor,8555.0,EGP,https://tv-it.com/product-categories/mobile-honor,tv-it.com,2025-10-07T01:08:39.405417Z
+131b5b5ddb0b,Shop Gaming Keyboard - Gaming Mouse in Egypt | Technology Valley,7599.0,EGP,https://tv-it.com/product-categories/gaming-keyboard-mouse,tv-it.com,2025-10-07T01:08:39.405417Z
+8ea7efdff58a,Shop Gaming Headset in Egypt | Technology Valley,5999.0,EGP,https://tv-it.com/product-categories/gaming-headset,tv-it.com,2025-10-07T01:08:39.405417Z
+a200dfcfa8ec,Shop Gaming Mousepad in Egypt | Technology Valley,549.0,EGP,https://tv-it.com/product-categories/gaming-mousepad,tv-it.com,2025-10-07T01:08:39.405417Z
+6ea3e53fb5b8,Shop Controllers - Gaming Pad in Egypt | Technology Valley,1299.0,EGP,https://tv-it.com/product-categories/controller-and-gamepad,tv-it.com,2025-10-07T01:08:39.405417Z
+5881e0b99329,Shop Gaming Desk - Gaming Chair in Egypt | Technology Valley,14500.0,EGP,https://tv-it.com/product-categories/gaming-desk-chair,tv-it.com,2025-10-07T01:08:39.405417Z
+31aa60ca9d2e,Shop Racing Wheel and Shifter in Egypt | Technology Valley,3499.0,EGP,https://tv-it.com/product-categories/driving-wheel-and-shifter,tv-it.com,2025-10-07T01:08:39.405417Z
+142ae2a7ffc1,Shop Gaming Chargers & Cables in Egypt | Technology Valley,799.0,EGP,https://tv-it.com/product-categories/gaming-chargers-cables,tv-it.com,2025-10-07T01:08:39.405417Z
+81e94d832045,Shop Personal Care Products in Egypt | Technology Valley,1699.0,EGP,https://tv-it.com/product-categories/personal-care-products,tv-it.com,2025-10-07T01:08:39.405417Z
+d23634132bc5,Shop Hair Products in Egypt | Technology Valley,1699.0,EGP,https://tv-it.com/product-categories/hair-products,tv-it.com,2025-10-07T01:08:39.405417Z
+c88088698dcb,Shop Dish Washer in Egypt | Technology Valley,16199.0,EGP,https://tv-it.com/product-categories/dish-washer,tv-it.com,2025-10-07T01:08:39.405417Z
+02741aeba620,Shop Hot Plate in Egypt | Technology Valley,1050.0,EGP,https://tv-it.com/product-categories/hot-plate,tv-it.com,2025-10-07T01:08:39.405417Z
+84f872bf53ba,Shop Scooters & Equipment  in Egypt | Technology Valley,22999.0,EGP,https://tv-it.com/product-categories/scooters-and-equipment,tv-it.com,2025-10-07T01:08:39.405417Z
+cbc2763f791b,Shop Electric Scooters in Egypt | Technology Valley,22999.0,EGP,https://tv-it.com/product-categories/electric-scooters,tv-it.com,2025-10-07T01:08:39.405417Z
+46998ba11ac3,Shop Mobile Photo Printer in Egypt | Technology Valley,180.0,EGP,https://tv-it.com/product-categories/mobile-photo-printer-vr-glasses,tv-it.com,2025-10-07T01:08:39.405417Z
+57193169716b,Shop Stylus Pen in Egypt | Technology Valley,345.0,EGP,https://tv-it.com/product-categories/stylus,tv-it.com,2025-10-07T01:08:39.405417Z
+2bc0275af4d2,Hot Deals Products,10666.0,EGP,https://tv-it.com/product-categories/hot-deals-products,tv-it.com,2025-10-07T01:08:39.405417Z
+09ceba603ee3,Mobile Offers,7450.0,EGP,https://tv-it.com/product-categories/mobile-offers,tv-it.com,2025-10-07T01:08:39.405417Z
+0490b5204e13,Xiaomi,6750.0,EGP,https://tv-it.com/product-categories/xiaomi-1,tv-it.com,2025-10-07T01:08:39.405417Z
+e8385aa32263,Samsung,19850.0,EGP,https://tv-it.com/product-categories/samsung,tv-it.com,2025-10-07T01:08:39.405417Z
+86ed5ace9e01,Vivo,22999.0,EGP,https://tv-it.com/product-categories/vivo,tv-it.com,2025-10-07T01:08:39.405417Z
+d6765acd3e1c,Itel,4099.0,EGP,https://tv-it.com/product-categories/itel-1,tv-it.com,2025-10-07T01:08:39.405417Z
+ed80b4cbb6de,Oppo,7450.0,EGP,https://tv-it.com/product-categories/oppo,tv-it.com,2025-10-07T01:08:39.405417Z
+1966fa557909,NOKIA,899.0,EGP,https://tv-it.com/product-categories/nokia,tv-it.com,2025-10-07T01:08:39.405417Z
+e5a174ff3b72,Laptop Offers,24999.0,EGP,https://tv-it.com/product-categories/laptop-offers,tv-it.com,2025-10-07T01:08:39.405417Z
+8df5cbd64803,Lenovo,24999.0,EGP,https://tv-it.com/product-categories/lenovo-1,tv-it.com,2025-10-07T01:08:39.405417Z
+8518e0405524,Dell,41299.0,EGP,https://tv-it.com/product-categories/dell,tv-it.com,2025-10-07T01:08:39.405417Z
+92811a80e59a,Asus,25999.0,EGP,https://tv-it.com/product-categories/asus-1,tv-it.com,2025-10-07T01:08:39.405417Z
+2b1767633a8f,HP,57399.0,EGP,https://tv-it.com/product-categories/hp,tv-it.com,2025-10-07T01:08:39.405417Z
+36460951b4f3,Mobile Accessories Offers,1899.0,EGP,https://tv-it.com/product-categories/mobile-accessories-offers,tv-it.com,2025-10-07T01:08:39.405417Z
+39c1b1ccbd6a,Smart Watch,2999.0,EGP,https://tv-it.com/product-categories/smart-watch-1,tv-it.com,2025-10-07T01:08:39.405417Z
+fe70c538da58,Earphones,99.0,EGP,https://tv-it.com/product-categories/earphones-1,tv-it.com,2025-10-07T01:08:39.405417Z
+59da74ddf276,Charging Cable,120.0,EGP,https://tv-it.com/product-categories/charging-cable,tv-it.com,2025-10-07T01:08:39.405417Z
+1fa6fc0757f3,Earbuds,1899.0,EGP,https://tv-it.com/product-categories/earbuds-1,tv-it.com,2025-10-07T01:08:39.405417Z
+f8e9a26e9ae6,Power Bank,1899.0,EGP,https://tv-it.com/product-categories/power-bank,tv-it.com,2025-10-07T01:08:39.405417Z
+fbce2f135599,Charger,150.0,EGP,https://tv-it.com/product-categories/charger,tv-it.com,2025-10-07T01:08:39.405417Z
+987f2ea2c894,Playstation Offers,34500.0,EGP,https://tv-it.com/product-categories/playstation-offers,tv-it.com,2025-10-07T01:08:39.405417Z
+8387b898dd29,Playstation Games,625.0,EGP,https://tv-it.com/product-categories/playstation-games,tv-it.com,2025-10-07T01:08:39.405417Z
+6848a0e9bee2,playstation,34500.0,EGP,https://tv-it.com/product-categories/playstation,tv-it.com,2025-10-07T01:08:39.405417Z
+706f58b934dc,PC Component Offers,10666.0,EGP,https://tv-it.com/product-categories/pc-component-offers,tv-it.com,2025-10-07T01:08:39.405417Z
+9c6d26311e0b,PC Monitors,3600.0,EGP,https://tv-it.com/product-categories/pc-monitors,tv-it.com,2025-10-07T01:08:39.405417Z
+97376b28e3b8,VGA Cards,9700.0,EGP,https://tv-it.com/product-categories/vga-cards,tv-it.com,2025-10-07T01:08:39.405417Z
+851c325f0b5e,Gaming Bundles,10666.0,EGP,https://tv-it.com/product-categories/gaming-bundles,tv-it.com,2025-10-07T01:08:39.405417Z
+85b8f8879ec9,Motherboards,6900.0,EGP,https://tv-it.com/product-categories/motherboards,tv-it.com,2025-10-07T01:08:39.405417Z
+21e5b0a364fa,Processors,3900.0,EGP,https://tv-it.com/product-categories/processors,tv-it.com,2025-10-07T01:08:39.405417Z
+504287f3628d,Rush Brush Offers,1699.0,EGP,https://tv-it.com/product-categories/rush-brush,tv-it.com,2025-10-07T01:08:39.405417Z
+c280224932dc,Small Home Appliances Offers,999.0,EGP,https://tv-it.com/product-categories/kenwood-offers,tv-it.com,2025-10-07T01:08:39.405417Z
+3634116539e1,Vacuum Cleaner,2850.0,EGP,https://tv-it.com/product-categories/vacuum-cleaner-1,tv-it.com,2025-10-07T01:08:39.405417Z
+9fddd8e75d13,Steam Irons,999.0,EGP,https://tv-it.com/product-categories/steam-irons-1,tv-it.com,2025-10-07T01:08:39.405417Z
+b05a57a29822,Microwave,5999.0,EGP,https://tv-it.com/product-categories/microwave-1,tv-it.com,2025-10-07T01:08:39.405417Z
+ca683a390778,Water Heater,3050.0,EGP,https://tv-it.com/product-categories/water-heater,tv-it.com,2025-10-07T01:08:39.405417Z
+d16062337c54,Television Deals | Best Discounts and Offers | Technology Valley,7299.0,EGP,https://tv-it.com/product-categories/tv-offers,tv-it.com,2025-10-07T01:08:39.405417Z
+656c8e62f56f,Samsung,19999.0,EGP,https://tv-it.com/product-categories/samsung-tv,tv-it.com,2025-10-07T01:08:39.405417Z
+88d2466446e5,LG,18999.0,EGP,https://tv-it.com/product-categories/lg,tv-it.com,2025-10-07T01:08:39.405417Z
+8ee049fbc73e,Shop Now Large Home Appliances Deals | Best Discounts and Offers | Technology Valley,20500.0,EGP,https://tv-it.com/product-categories/refrigerators-offers,tv-it.com,2025-10-07T01:08:39.405417Z
+a4b6ec7d741c,Refrigerators Deals | Best Discounts and Offers on Refrigerators,20500.0,EGP,https://tv-it.com/product-categories/refrigerators-2,tv-it.com,2025-10-07T01:08:39.405417Z
+59b675ea8c0d,Washing Machine Deals | Best Discounts and Offers | Technology Valley,13245.0,EGP,https://tv-it.com/product-categories/washing-machines,tv-it.com,2025-10-07T01:08:39.405417Z
+0fb0eaaba14f,Built in Hoods,4999.0,EGP,https://tv-it.com/product-categories/cooker-hoods,tv-it.com,2025-10-07T01:08:39.405417Z
+72489815c9a7,Built in Cooker,10200.0,EGP,https://tv-it.com/product-categories/built-in-cooker,tv-it.com,2025-10-07T01:08:39.405417Z
+4d8a486469df,Buy Best Freestanding Gas Cooker in Egypt at Best Price,16199.0,EGP,https://tv-it.com/product-categories/gas-cookers,tv-it.com,2025-10-07T01:08:39.405417Z
+0141102d1c6a,El ARABY Offers,27500.0,EGP,https://tv-it.com/product-categories/el-araby-offers,tv-it.com,2025-10-07T01:08:39.405417Z
+371496bac29e,Washing Machine,11999.0,EGP,https://tv-it.com/product-categories/al-araby-offers,tv-it.com,2025-10-07T01:08:39.405417Z
+9f782b948b4a,Refrigerators,27500.0,EGP,https://tv-it.com/product-categories/refrigerators-1,tv-it.com,2025-10-07T01:08:39.405417Z
+2c0fa7206846,Microwave and Electric Ovens,5299.0,EGP,https://tv-it.com/product-categories/microwave-and-electric-ovens,tv-it.com,2025-10-07T01:08:39.405417Z
+7374cb22f3bd,Freezers,20500.0,EGP,https://tv-it.com/product-categories/freezers-2,tv-it.com,2025-10-07T01:08:39.405417Z
+079d2fe9bb18,Air Conditioner,33075.0,EGP,https://tv-it.com/product-categories/air-conditioner,tv-it.com,2025-10-07T01:08:39.405417Z
+09be38d6f81b,TVs,7299.0,EGP,https://tv-it.com/product-categories/tvs,tv-it.com,2025-10-07T01:08:39.405417Z
+434cb36a0381,Vacuum Cleaner,3700.0,EGP,https://tv-it.com/product-categories/vacuum-cleaner-2,tv-it.com,2025-10-07T01:08:39.405417Z
+2f1b1b13ece6,Water Heater,3079.0,EGP,https://tv-it.com/product-categories/water-heater-1,tv-it.com,2025-10-07T01:08:39.405417Z
+5afe79a6c898,Kitchen Appliances,1099.0,EGP,https://tv-it.com/product-categories/kitchen-appliances,tv-it.com,2025-10-07T01:08:39.405417Z
+f5058c1d4680,Dish Washer,17799.0,EGP,https://tv-it.com/product-categories/dish-washer-2,tv-it.com,2025-10-07T01:08:39.405417Z
+3a9dbf3a65d8,Fan,1250.0,EGP,https://tv-it.com/product-categories/fan,tv-it.com,2025-10-07T01:08:39.405417Z
+b6bb16b5184b,Ventilating Fan,1235.0,EGP,https://tv-it.com/product-categories/ventilating-fan-1,tv-it.com,2025-10-07T01:08:39.405417Z
+be277569a7bd,Water Dispenser,6500.0,EGP,https://tv-it.com/product-categories/water-dispenser-1,tv-it.com,2025-10-07T01:08:39.405417Z
+a0faa98bc11a,Steam Iron,2970.0,EGP,https://tv-it.com/product-categories/steam-iron,tv-it.com,2025-10-07T01:08:39.405417Z
+68459892c1a1,Cooker and Cooker Hoods,18849.0,EGP,https://tv-it.com/product-categories/freestanding-cooker,tv-it.com,2025-10-07T01:08:39.405417Z
+7dfa3883871a,Back to Campus,4400.0,EGP,https://tv-it.com/product-categories/back-to-campus,tv-it.com,2025-10-07T01:08:39.405417Z
+d35288ba87c4,Shop Best Selling Products in Egypt | Technology Valley,599.0,EGP,https://tv-it.com/product-categories/best-selling,tv-it.com,2025-10-07T01:08:39.405417Z
+de19cbd41840,Shop Outlet Products in Egypt | Technology Valley,575.0,EGP,https://tv-it.com/product-categories/outlet,tv-it.com,2025-10-07T01:08:39.405417Z
+acdeb169e309,Search result for,3600.0,EGP,https://tv-it.com/products?categories%5B%5D=6&q=lenovo,tv-it.com,2025-10-07T01:08:39.405417Z
+df39a3f93be3,Search result for,194999.0,EGP,https://tv-it.com/products?categories%5B0%5D=0&q=legion%20pro%207,tv-it.com,2025-10-07T01:08:39.405417Z
+81517685ae37,Search result for,34999.0,EGP,https://tv-it.com/products?categories%5B%5D=0&q=Lenovo+LOQ+15,tv-it.com,2025-10-07T01:08:39.405417Z
+8dffa48e483a,Lenovo IdeaPad Duet 3 11IAN8 4GB RAM 128GB | Technology Valley,18333.0,EGP,https://tv-it.com/products/lenovo-ideapad-duet-3-11ian8-82xk0032ed,tv-it.com,2025-10-07T01:08:39.405417Z
+822d7483efe2,"ASUS ZenBook S14 Laptop | Intel Core Ultra 7 258V, Intel Arc, 32GB RAM",92199.0,EGP,https://tv-it.com/products/asus-zenbook-s14-oled-ux5406sa-pv007w-laptop,tv-it.com,2025-10-07T01:08:39.405417Z
+76fadfed2765,Technology Valley,109999.0,EGP,https://tv-it.com/products,tv-it.com,2025-10-07T01:08:39.405417Z

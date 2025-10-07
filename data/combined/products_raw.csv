@@ -1,4 +1,638 @@
 id,product name,product price,currency,product url,site name,time stamp
+4a031ae33bd0,Xbox Gift Cards,599.0,EGP,https://shamystores.com/collections/xbox-gift-cards,shamystores.com,2025-10-07T00:41:07.394763Z
+0cbdf2e639c8,PS5 Games,2590.0,EGP,https://shamystores.com/collections/ps5-games,shamystores.com,2025-10-07T00:41:07.394763Z
+ed62346679eb,PS5 Consoles,33990.0,EGP,https://shamystores.com/collections/ps5-consoles,shamystores.com,2025-10-07T00:41:07.394763Z
+208a08440394,PS5 Used Games,1750.0,EGP,https://shamystores.com/collections/ps5-used-games,shamystores.com,2025-10-07T00:41:07.394763Z
+1e9ac92380c7,PS5 Accesssories,4290.0,EGP,https://shamystores.com/collections/ps5-accesssories,shamystores.com,2025-10-07T00:41:07.394763Z
+2d150bf345b3,Xbox Games,740.0,EGP,https://shamystores.com/collections/xbox-games,shamystores.com,2025-10-07T00:41:07.394763Z
+4412bbd7b3a5,Xbox Consoles,23990.0,EGP,https://shamystores.com/collections/xbox-one-consoles,shamystores.com,2025-10-07T00:41:07.394763Z
+56659c78112b,Xbox Used Games,450.0,EGP,https://shamystores.com/collections/xbox-used-games,shamystores.com,2025-10-07T00:41:07.394763Z
+0f47ce10f41c,XBOX One & Series Accessories,170.0,EGP,https://shamystores.com/collections/xbox-one-series-accessories,shamystores.com,2025-10-07T00:41:07.394763Z
+237184f72d52,PSN 10$ USA,599.0,EGP,https://shamystores.com/products/psn-10-usa-ep10usd,shamystores.com,2025-10-07T00:41:07.394763Z
+dc1886868e76,PSN 25$ USA,1499.0,EGP,https://shamystores.com/products/psn-25-usa-ep25usd,shamystores.com,2025-10-07T00:41:07.394763Z
+1bfcdf9f3c38,PSN 50$ USA,2949.0,EGP,https://shamystores.com/products/psn-50-usa-50050009058403,shamystores.com,2025-10-07T00:41:07.394763Z
+322c30f79b0e,PSN 100$ USA,5555.0,EGP,https://shamystores.com/products/psn-100-usa-50050009058411,shamystores.com,2025-10-07T00:41:07.394763Z
+e71f58f2d8b5,PSN 75$ USA,4141.0,EGP,https://shamystores.com/products/psn-75-usa-ep75usd,shamystores.com,2025-10-07T00:41:07.394763Z
+8cad2018f400,Apple iTunes 100$ USA,5799.0,EGP,https://shamystores.com/products/apple-itunes-100-usa,shamystores.com,2025-10-07T00:41:07.394763Z
+133531efd927,Apple iTunes 50$ USA,2949.0,EGP,https://shamystores.com/products/apple-itunes-50-usa,shamystores.com,2025-10-07T00:41:07.394763Z
+fdd30b637c10,PSN 10$ UAE,599.0,EGP,https://shamystores.com/products/psn-10-uae-ep10uae,shamystores.com,2025-10-07T00:41:07.394763Z
+7a5eb01c6164,PSN 50$ UAE,2949.0,EGP,https://shamystores.com/products/psn-50-uae-50050009058402,shamystores.com,2025-10-07T00:41:07.394763Z
+e9b108ba124b,PSN 20$ UAE,1199.0,EGP,https://shamystores.com/products/psn-20-uae-ep20uae,shamystores.com,2025-10-07T00:41:07.394763Z
+b2f6584735c9,PSN 100$ UAE,5555.0,EGP,https://shamystores.com/products/psn-100-uae-50050009058420,shamystores.com,2025-10-07T00:41:07.394763Z
+5c3247ee1bae,PSN 70$ UAE,3888.0,EGP,https://shamystores.com/products/psn-70-uae-psn70uae,shamystores.com,2025-10-07T00:41:07.394763Z
+64388e518723,EA Sports FC 26 (AR/EN) – New (PS5),3590.0,EGP,https://shamystores.com/products/ea-sports-fc-26-ps5,shamystores.com,2025-10-07T00:41:07.394763Z
+7ea2187f028b,Ghost of Yōtei – PS5 NEW,3690.0,EGP,https://shamystores.com/products/ghost-of-yotei-ps5,shamystores.com,2025-10-07T00:41:07.394763Z
+8a5bb5716a78,EA Sports FC 26 (AR/EN) – New (PS4),3590.0,EGP,https://shamystores.com/products/ea-sports-fc-26-ps4,shamystores.com,2025-10-07T00:41:07.394763Z
+7a775a162449,EA Sports FC 26 (AR/EN) – New (Nintendo Switch),3390.0,EGP,https://shamystores.com/products/ea-sports-fc-26-switch,shamystores.com,2025-10-07T00:41:07.394763Z
+03fc6a3c157e,Silent Hill F – PS5,4490.0,EGP,https://shamystores.com/products/silent-hill-f-ps5,shamystores.com,2025-10-07T00:41:07.394763Z
+b1453b9b1d20,Borderlands 4 – PS5,3390.0,EGP,https://shamystores.com/products/borderlands-4-ps5,shamystores.com,2025-10-07T00:41:07.394763Z
+93aad22e1c24,NBA 2K26 – PS5,3190.0,EGP,https://shamystores.com/products/nba-2k26-ps5-new,shamystores.com,2025-10-07T00:41:07.394763Z
+ce3949f70d88,NBA 2K26 – PS4,3490.0,EGP,https://shamystores.com/products/nba-2k26-ps4,shamystores.com,2025-10-07T00:41:07.394763Z
+125f88facc83,Cronos: The New Dawn – PS5,3190.0,EGP,https://shamystores.com/products/cronos-the-new-dawn-ps5,shamystores.com,2025-10-07T00:41:07.394763Z
+8a67c7ec0070,Metal Gear Solid Δ: Snake Eater – PS5,3590.0,EGP,https://shamystores.com/products/metal-gear-solid-snake-eater-ps5,shamystores.com,2025-10-07T00:41:07.394763Z
+388f7d3df071,Gears of War Reloaded – New (PS5),2590.0,EGP,https://shamystores.com/products/gears-of-war-reloaded-ps5-new,shamystores.com,2025-10-07T00:41:07.394763Z
+6b0feb81adc9,Mafia: The Old Country – New (PS5),2790.0,EGP,https://shamystores.com/products/mafia-the-old-country-ps5-new,shamystores.com,2025-10-07T00:41:07.394763Z
+5ea64e037efa,PlayStation 5 Slim ( Digital Edition ) 1M Warranty,29990.0,EGP,https://shamystores.com/products/playstation-5-slim-digital-edition-1y-warranty,shamystores.com,2025-10-07T00:41:07.394763Z
+ae92f94f69fd,PS5 DualSense Wireless Controller Cobalt Blue,4490.0,EGP,https://shamystores.com/products/ps5-dualsense-wireless-controller-cobalt-blue,shamystores.com,2025-10-07T00:41:07.394763Z
+0b5ca0dd64a9,DualSense Charging Station,1790.0,EGP,https://shamystores.com/products/dualsense-charging-station-41015003057562,shamystores.com,2025-10-07T00:41:07.394763Z
+842ef69fe7b9,PS5 DualSense Wireless Controller Galactic Purple,4290.0,EGP,https://shamystores.com/products/ps5-dualsense-wireless-controller-starlight-blue-1,shamystores.com,2025-10-07T00:41:07.394763Z
+1a646f0e89a7,PS5 DualSense Wireless Controller Cosmic Red,4290.0,EGP,https://shamystores.com/products/ps5-dualsense-wireless-controller-cosmic-red-41015003057920,shamystores.com,2025-10-07T00:41:07.394763Z
+390497326f57,Ps5 DualSense Wireless Controller Nova Pink,4290.0,EGP,https://shamystores.com/products/ps5-dualsense-wireless-controller-nova-pink,shamystores.com,2025-10-07T00:41:07.394763Z
+ed6cd3653b33,PS5 DualSense Wireless Controller White,4290.0,EGP,https://shamystores.com/products/ps5-dualsense-wireless-controller-41015003057449,shamystores.com,2025-10-07T00:41:07.394763Z
+0a6e3c65f649,PlayStation 5 Slim ( Disc Edition ) 1Y Warranty,33990.0,EGP,https://shamystores.com/products/playstation-5-slim,shamystores.com,2025-10-07T00:41:07.394763Z
+9bc6cc28b603,PS5 DualSense Wireless Controller Midnight Black,4290.0,EGP,https://shamystores.com/products/ps5-dualsense-wireless-controller-midnight-black-41015003057921,shamystores.com,2025-10-07T00:41:07.394763Z
+873a8586537c,PS5 DualSense Wireless Controller Starlight Blue,4290.0,EGP,https://shamystores.com/products/ps5-dualsense-wireless-controller-starlight-blue,shamystores.com,2025-10-07T00:41:07.394763Z
+ef595e2afa71,PS5 DualSense Wireless Controller Volcanic Red,4490.0,EGP,https://shamystores.com/products/ps5-dualsense-wireless-controller-volcanic-red,shamystores.com,2025-10-07T00:41:07.394763Z
+bcca2cead327,PS5 DualSense Wireless Controller – Gray Camouflage,4490.0,EGP,https://shamystores.com/products/ps5-dualsense-wireless-controller-gray-camouflage,shamystores.com,2025-10-07T00:41:07.394763Z
+12112156ff8c,THE LAST OF US REMAKE Used,1750.0,EGP,https://shamystores.com/products/the-last-of-us-remake-used,shamystores.com,2025-10-07T00:41:07.394763Z
+3706f3cb5a18,STAR WARS OUTLAWS Used,2000.0,EGP,https://shamystores.com/products/star-wars-outlaws-used,shamystores.com,2025-10-07T00:41:07.394763Z
+724421279326,FC 25 ENGLISH Used,1350.0,EGP,https://shamystores.com/products/fc-25-english,shamystores.com,2025-10-07T00:41:07.394763Z
+95889ea708dc,FC 25 AR Used,1500.0,EGP,https://shamystores.com/products/fc-25-ar,shamystores.com,2025-10-07T00:41:07.394763Z
+f677ebe0103b,CALL OF DUTY OPS 6 Used,2500.0,EGP,https://shamystores.com/products/call-of-duty-ops-6,shamystores.com,2025-10-07T00:41:07.394763Z
+434673ec98d4,Dragon's Dogma 2 Used,1800.0,EGP,https://shamystores.com/products/dragons-dogma-2-used,shamystores.com,2025-10-07T00:41:07.394763Z
+66ba93387b05,Prince of Persia: The Lost Crown Used,1200.0,EGP,https://shamystores.com/products/prince-of-persia-the-lost-crown-used,shamystores.com,2025-10-07T00:41:07.394763Z
+13e414a67269,WWE 2K24 Used,1250.0,EGP,https://shamystores.com/products/wwe-2k24-used,shamystores.com,2025-10-07T00:41:07.394763Z
+228afaff7127,A Plague Tale: Requiem Used,1100.0,EGP,https://shamystores.com/products/a-plague-tale-requiem-used-copy,shamystores.com,2025-10-07T00:41:07.394763Z
+f091a914230e,The Crew™ Motorfest Used,1250.0,EGP,https://shamystores.com/products/the-crew-motorfest-used,shamystores.com,2025-10-07T00:41:07.394763Z
+14ad1db04dee,The Callisto Protocol used,1100.0,EGP,https://shamystores.com/products/the-callisto-protocol-used,shamystores.com,2025-10-07T00:41:07.394763Z
+13f48146f5d3,Final Fantasy XVI Used,1800.0,EGP,https://shamystores.com/products/outlet-final-fantasy-xvi-used,shamystores.com,2025-10-07T00:41:07.394763Z
+5b09d4cfa9f0,Product Carousels,999.0,EGP,https://egygamer.com/en/product-carousels,egygamer.com,2025-10-07T00:43:12.291559Z
+b22146fb44e8,Product Grid Columns,3400.0,EGP,https://egygamer.com/en/product-grid-columns,egygamer.com,2025-10-07T00:43:12.291559Z
+028795bddc37,Products Grid,,EGP,https://egygamer.com/en/products-grid,egygamer.com,2025-10-07T00:43:12.291559Z
+3194ffcda5d5,Xbox Series - Video Games,3800.0,EGP,https://egygamer.com/en/playstation/xbox-series-x,egygamer.com,2025-10-07T00:43:12.291559Z
+6729c9930801,Games - Xbox Series - Video Games,3800.0,EGP,https://egygamer.com/en/playstation/xbox-series-x/games,egygamer.com,2025-10-07T00:43:12.291559Z
+9217640dbda8,Buy Best Xbox One Games In Egypt | Egygamer.com,3800.0,EGP,https://egygamer.com/en/playstation/xbox-one,egygamer.com,2025-10-07T00:43:12.291559Z
+acd04212675f,Xbox Series Console - Consoles,21000.0,EGP,https://egygamer.com/en/console/xbox-series-console,egygamer.com,2025-10-07T00:43:12.291559Z
+85f9cbc37b38,Xbox Accessories - Hardware,2775.0,EGP,https://egygamer.com/en/hardware/xbox-accessories,egygamer.com,2025-10-07T00:43:12.291559Z
+ddd732997ee4,Keyboards - Hardware,1799.0,EGP,https://egygamer.com/en/hardware/keyboards,egygamer.com,2025-10-07T00:43:12.291559Z
+c5fd7e0962a5,Mouse - Hardware,999.0,EGP,https://egygamer.com/en/hardware/mouse,egygamer.com,2025-10-07T00:43:12.291559Z
+b1544c25e55a,Headsets - Hardware,700.0,EGP,https://egygamer.com/en/hardware/headsets,egygamer.com,2025-10-07T00:43:12.291559Z
+dd74d18a3e43,Xbox Live - Digital Codes,600.0,EGP,https://egygamer.com/en/digital-codes/xbox-live,egygamer.com,2025-10-07T00:43:12.291559Z
+b731e6817c21,Xbox Live US - Xbox Live - Digital Codes,2560.0,EGP,https://egygamer.com/en/digital-codes/xbox-live/xbox-live-us,egygamer.com,2025-10-07T00:43:12.291559Z
+6b9479a0a7d0,Xbox Live EU - Xbox Live - Digital Codes,3950.0,EGP,https://egygamer.com/en/digital-codes/xbox-live/xbox-live-eu,egygamer.com,2025-10-07T00:43:12.291559Z
+64cf7c30d5c5,Xbox Digital Games - Xbox Live - Digital Codes,415.0,EGP,https://egygamer.com/en/digital-codes/xbox-live/xbox-digital-games,egygamer.com,2025-10-07T00:43:12.291559Z
+2b63e3adf0d7,Split Fiction Standard Edition (PS5),2990.0,EGP,https://www.egygamer.com/en/split-fiction-standard-edition-ps5.html,egygamer.com,2025-10-07T00:43:12.291559Z
+895fbbc49498,Double Charging Base For Joystick PS5 With RGB,675.0,EGP,https://egygamer.com/en/double-charging-base-for-joystick-ps5-with-rgb.html,egygamer.com,2025-10-07T00:43:12.291559Z
+05b50f4648da,PS5 Disc Slim Console Cover -  CAMOUFLAGE,1000.0,EGP,https://egygamer.com/en/ps5-disc-slim-console-cover-camouflage.html,egygamer.com,2025-10-07T00:43:12.291559Z
+f37a4164f6c9,Dobe Display Stand Charging Kit PS5,150.0,EGP,https://egygamer.com/en/dobe-display-stand-charging-kit-ps5.html,egygamer.com,2025-10-07T00:43:12.291559Z
+db7d7575040e,Deadskull controller silicone case with grips blue,210.0,EGP,https://egygamer.com/en/deadskull-controller-silicone-case-with-grips-blue.html,egygamer.com,2025-10-07T00:43:12.291559Z
+cc33264c2cde,Battlefield 6 Phantom Edition (PS5),5899.0,EGP,https://egygamer.com/en/battlefield-6-phantom-edition-ps5.html,egygamer.com,2025-10-07T00:43:12.291559Z
+3c853973d02e,Battlefield 6 (PS5),3890.0,EGP,https://egygamer.com/en/battlefield-6-standard-edition-ps5.html,egygamer.com,2025-10-07T00:43:12.291559Z
+a2ed935d0975,Little Nightmares III Mirror Edition (PS5),6500.0,EGP,https://egygamer.com/en/little-nightmares-iii-mirror-edition-ps5.html,egygamer.com,2025-10-07T00:43:12.291559Z
+25fb0cddafdb,Little Nightmares III (PS5),2040.0,EGP,https://egygamer.com/en/little-nightmares-iii-ps5.html,egygamer.com,2025-10-07T00:43:12.291559Z
+0766804c722b,Ninja Gaiden II Black (PS5),3333.0,EGP,https://egygamer.com/en/ninja-gaiden-ii-black-ps5.html,egygamer.com,2025-10-07T00:43:12.291559Z
+06c1861779bc,The last of us Part II Remastered Pre-Owned (PS5),1590.0,EGP,https://egygamer.com/en/the-last-of-us-part-ii-remastered-pre-owned-ps5.html,egygamer.com,2025-10-07T00:43:12.291559Z
+c8c02fc19e68,Assassin's Creed Shadows Pre-Owned (PS5),2500.0,EGP,https://egygamer.com/en/assassin-s-creed-shadows-pre-owned-ps5.html,egygamer.com,2025-10-07T00:43:12.291559Z
+f86f30e3989a,Xbox Core Wireless Controller - Pulse Red (EGYGAMER FABRIKA),2775.0,EGP,https://egygamer.com/en/xbox-core-wireless-controller-pulse-red-egygamer-fabrika.html,egygamer.com,2025-10-07T00:43:12.291559Z
+e79d84b257af,"Retro Game Console, 4K HDMI Output Video Game Console, Built in 10000+ Classic Games, with 2 Ergonomic Controllers, Plug and Play Game Console",850.0,EGP,https://egygamer.com/en/retro-game-console-4k-hdmi-output-video-game-console-built-in-10000-classic-games-with-2-ergonomic-controllers-plug-and-play-game-console.html,egygamer.com,2025-10-07T00:43:12.291559Z
+f4e33c8925c1,Tekken 8 (PS5),2350.0,EGP,https://egygamer.com/en/tekken-ps5.html,egygamer.com,2025-10-07T00:43:12.291559Z
+eb762b82d24d,Wolfenstein Youngblood Deluxe Edition (Xbox One),765.0,EGP,https://egygamer.com/en/wolfenstein-youngblood-deluxe-edition-xbox-one.html,egygamer.com,2025-10-07T00:43:12.291559Z
+398108db043c,Gran Turismo 7 (PS5),2250.0,EGP,https://egygamer.com/en/gran-turismo-7-ps5.html,egygamer.com,2025-10-07T00:43:12.291559Z
+c07f74dcf4d6,Mortal Kombat 11 Ultimate Edition (PS5),1599.0,EGP,https://egygamer.com/en/mortal-kombat-11-ultimate-kollector-s-editions-ps5.html,egygamer.com,2025-10-07T00:43:12.291559Z
+3775da46fe78,Xbox Series X,37000.0,EGP,https://egygamer.com/xbox-series-xx.html,egygamer.com,2025-10-07T00:43:12.291559Z
+0044b596c9af,PlayStation 5 Controllers and Accessories,3999.0,EGP,https://thegamecaveegypt.com/collections/playstation-5-controllers,thegamecaveegypt.com,2025-10-07T00:44:22.499166Z
+07cd176a222a,PlayStation 4 Controllers,2499.0,EGP,https://thegamecaveegypt.com/collections/playstation-4-controllers,thegamecaveegypt.com,2025-10-07T00:44:22.499166Z
+5a16ce441191,Xbox,300.0,EGP,https://thegamecaveegypt.com/collections/xbox,thegamecaveegypt.com,2025-10-07T00:44:22.499166Z
+df5150218412,Xbox Consoles,512.0,EGP,https://thegamecaveegypt.com/collections/xbox-consoles,thegamecaveegypt.com,2025-10-07T00:44:22.499166Z
+96129c08be9c,Xbox Controllers,3499.0,EGP,https://thegamecaveegypt.com/collections/xbox-controllers,thegamecaveegypt.com,2025-10-07T00:44:22.499166Z
+66323796d167,Xbox One Accessories,19999.0,EGP,https://thegamecaveegypt.com/collections/xbox-one-accessories,thegamecaveegypt.com,2025-10-07T00:44:22.499166Z
+bb7abb6fedc2,Xbox Gift Card,300.0,EGP,https://thegamecaveegypt.com/collections/xbox-gift-card,thegamecaveegypt.com,2025-10-07T00:44:22.499166Z
+01075a106094,Roblox US Gift Card,600.0,EGP,https://thegamecaveegypt.com/products/roblox-gift-card,thegamecaveegypt.com,2025-10-07T00:44:22.499166Z
+c0df74d817c9,EA Apex - USA,1200.0,EGP,https://thegamecaveegypt.com/products/ea-apex-usa,thegamecaveegypt.com,2025-10-07T00:44:22.499166Z
+034231eb54b8,Free Fire Gift Diamond [Digital Code],60.0,EGP,https://thegamecaveegypt.com/products/free-fire-gift-card-digital-code,thegamecaveegypt.com,2025-10-07T00:44:22.499166Z
+172aae7cc3aa,IMVU Gift Card - USA [Digital Code],600.0,EGP,https://thegamecaveegypt.com/products/imvu-gift-card-usa-digital-code,thegamecaveegypt.com,2025-10-07T00:44:22.499166Z
+edba892aa1d8,Kigso Games Gift Card - Digital Delivery,300.0,EGP,https://thegamecaveegypt.com/products/kigso-games-gift-card-digital-delivery,thegamecaveegypt.com,2025-10-07T00:44:22.499166Z
+e9145012d832,World of Warcraft  Blizzard Gift Card - USA,1200.0,EGP,https://thegamecaveegypt.com/products/pc-world-of-warcraft-60-days-digital-delivery,thegamecaveegypt.com,2025-10-07T00:44:22.499166Z
+af523ef686ed,PUBG Mobile UC Global,70.0,EGP,https://thegamecaveegypt.com/products/pubg-mobile-uc,thegamecaveegypt.com,2025-10-07T00:44:22.499166Z
+488b09710b47,PUBG New State NC Global,70.0,EGP,https://thegamecaveegypt.com/products/pubg-new-state-nc-global,thegamecaveegypt.com,2025-10-07T00:44:22.499166Z
+78646c7cecf4,Razer Gold Global PIN - Gift Card,300.0,EGP,https://thegamecaveegypt.com/products/razer-gold-global-pin-digital-code,thegamecaveegypt.com,2025-10-07T00:44:22.499166Z
+cfc46e1d91ab,Riot Access MENA Servers [Digital Code] - League of Legends and VALORANT,159.75,EGP,https://thegamecaveegypt.com/products/riot-access-mena-servers-digital-code,thegamecaveegypt.com,2025-10-07T00:44:22.499166Z
+637efef563c9,Steam Gift Card - UK,389.5,EGP,https://thegamecaveegypt.com/products/steam-gift-card-uk,thegamecaveegypt.com,2025-10-07T00:44:22.499166Z
+a3a5881b0a81,Steam Gift Card - United Arab Emirates,328.5,EGP,https://thegamecaveegypt.com/products/steam-gift-card-united-arab-emirates,thegamecaveegypt.com,2025-10-07T00:44:22.499166Z
+43f006fa8852,Steam Gift Card - Europe,700.0,EGP,https://thegamecaveegypt.com/products/steam-gift-card-europe,thegamecaveegypt.com,2025-10-07T00:44:22.499166Z
+47878fd7a6f2,Twitch Gift Card - USA,900.0,EGP,https://thegamecaveegypt.com/products/twitch-gift-card-usa,thegamecaveegypt.com,2025-10-07T00:44:22.499166Z
+4e2f2ce6eadb,Mobile Legends: Bang Bang Global [Online Game Code],60.0,EGP,https://thegamecaveegypt.com/products/mobile-legends-global,thegamecaveegypt.com,2025-10-07T00:44:22.499166Z
+a6280a8cd56f,Need for Speed Heat - PlayStation 4,1599.0,EGP,https://thegamecaveegypt.com/products/need-for-speed-heat-playstation-4,thegamecaveegypt.com,2025-10-07T00:44:22.499166Z
+f365f3c241f9,Xbox Live Gift Card - Turkey,36.5,EGP,https://thegamecaveegypt.com/collections/frontpage/products/xbox-live-gift-card-turkey,thegamecaveegypt.com,2025-10-07T00:44:22.499166Z
+ba7b33cc95b4,Xbox Live Gift Card - Spain,639.0,EGP,https://thegamecaveegypt.com/collections/frontpage/products/xbox-live-gift-card-spain,thegamecaveegypt.com,2025-10-07T00:44:22.499166Z
+db7acbe0e7ca,Xbox Live Gift Card - Slovakia,1278.0,EGP,https://thegamecaveegypt.com/collections/frontpage/products/xbox-live-gift-card-slovakia,thegamecaveegypt.com,2025-10-07T00:44:22.499166Z
+2c594a957602,Xbox Live Gift Card - Portugal,639.0,EGP,https://thegamecaveegypt.com/collections/frontpage/products/xbox-live-gift-card-portugal,thegamecaveegypt.com,2025-10-07T00:44:22.499166Z
+18700ebb3a8e,Xbox Live Gift Card - Netherlands,639.0,EGP,https://thegamecaveegypt.com/collections/frontpage/products/xbox-live-gift-card-netherlands,thegamecaveegypt.com,2025-10-07T00:44:22.499166Z
+f847de5631b3,Xbox Live Gift Card - Italy,639.0,EGP,https://thegamecaveegypt.com/collections/frontpage/products/xbox-live-gift-card-italy,thegamecaveegypt.com,2025-10-07T00:44:22.499166Z
+2c59fb5870a7,Xbox Live Gift Card - Irland,319.5,EGP,https://thegamecaveegypt.com/collections/frontpage/products/xbox-live-gift-card-irland,thegamecaveegypt.com,2025-10-07T00:44:22.499166Z
+0431e7462100,Xbox Live Gift Card - Germany,639.0,EGP,https://thegamecaveegypt.com/collections/frontpage/products/xbox-live-gift-card-germany,thegamecaveegypt.com,2025-10-07T00:44:22.499166Z
+70fd6878743b,Xbox Live Gift Card - France,319.5,EGP,https://thegamecaveegypt.com/collections/frontpage/products/xbox-live-gift-card-france,thegamecaveegypt.com,2025-10-07T00:44:22.499166Z
+7614937413a3,Xbox Live Gift Card - Finland,639.0,EGP,https://thegamecaveegypt.com/collections/frontpage/products/xbox-live-gift-card-finland,thegamecaveegypt.com,2025-10-07T00:44:22.499166Z
+485d48976229,Xbox Live Gift Card - Belgium,639.0,EGP,https://thegamecaveegypt.com/collections/frontpage/products/xbox-live-gift-card-belgium,thegamecaveegypt.com,2025-10-07T00:44:22.499166Z
+d5fd9780e860,Xbox Live Gift Card - Austria,958.5,EGP,https://thegamecaveegypt.com/collections/frontpage/products/xbox-live-gift-card-austria,thegamecaveegypt.com,2025-10-07T00:44:22.499166Z
+85d38e221fad,Xbox Live Gift Card Canada,639.0,EGP,https://thegamecaveegypt.com/collections/frontpage/products/xbox-live-gift-card-canada,thegamecaveegypt.com,2025-10-07T00:44:22.499166Z
+03e7424a566a,Xbox Live Gift Card UAE,961.0,EGP,https://thegamecaveegypt.com/collections/frontpage/products/xbox-live-gift-card-uae,thegamecaveegypt.com,2025-10-07T00:44:22.499166Z
+85860914a435,Xbox Live Gift Card UK,389.5,EGP,https://thegamecaveegypt.com/collections/frontpage/products/xbox-live-gift-card-uk,thegamecaveegypt.com,2025-10-07T00:44:22.499166Z
+fcd5d9f049df,PUBG New State NC Global,70.0,EGP,https://thegamecaveegypt.com/collections/frontpage/products/pubg-new-state-nc-global,thegamecaveegypt.com,2025-10-07T00:44:22.499166Z
+b9456350ee72,Nintendo Switch 2 Console - International Version,28399.0,EGP,https://thegamecaveegypt.com/collections/frontpage/products/nintendo-switch-2-console-international-version-new-2025-model,thegamecaveegypt.com,2025-10-07T00:44:22.499166Z
+9ed3666856ac,Sony PlayStation 5 Slim Disc Edition Console with 2 Wireless Controller,35500.0,EGP,https://thegamecaveegypt.com/collections/frontpage/products/sony-playstation-5-slim-disc-edition-console-with-2-wireless-controller,thegamecaveegypt.com,2025-10-07T00:44:22.499166Z
+b7d4939ef3c2,Red Dead Redemption - PlayStation 4,1999.0,EGP,https://thegamecaveegypt.com/collections/frontpage/products/red-dead-redemption-playstation-4,thegamecaveegypt.com,2025-10-07T00:44:22.499166Z
+ffaea61e26b1,PlayStation®5 Slim Digital Edition With 2 Controllers,31999.0,EGP,https://thegamecaveegypt.com/collections/frontpage/products/playstation%C2%AE5-slim-digital-edition-with-2-controllers,thegamecaveegypt.com,2025-10-07T00:44:22.499166Z
+d52f14068412,Sonic Superstars - PlayStation 4,1799.0,EGP,https://thegamecaveegypt.com/collections/frontpage/products/sonic-superstars-playstation-4,thegamecaveegypt.com,2025-10-07T00:44:22.499166Z
+72312dac70f6,Assassin’s Creed Shadows - PlayStation 5,3499.0,EGP,https://thegamecaveegypt.com/collections/frontpage/products/assassin-s-creed-shadows-playstation-5,thegamecaveegypt.com,2025-10-07T00:44:22.499166Z
+6ff602bae2ae,Meta Quest 3S 512GB — Get Batman: Arkham Shadow Included — All-in-One Headset,36000.0,EGP,https://thegamecaveegypt.com/collections/frontpage/products/meta-quest-3s-512gb-get-batman-arkham-shadow-included-all-in-one-headset,thegamecaveegypt.com,2025-10-07T00:44:22.499166Z
+4e7b94ff6061,PlayStation Portal Remote Player - Midnight Black,16499.0,EGP,https://thegamecaveegypt.com/collections/frontpage/products/playstation-portal-remote-player-midnight-black,thegamecaveegypt.com,2025-10-07T00:44:22.499166Z
+9bedac6f3b23,Meta Quest 3S 256GB — Get Batman: Arkham Shadow Included — All-in-One Headset,29999.0,EGP,https://thegamecaveegypt.com/collections/frontpage/products/meta-quest-3s-256gb-get-batman-arkham-shadow-included-all-in-one-headset,thegamecaveegypt.com,2025-10-07T00:44:22.499166Z
+6bd17aa5445b,MSI SUPRIM BUILD – Ryzen 7 9800X3D + RTX 5090 SUPRIM,266500.0,EGP,https://www.compumarts.com/products/bundle-7,www.compumarts.com,2025-10-07T00:50:14.564201Z
+c1dc6afd8f33,Gaming PC i5-12400F | RTX 3050 / 3060 / 5060 Options,23333.0,EGP,https://www.compumarts.com/products/bundle-1,www.compumarts.com,2025-10-07T00:50:14.564201Z
+73645f191520,NINJA FLEX #3 - i5-12400F - H610M - 16GB - 256GB - RTX 3050 / 4060 - 6,23333.0,EGP,https://www.compumarts.com/products/bundle-42,www.compumarts.com,2025-10-07T00:50:14.564201Z
+1d951d434a57,NINJA FLEX #1 - Ryzen 5 8400F - A620M - 16GB - 256GB - RTX 4060 / 4060,31950.0,EGP,https://www.compumarts.com/products/bundle-104,www.compumarts.com,2025-10-07T00:50:14.564201Z
+5425e48f8f27,أفضل تجميعة كمبيوتر جيمينج في مصر – i5 14600KF | RTX 4070 | رامات 32 جيجا | SSD 1TB,64500.0,EGP,https://www.compumarts.com/collections/new-arrivel-accessories-%F0%9F%8E%A7/products/bundle645,www.compumarts.com,2025-10-07T00:50:14.564201Z
+df7716c85e6c,"Lenovo LOQ 15IRX9 | i5-13450HX, RTX 3050, 24GB, 512GB SSD – Egypt",34444.0,EGP,https://www.compumarts.com/collections/new-arrivel-accessories-%F0%9F%8E%A7/products/lenovo-loq-15irx9-i5-13450hx-rtx3050-24gb-512gb-144hz,www.compumarts.com,2025-10-07T00:50:14.564201Z
+3ab97a3ae481,"MSI Pro MP273AW 27"" 100Hz FHD IPS Business Monitor – Adaptive Sync – White | Egypt",5900.0,EGP,https://www.compumarts.com/collections/new-arrivel-accessories-%F0%9F%8E%A7/products/products-msi-pro-mp273aw-27-inch-100hz-fhd-ips-monitor-egypt,www.compumarts.com,2025-10-07T00:50:14.564201Z
+81945c63214e,"Ryzen 7 8700F + RTX 4070 Super Gaming PC – 32GB DDR5, 1TB SSD, Monitor Bundle",70000.0,EGP,https://www.compumarts.com/collections/new-arrivel-accessories-%F0%9F%8E%A7/products/bundle-245,www.compumarts.com,2025-10-07T00:50:14.564201Z
+e32e0013c3e9,"Ryzen 5 7500F + RTX 5060 Ti Gaming PC – 16GB DDR5, 512GB SSD | Egypt",43000.0,EGP,https://www.compumarts.com/collections/new-arrivel-accessories-%F0%9F%8E%A7/products/bundle-239,www.compumarts.com,2025-10-07T00:50:14.564201Z
+bd57362b5931,Gaming PC Build -AMD Ryzen 5 7600| RTX 4060 Ti 8GB | ASUS PRIME B650M,40000.0,EGP,https://www.compumarts.com/collections/new-arrivel-accessories-%F0%9F%8E%A7/products/bundle-777,www.compumarts.com,2025-10-07T00:50:14.564201Z
+74655aee1007,"Gaming PC – Intel Ultra 7 265K, RTX 5070, 32GB DDR5, 512GB SSD",75000.0,EGP,https://www.compumarts.com/collections/new-arrivel-accessories-%F0%9F%8E%A7/products/bundle-234,www.compumarts.com,2025-10-07T00:50:14.564201Z
+841f3af1ee1f,Lenovo Legion 5 i7-14700HX RTX 5060 Gaming Laptop OLED 165Hz | Egypt,78888.0,EGP,https://www.compumarts.com/collections/new-arrivel-accessories-%F0%9F%8E%A7/products/lenovo-legion-5-i7-14700hx-rtx-5060-32gb-1tb-oled-165hz,www.compumarts.com,2025-10-07T00:50:14.564201Z
+6bd44a70ebe6,"AORUS Gaming PC Bundle – 1000W Platinum PSU, 360mm Liquid Cooler",22500.0,EGP,https://www.compumarts.com/collections/new-arrivel-accessories-%F0%9F%8E%A7/products/build-847856,www.compumarts.com,2025-10-07T00:50:14.564201Z
+0222f9af55d5,"Intel i7-14700K Gaming PC – RTX 5080, 32GB RAM, 1TB SSD| Egypt",124999.0,EGP,https://www.compumarts.com/collections/new-arrivel-accessories-%F0%9F%8E%A7/products/bunsle-213,www.compumarts.com,2025-10-07T00:50:14.564201Z
+468895b9443f,Logitech MK120 Corded Keyboard Black USB ARA | Arabic Layout,599.0,EGP,https://www.compumarts.com/collections/new-arrivel-accessories-%F0%9F%8E%A7/products/logitech-mk120-corded-keyboard-black-usb-ara,www.compumarts.com,2025-10-07T00:50:14.564201Z
+51800a53ff11,Logitech G PRO X2 LIGHTSPEED Wireless Gaming Headset Black Blue Mic,11999.0,EGP,https://www.compumarts.com/collections/new-arrivel-accessories-%F0%9F%8E%A7/products/logitech-g-pro-x2-lightspeed-wireless-gaming-headset-black,www.compumarts.com,2025-10-07T00:50:14.564201Z
+21d404f64b03,Logitech G309 LIGHTSPEED Wireless Gaming Mouse,3499.0,EGP,https://www.compumarts.com/collections/new-arrivel-accessories-%F0%9F%8E%A7/products/logitech-g309-lightspeed-wireless-gaming-mouse,www.compumarts.com,2025-10-07T00:50:14.564201Z
+e691d6f7efdb,"Gaming PC Bundle – Ryzen 5 9600X + RTX 5080 + 32GB DDR5 + 1TB NVMe + 360 AIO + With/Without 27"" QHD Monitor",111111.0,EGP,https://www.compumarts.com/collections/new-arrivel-accessories-%F0%9F%8E%A7/products/bundle-287,www.compumarts.com,2025-10-07T00:50:14.564201Z
+59c64d953691,AMD Ryzen 5 3400G Processor with Radeon Vega 11 Graphics | Quad-Core CPU,5000.0,EGP,https://www.compumarts.com/collections/new-arrivel-accessories-%F0%9F%8E%A7/products/amd-ryzen-3400g-8-thread-processor,www.compumarts.com,2025-10-07T00:50:14.564201Z
+748862fa36ae,"ASUS ROG Strix G16 G614FP-GR169W – Ryzen 9 9955HX, RTX 5070, 16GB RAM, 1TB SSD – Best Gaming Laptop Egypt",100000.0,EGP,https://www.compumarts.com/collections/new-arrivel-accessories-%F0%9F%8E%A7/products/asus-rog-strix-g16-g614fp-gr169w-gaming-laptop-egypt,www.compumarts.com,2025-10-07T00:50:14.564201Z
+aea935eae97d,ROG Ally X 2025 – Portable Gaming Console | Compumarts,1.0,EGP,https://www.compumarts.com/products/rog-xbox-ally-x-2025-rc73xa,www.compumarts.com,2025-10-07T00:50:14.564201Z
+4f1cd75f56d3,ASUS ROG Astral GeForce RTX 5090 Dhahab OC Edition Graphic Card,270000.0,EGP,https://www.compumarts.com/products/asus-rog-astral-geforce-rtx-5090-dhahab-oc-edition,www.compumarts.com,2025-10-07T00:50:14.564201Z
+4fb8f725e00d,ANTEC Performance 1 FT Full-Tower Case,7499.0,EGP,https://www.compumarts.com/products/antec-performance-1-ft-full-tower-case,www.compumarts.com,2025-10-07T00:50:14.564201Z
+02a7abb56b7b,GAMDIAS NESO P1 Dual-Chamber Gaming Case,7499.0,EGP,https://www.compumarts.com/products/gamdias-neso-p1-dual-chamber-gaming-case,www.compumarts.com,2025-10-07T00:50:14.564201Z
+e1faf5d9769f,CASE NZXT H7 FLOW RGB MID TOWER ATX AIRFLOW + VERTCAL GPU NZXT BLACK A,11500.0,EGP,https://www.compumarts.com/products/case-nzxt-h7-flow-rgb-mid-tower-atx-airflow-black-vertcal-gpu-nzxt-black-and-white?_pos=1&_psq=H7&_ss=e&_v=1.0,www.compumarts.com,2025-10-07T00:50:14.564201Z
+0a64432ff48b,COUGAR Outrider S Premium Gaming Chair,9000.0,EGP,https://www.compumarts.com/products/cougar-outrider-s-premium-gaming-chair?_pos=4&_psq=OUT&_ss=e&_v=1.0,www.compumarts.com,2025-10-07T00:50:14.564201Z
+6e6621732eb9,"AOC Porsche Design Agon PD27 27"" Gaming Monitor, 1000R Curved QHD (256",24999.0,EGP,https://www.compumarts.com/products/porsche-design-agon-pd27-27-gaming-monitor-1000r-curved-qhd-2560x1440-240hz-0-5ms-displayhdr-400-light-fx-quick-switch-keypad?_pos=1&_psq=AOC+PO&_ss=e&_v=1.0,www.compumarts.com,2025-10-07T00:50:14.564201Z
+aab27bddafe3,"Cooler Master COSMOS C700M with PCI Vertical Gen 4, ARGB Lighting, Alu",24000.0,EGP,https://www.compumarts.com/products/cooler-master-cosmos-c700m-with-pci-vertical-gen-4-argb-lighting-aluminum-panels-a-riser-cable-and-curved-tempered-glass?_pos=1&_psq=C700M&_ss=e&_v=1.0,www.compumarts.com,2025-10-07T00:50:14.564201Z
+e5462164b14b,ASUS Prime B760M-K Intel B760 LGA 1700 mATX DDR5,5400.0,EGP,https://www.compumarts.com/products/asus-prime-b760m-k-intel-b760-lga-1700-matx-motherboard-with-pcie-4-0-two-pcie-4-0-m-2-slots-ddr5,www.compumarts.com,2025-10-07T00:50:14.564201Z
+37725053562d,ASUS Dual GeForce RTX 4060 EVO OC Edition 8GB GDDR6,16000.0,EGP,https://www.compumarts.com/products/asus-dual-geforce-rtx-4060-evo-oc-edition-8gb-gddr6,www.compumarts.com,2025-10-07T00:50:14.564201Z
+21f17e97c7a5,Antec CX300 ARGB Black + Antec Atom Power Supply,5500.0,EGP,https://www.compumarts.com/products/antec-cx300-rgb-elite-black-with-panoramic-270-degree-view-vertical-cooling-4x-120mm-pre-installed-rgb-fans-420mm-gpu-support-atx-mid-tower-gaming-cabinet,www.compumarts.com,2025-10-07T00:50:14.564201Z
+bb1895a9f825,POWERED BY ASUS - TUF EDITION - RTX 5070 -ULTRA-265K - 32GB - 1TB - GT,105000.0,EGP,https://www.compumarts.com/collections/pc-pc-bundles/products/pda1,www.compumarts.com,2025-10-07T00:50:14.564201Z
+f0d5a7f70072,MSI MAG A850GL PCIe 5.1 & ATX 3.1 Gaming Power Supply - Full Modular -,5999.0,EGP,https://www.compumarts.com/products/msi-mag-a850gl-pcie-5-atx-3-0-gaming-power-supply-full-modular-80-plus-gold-certified-850w-compact-size-atx-psu#judgeme_product_reviews,www.compumarts.com,2025-10-07T00:50:14.564201Z
+8b8ff6f5b87e,MSI MAG CORELIQUID A15 360 - AIO ARGB CPU Liquid Cooler - 360mm Radiat,6000.0,EGP,https://www.compumarts.com/products/msi-mag-coreliquid-a15-360-aio-argb-cpu-liquid-cooler-360mm-radiator-lga-1851-black#judgeme_product_reviews,www.compumarts.com,2025-10-07T00:50:14.564201Z
+9a40c828ef2e,ASUS TUF Gaming F15 FX507VU-LP163W i7-13620H DDR5 16GB 512GB RTX 4050,46400.0,EGP,https://www.compumarts.com/products/asus-tuf-f15-fx507vu-lp163w-gaming-laptop-intel-ci7-13620h-15-6-inch-144hz-16gb-ram-512gb-ssd-geforce-rtx-4050-6gb-win11-jaeger-gray-90nr0cj8-m00al0#judgeme_product_reviews,www.compumarts.com,2025-10-07T00:50:14.564201Z
+9da712ba92b9,AMD Ryzen 7 9800X3D – 8-Core 16-Thread CPU with 3D V‑Cache | AM5 | Egypt,24350.0,EGP,https://www.compumarts.com/products/amd-ryzen-7-9800x3d-8-cores-16-threads-desktop-processor#judgeme_product_reviews,www.compumarts.com,2025-10-07T00:50:14.564201Z
+52aa15d81889,Lenovo Legion 5 16IRX9 (83DG004JUS) Intel Core i9-14900HX Laptop 32GB,80888.0,EGP,https://www.compumarts.com/products/lenovo-legion-5-16irx9-83dg004jus-intel-core-i9-14900hx-laptop-32gb-ram-1tb-ssd-rtx-4060-16-wqxga-2560x1600-ips-win-11#judgeme_product_reviews,www.compumarts.com,2025-10-07T00:50:14.564201Z
+b87ebe94a2c1,Keyboards Archives,30.0,EGP,https://hardwaremarket.net/product-category/keyboards/,hardwaremarket.net,2025-10-07T00:55:16.978007Z
+430a631eeec8,60% Archives,30.0,EGP,https://hardwaremarket.net/product-category/keyboards/60-keyboard/,hardwaremarket.net,2025-10-07T00:55:16.978007Z
+641a14c73506,Tenkeyless (TKL) Archives,30.0,EGP,https://hardwaremarket.net/product-category/keyboards/tenkeyless-tkl/,hardwaremarket.net,2025-10-07T00:55:16.978007Z
+d4865f9345fe,FullSize Archives,30.0,EGP,https://hardwaremarket.net/product-category/keyboards/fullsize/,hardwaremarket.net,2025-10-07T00:55:16.978007Z
+fbbf726b1d9b,One Handed Archives,30.0,EGP,https://hardwaremarket.net/product-category/keyboards/one-handed/,hardwaremarket.net,2025-10-07T00:55:16.978007Z
+5c2cfc991eae,Mouse Archives,30.0,EGP,https://hardwaremarket.net/product-category/mouse/,hardwaremarket.net,2025-10-07T00:55:16.978007Z
+3efabf4c52c3,Wired Archives,30.0,EGP,https://hardwaremarket.net/product-category/mouse/wired/,hardwaremarket.net,2025-10-07T00:55:16.978007Z
+16aea8b9b252,Wireless Archives,30.0,EGP,https://hardwaremarket.net/product-category/mouse/wireless/,hardwaremarket.net,2025-10-07T00:55:16.978007Z
+5d9ed43ec8b8,Gaming Accessories Archives,30.0,EGP,https://hardwaremarket.net/product-category/gaming-accessories/,hardwaremarket.net,2025-10-07T00:55:16.978007Z
+d875b55d87a4,Mouse Pads Archives,30.0,EGP,https://hardwaremarket.net/product-category/mouse-pads/,hardwaremarket.net,2025-10-07T00:55:16.978007Z
+ddf1ed47a461,Headsets Archives,30.0,EGP,https://hardwaremarket.net/product-category/headsets/,hardwaremarket.net,2025-10-07T00:55:16.978007Z
+8dab01a0ae1c,Wired Archives,30.0,EGP,https://hardwaremarket.net/product-category/headsets/wired-headsets/,hardwaremarket.net,2025-10-07T00:55:16.978007Z
+4dfd89401028,Wireless Archives,30.0,EGP,https://hardwaremarket.net/product-category/headsets/wireless-headsets/,hardwaremarket.net,2025-10-07T00:55:16.978007Z
+1096d9cea591,Headphones Archives,30.0,EGP,https://hardwaremarket.net/product-category/headphones/,hardwaremarket.net,2025-10-07T00:55:16.978007Z
+367c233d1be5,Fans & Cooling Archives,30.0,EGP,https://hardwaremarket.net/product-category/fans-cooling/,hardwaremarket.net,2025-10-07T00:55:16.978007Z
+dc8743d66000,Gamepad Archives,30.0,EGP,https://hardwaremarket.net/product-category/gamepad/,hardwaremarket.net,2025-10-07T00:55:16.978007Z
+db378dac5cec,USB Hub & Cables Archives,30.0,EGP,https://hardwaremarket.net/product-category/usb-cables-hub/,hardwaremarket.net,2025-10-07T00:55:16.978007Z
+05822dc2d2c8,USB HUB Archives,30.0,EGP,https://hardwaremarket.net/product-category/usb-cables-hub/usb-hub/,hardwaremarket.net,2025-10-07T00:55:16.978007Z
+bfb78aa4ca3f,Streaming Archives,30.0,EGP,https://hardwaremarket.net/product-category/streaming/,hardwaremarket.net,2025-10-07T00:55:16.978007Z
+1f20c99c3c69,Microphone Archives,30.0,EGP,https://hardwaremarket.net/product-category/streaming/microphone/,hardwaremarket.net,2025-10-07T00:55:16.978007Z
+e693edbc46e9,Webcam Archives,30.0,EGP,https://hardwaremarket.net/product-category/streaming/webcam/,hardwaremarket.net,2025-10-07T00:55:16.978007Z
+0dc005037787,Speakers Archives,30.0,EGP,https://hardwaremarket.net/product-category/speakers/,hardwaremarket.net,2025-10-07T00:55:16.978007Z
+93c3449e1a49,Hardware Archives,30.0,EGP,https://hardwaremarket.net/product-category/hardware/,hardwaremarket.net,2025-10-07T00:55:16.978007Z
+796948c9f65d,Computer Cases Archives,30.0,EGP,https://hardwaremarket.net/product-category/hardware/computer-cases/,hardwaremarket.net,2025-10-07T00:55:16.978007Z
+c259ea304a16,Power Supplies Archives,30.0,EGP,https://hardwaremarket.net/product-category/hardware/psu/,hardwaremarket.net,2025-10-07T00:55:16.978007Z
+506ce44b65e9,Graphic Tablet Archives,30.0,EGP,https://hardwaremarket.net/product-category/graphic-tablet/,hardwaremarket.net,2025-10-07T00:55:16.978007Z
+8fb86f0c7b22,Smartwatch Archives,30.0,EGP,https://hardwaremarket.net/product-category/smartwatch/,hardwaremarket.net,2025-10-07T00:55:16.978007Z
+969e6968f719,Top Rated Products,30.0,EGP,https://hardwaremarket.net/top-rated-products-2/,hardwaremarket.net,2025-10-07T00:55:16.978007Z
+cec23ac2ba70,AUKEY KM-P3 Gaming Mouse Pad - Size 900 X 400 X 4 MM,30.0,EGP,https://hardwaremarket.net/product/aukey-km-p3-gaming-mouse-pad-size-900-x-400-x-4-mm/,hardwaremarket.net,2025-10-07T00:55:16.978007Z
+9bbb3fea8dd2,"Logitech G102 Light Sync RGB Gaming Mouse - 8,000 DPI (Black)",30.0,EGP,https://hardwaremarket.net/product/logitech-g102-light-sync-rgb-gaming-mouse-8000-dpi-weight-85g-black/,hardwaremarket.net,2025-10-07T00:55:16.978007Z
+31e31c879e62,Logitech G502 HERO Gaming Mouse Hero Sensor 25K,30.0,EGP,https://hardwaremarket.net/product/logitech-g502-hero-gaming-mouse-hero-sensor-25k/,hardwaremarket.net,2025-10-07T00:55:16.978007Z
+6ea67cdef12f,Redragon K552 KUMARA Mechanical Gaming Keyboard - Red Switches - Rainbow (Black),30.0,EGP,https://hardwaremarket.net/product/redragon-k552-kumara-mechanical-gaming-keyboard-red-switches-rainbow-black/,hardwaremarket.net,2025-10-07T00:55:16.978007Z
+03bb935d69c0,Logitech G305 Lightspeed Wireless Gaming Mouse (Black),30.0,EGP,https://hardwaremarket.net/product/logitech-g305-lightspeed-wireless-gaming-mouse-hero-sensor-12000-dpi/,hardwaremarket.net,2025-10-07T00:55:16.978007Z
+b255c4e14229,NB35 Microphone Stand Boom Arm,30.0,EGP,https://hardwaremarket.net/product/microphone-stand-boom-arm/,hardwaremarket.net,2025-10-07T00:55:16.978007Z
+f8a72aac8691,"Logitech G102 Light Sync RGB Gaming Mouse - 8,000 DPI (White)",30.0,EGP,https://hardwaremarket.net/product/logitech-g102-light-sync-rgb-gaming-mouse-8000-dpi-weight-85g-white/,hardwaremarket.net,2025-10-07T00:55:16.978007Z
+6f2fde06ab54,"Redragon K631 Pro CASTOR 3-Mode Wireless, Bluetooth, Wired RGB Gaming Mechanical Keyboard, Hot-Swappable Red Quiet Linear Switch W/Hot-Swap Free-Mod Pcb Socket & Translucent Board (White Transparent)",30.0,EGP,https://hardwaremarket.net/product/redragon-k631-pro-castor-3-mode-wireless-bluetooth-wired-rgb-gaming-mechanical-keyboard-hot-swappable-red-quiet-linear-switch-w-hot-swap-free-mod-pcb-socket-translucent-board-white-transparent/,hardwaremarket.net,2025-10-07T00:55:16.978007Z
+5af6df1a28a1,"Redragon K631 Pro CASTOR 3-Mode Wireless, Bluetooth, Wired RGB Gaming Mechanical Keyboard, Hot-Swappable Red Quiet Linear Switch W/Hot-Swap Free-Mod Pcb Socket & Translucent Board (Black Transparent)",30.0,EGP,https://hardwaremarket.net/product/redragon-k631-pro-castor-3-mode-wireless-bluetooth-wired-rgb-gaming-mechanical-keyboard-hot-swappable-red-quiet-linear-switch-w-hot-swap-free-mod-pcb-socket-translucent-board-black-transparent/,hardwaremarket.net,2025-10-07T00:55:16.978007Z
+fcaf382e4701,"Redragon K631 CASTOR Wired RGB Gaming Mechanical Keyboard, Hot-Swappable Red Quiet Linear Switch W/Hot-Swap Free-Mod Pcb Socket & Translucent Board (Mint White)",30.0,EGP,https://hardwaremarket.net/product/redragon-k631-castor-wired-rgb-gaming-mechanical-keyboard-hot-swappable-red-quiet-linear-switch-w-hot-swap-free-mod-pcb-socket-translucent-board-mint-white/,hardwaremarket.net,2025-10-07T00:55:16.978007Z
+05029c8a5204,"Redragon K631 Pro CASTOR 3-Mode Wireless, Bluetooth, Wired RGB Gaming Mechanical Keyboard, Hot-Swappable Panda Quiet Tactile Switch W/Hot-Swap Free-Mod Pcb Socket & Translucent Board (Black Green)",30.0,EGP,https://hardwaremarket.net/product/redragon-k631-pro-castor-3-mode-wireless-bluetooth-wired-rgb-gaming-mechanical-keyboard-hot-swappable-panda-quiet-tactile-switch-w-hot-swap-free-mod-pcb-socket-translucent-board-black-green-co/,hardwaremarket.net,2025-10-07T00:55:16.978007Z
+91ba74784623,"Redragon K631 Pro CASTOR 3-Mode Wireless, Bluetooth, Wired RGB Gaming Mechanical Keyboard, Hot-Swappable Bullet SL Quiet Linear Switch W/Hot-Swap Free-Mod Pcb Socket & Translucent Board (Black Green)",30.0,EGP,https://hardwaremarket.net/product/redragon-k631-pro-se-castor-3-mode-wireless-bluetooth-wired-rgb-gaming-mechanical-keyboard-hot-swappable-bullet-sl-quiet-linear-switch-w-hot-swap-free-mod-pcb-socket-translucent-board-black-gree/,hardwaremarket.net,2025-10-07T00:55:16.978007Z
+d182d3ceb19d,"Logitech G915 X Lightspeed TKL Wireless Mechanical Gaming Keyboard, Double-Shot PBT Keycaps, Fully Programmable Keys, RGB Backlit Mac/PC Gaming Keyboards, Aluminum Finish, GL Tactile Switches, Black",30.0,EGP,https://hardwaremarket.net/product/logitech-g915-x-lightspeed-tkl-wireless-mechanical-gaming-keyboard-double-shot-pbt-keycaps-fully-programmable-keys-rgb-backlit-mac-pc-gaming-keyboards-aluminum-finish-gl-tactile-switches-black/,hardwaremarket.net,2025-10-07T00:55:16.978007Z
+712d0db862a9,"Logitech G522 Tri-Connectivity with LIGHTSPEED, Bluetooth, USB Gaming Headset, LIGHTSYNC RGB, Full Bandwidth Mic & Advanced Synchronised Audio (White)",30.0,EGP,https://hardwaremarket.net/product/logitech-g522-tri-connectivity-with-lightspeed-bluetooth-usb-gaming-headset-lightsync-rgb-full-bandwidth-mic-advanced-synchronised-audio-white/,hardwaremarket.net,2025-10-07T00:55:16.978007Z
+2a59f91c7c0d,"Logitech G522 Tri-Connectivity with LIGHTSPEED, Bluetooth, USB Gaming Headset, LIGHTSYNC RGB, Full Bandwidth Mic & Advanced Synchronised Audio (Black)",30.0,EGP,https://hardwaremarket.net/product/logitech-g522-tri-connectivity-with-lightspeed-bluetooth-usb-gaming-headset-lightsync-rgb-full-bandwidth-mic-advanced-synchronised-audio-black/,hardwaremarket.net,2025-10-07T00:55:16.978007Z
+4ae842e50a1c,Logitech MK250 Bluetooth Wireless Mouse and Keyboard Combo (Arabic),30.0,EGP,https://hardwaremarket.net/product/logitech-mk250-bluetooth-wireless-mouse-and-keyboard-combo-arabic/,hardwaremarket.net,2025-10-07T00:55:16.978007Z
+5a5cbda349f3,Arteck Universal Bluetooth Keyboard Backlit Ultra Light Slim Portable Built in Rechargeable 6-Month Battery (English & Arabic),30.0,EGP,https://hardwaremarket.net/product/arteck-universal-bluetooth-keyboard-backlit-ultra-light-slim-portable-built-in-rechargeable-6-month-battery-english-arabic/,hardwaremarket.net,2025-10-07T00:55:16.978007Z
+db3ab7db3ca0,"External Portable CD/DVD +/-RW Burner Optical Drive Reader Writer for Laptop, USB 3.0 & Type-C",30.0,EGP,https://hardwaremarket.net/product/external-portable-cd-dvd-rw-burner-optical-drive-reader-writer-for-laptop-usb-3-0-type-c/,hardwaremarket.net,2025-10-07T00:55:16.978007Z
+9d9e9ed3a690,Verizon USB-C Car Charger 45W Car Adapter With 1.8M USB C TO USB C Cable,30.0,EGP,https://hardwaremarket.net/product/verizon-usb-c-car-charger-45w-car-adapter-with-1-8m-usb-c-to-usb-c-cable/,hardwaremarket.net,2025-10-07T00:55:16.978007Z
+b105f85aae04,"LISEN Phone Holder Car, Ultra Magnetic Phone Mount [6 Strong Magnets] for 4-6.7 inch Smartphones (Black)",30.0,EGP,https://hardwaremarket.net/product/lisen-phone-holder-car-ultra-magnetic-phone-mount-6-strong-magnets-for-4-6-7-inch-smartphones-black/,hardwaremarket.net,2025-10-07T00:55:16.978007Z
+f1a65a64dcdd,"ONTEN 9188s USB-C Docking Station 9-in-1, VGA 1080P@60Hz, Displayport 4K, HDMI 4K, 3.5MM Jack, RJ45 1000M, USB 3.0 X2, USB-C Data, USB-C PD 3.0 @100W",30.0,EGP,https://hardwaremarket.net/product/onten-9188s-usb-c-docking-station-9-in-1-vga-1080p60hz-displayport-4k-hdmi-4k-3-5mm-jack-rj45-1000m-usb-3-0-x2-usb-c-data-usb-c-pd-3-0-100w/,hardwaremarket.net,2025-10-07T00:55:16.978007Z
+8642cb9f7199,"ONTEN UCA5306 USB C Hub,7 Ports USB3.0 to USB-C HUB with a USB C to USB 3.0 Adapter. 3.2ft Cable 4*USB3.0 Ports,3*USB C Ports forThunderbolt 3/4 MacBook Surface Pro",30.0,EGP,https://hardwaremarket.net/product/onten-uca5306-usb-c-hub7-ports-usb3-0-to-usb-c-hub-with-a-usb-c-to-usb-3-0-adapter-3-2ft-cable-4usb3-0-ports3usb-c-ports-forthunderbolt-3-4-macbook-surface-pro/,hardwaremarket.net,2025-10-07T00:55:16.978007Z
+c9fb8876e0f3,Remax RCC232 QC+PD 3.0 45W Double-ended super fast charge 5.5A Digital Display,30.0,EGP,https://hardwaremarket.net/product/remax-rcc232-qcpd-3-0-45w-double-ended-super-fast-charge-5-5a-digital-display/,hardwaremarket.net,2025-10-07T00:55:16.978007Z
+23dc008a1e1a,AUKEY USB C OTG Adapter (3 Pack) USB C to USB 3.0 A OTG Adapter (3 Pack),30.0,EGP,https://hardwaremarket.net/product/aukey-usb-c-otg-adapter-3-pack-usb-c-to-usb-3-0-a-otg-adapter-3-pack/,hardwaremarket.net,2025-10-07T00:55:16.978007Z
+64cb1156665b,ONTEN UCA322 M.2 (NVMe M.2) SSD Enclosure 2230/2242/2260/2280 (10Gbps),30.0,EGP,https://hardwaremarket.net/product/onten-uca322-m-2-nvme-m-2-ssd-enclosure-10gbps/,hardwaremarket.net,2025-10-07T00:55:16.978007Z
+7cd2d64bfb38,"Pisen TS-C093 USB+Type-C QC3.0, 34W Portable Fast Power Combo Travel Charger",30.0,EGP,https://hardwaremarket.net/product/pisen-ts-c093-usbtype-c-qc3-0-34w-portable-fast-power-combo-travel-charger/,hardwaremarket.net,2025-10-07T00:55:16.978007Z
+821dc3cc2f9c,ONTEN UC288 USB-C to HDMI HD Video Adapter with RJ45(100M),30.0,EGP,https://hardwaremarket.net/product/onten-uc288-usb-c-to-hdmi-hd-video-adapter-with-rj45100m/,hardwaremarket.net,2025-10-07T00:55:16.978007Z
+3887d2b79663,Ducky Cotton Candy SA Keycaps 108 ABS Doubleshot Keycap Set (Cotton Candy),30.0,EGP,https://hardwaremarket.net/product/ducky-cotton-candy-sa-keycaps-108-abs-doubleshot-keycap-set-cotton-candy/,hardwaremarket.net,2025-10-07T00:55:16.978007Z
+cf48a6eb0182,Redragon K635 RGB Gaming Mechanical Keyboard Bluetooth/2.4G-Wireless/USB-C Red Switches,30.0,EGP,https://hardwaremarket.net/product/redragon-k635-rgb-mechanical-keyboard-bluetooth-2-4g-wireless-usb-c-red-switches/,hardwaremarket.net,2025-10-07T00:55:16.978007Z
+81421e4c9c5f,Philips C501 Rechargable Wireless Keyboard Mouse Combo (English & Arabic),30.0,EGP,https://hardwaremarket.net/product/philips-c501-wireless-keyboard-mouse-combo/,hardwaremarket.net,2025-10-07T00:55:16.978007Z
+4e4f0d0791fa,"SKYLOONG GK61 PRO Wireless,Bluetooth & Wired Three Mode RGB Gaming Keyboard - Gateron Brown Switch - ABS Black Case (Industrial Titanium ash)",30.0,EGP,https://hardwaremarket.net/product/skyloong-gk61-pro-wirelessbluetooth-wired-three-mode-rgb-gaming-keyboard-gateron-brown-switch-abs-black-case-industrial-titanium-ash/,hardwaremarket.net,2025-10-07T00:55:16.978007Z
+5d41bdef7cef,"Logitech Keys-To-Go Wireless Bluetooth Keyboard For iPhone, iPad, Smartphone, Tablet, Windows, Apple TV",30.0,EGP,https://hardwaremarket.net/product/logitech-keys-to-go-wireless-bluetooth-keyboard-for-iphone-ipad-smartphone-tablet-windows-apple-tv/,hardwaremarket.net,2025-10-07T00:55:16.978007Z
+50c820a38a31,"Jedel WS682 Multi-Device Bluetooth, Wireless 1600 DPI (Arabic)",30.0,EGP,https://hardwaremarket.net/product/jedel-ws682-multi-device-bluetooth-wireless-1600-dpi-arabic/,hardwaremarket.net,2025-10-07T00:55:16.978007Z
+629ade34eff5,SKYLOONG Walnut Wooden Keyboard Wrist Rest (60%),30.0,EGP,https://hardwaremarket.net/product/skyloong-walnut-wooden-keyboard-wrist-rest-60/,hardwaremarket.net,2025-10-07T00:55:16.978007Z
+dcdd8a4bb0aa,SKYLOONG GK980 RGB Gaming 8K Optical Keyboard - Glacier Brown Switch Hot Swappable - 8000Hz Polling Rate (English & Arabic),30.0,EGP,https://hardwaremarket.net/product/skyloong-gk980-rgb-gaming-8k-optical-keyboard-glacier-brown-switch-hot-swappable-8000hz-polling-rate-english-arabic/,hardwaremarket.net,2025-10-07T00:55:16.978007Z
+a24ebd33dd23,REDRAGON P037 Meteor L Keyboard Memory Foam Wrist Rest Pad (Full Size),30.0,EGP,https://hardwaremarket.net/product/redragon-p037-meteor-l-keyboard-memory-foam-wrist-rest-pad-full-size/,hardwaremarket.net,2025-10-07T00:55:16.978007Z
+29429fb1e3ed,"Hotline Games MouseSkates 3.0 [2 Sets] For (G102, G203, G PRO)",30.0,EGP,https://hardwaremarket.net/product/hotline-games-mouseskates-3-0-2-sets-for-g102-g203-g-pro/,hardwaremarket.net,2025-10-07T00:55:16.978007Z
+dc9634fa9d96,LOGITECH PEBBLE M350 Silent Wireless and Bluetooth Mouse (White),30.0,EGP,https://hardwaremarket.net/product/logitech-pebble-m350-silent-wireless-and-bluetooth-mouse-white/,hardwaremarket.net,2025-10-07T00:55:16.978007Z
+d80cbd2d8e78,Logitech Pebble Mouse 2 M350s Slim Bluetooth Wireless Mouse (Graphite),30.0,EGP,https://hardwaremarket.net/product/logitech-pebble-mouse-2-m350s-slim-bluetooth-wireless-mouse-graphite/,hardwaremarket.net,2025-10-07T00:55:16.978007Z
+e733a06f7ff6,"Redragon M815-STD 3-Mode Wireless,Bluetooth, Optical Sensor 12,000 DPI Lightweight 54G , Full Programmable Buttons, Software Supports",30.0,EGP,https://hardwaremarket.net/product/redragon-m815-std-3-mode-wirelessbluetooth-optical-sensor-12000-dpi-lightweight-54g-full-programmable-buttons-software-supports/,hardwaremarket.net,2025-10-07T00:55:16.978007Z
+8f5b55500e71,"Xtrike Me GW322 Rechargeable Wireless, Bluetooth Gaming Mouse, Optical Sensor 3200 DPI",30.0,EGP,https://hardwaremarket.net/product/xtrike-me-gw322-rechargeable-wireless-bluetooth-gaming-mouse-optical-sensor-3200-dpi/,hardwaremarket.net,2025-10-07T00:55:16.978007Z
+6e45f0d6adbf,Logitech R400 Wireless PRESENTATION REMOTE,30.0,EGP,https://hardwaremarket.net/product/logitech-r400-wireless-presentation-remote/,hardwaremarket.net,2025-10-07T00:55:16.978007Z
+053250061454,EsportsTiger Mouse Sole ICE Mouse Feet For ( Viper Ultimate ),30.0,EGP,https://hardwaremarket.net/product/esportstiger-mouse-sole-ice-mouse-feet-for-viper-ultimate/,hardwaremarket.net,2025-10-07T00:55:16.978007Z
+cd776e0c1bb6,Logitech MX Vertical Wireless Bluetooth Mouse (Graphite),30.0,EGP,https://hardwaremarket.net/product/logitech-mx-vertical-wireless-bluetooth-mouse-graphite/,hardwaremarket.net,2025-10-07T00:55:16.978007Z
+a9ae9545ce5c,"Nengshi M256 Dual Mode Wireless, Bluetooth Silent Click Mouse - Optical Sensor 1600 DPI Rechargeable USB C (Green)",30.0,EGP,https://hardwaremarket.net/product/nengshi-m256-dual-mode-wireless-bluetooth-silent-click-mouse-optical-sensor-1600-dpi-rechargeable-usb-c-green/,hardwaremarket.net,2025-10-07T00:55:16.978007Z
+e5a282fc309b,JEDEL HS-100 USB Headset - Noise Cancelling Microphone - In-Line Volume Control - Mic On/off Switch,30.0,EGP,https://hardwaremarket.net/product/jedel-hs-100-usb-headset-noise-cancelling-microphone-in-line-volume-control-mic-on-off-switch/,hardwaremarket.net,2025-10-07T00:55:16.978007Z
+ea405ffb3c5c,Chiropter GH31 Gaming Headset - Stereo Sound (Black Blue),30.0,EGP,https://hardwaremarket.net/product/chiropter-gh31-gaming-headset-stereo-sound-black-blue/,hardwaremarket.net,2025-10-07T00:55:16.978007Z
+81b31b4ec562,Logitech H390 USB Headset (Black),30.0,EGP,https://hardwaremarket.net/product/logitech-h390-usb-headset/,hardwaremarket.net,2025-10-07T00:55:16.978007Z
+7d2e30f64c35,Tatybo XW4 Headset Stand,30.0,EGP,https://hardwaremarket.net/product/tatybo-xw4-headset-stand/,hardwaremarket.net,2025-10-07T00:55:16.978007Z
+2788f7f56218,Aluminum Headset Stand (White),30.0,EGP,https://hardwaremarket.net/product/aluminum-headset-stand-white/,hardwaremarket.net,2025-10-07T00:55:16.978007Z
+4e046d91e39b,Cable For KZ ZSN Pro X in Ear Monitor Dual Driver Earphone With Mic C Pin (3.5MM),30.0,EGP,https://hardwaremarket.net/product/cable-for-kz-zsn-pro-x-in-ear-monitor-dual-driver-earphone-with-mic-3-5mm/,hardwaremarket.net,2025-10-07T00:55:16.978007Z
+35372dc9c6a4,Pander USB Headset with Noise Cancelling Microphone for Work Office Online Class Skype Zoom Meeting,30.0,EGP,https://hardwaremarket.net/product/pander-usb-headset-with-noise-cancelling-microphone-for-work-office-online-class-skype-zoom-meeting/,hardwaremarket.net,2025-10-07T00:55:16.978007Z
+301a1dfbe5aa,Redragon H888 LUCE Wireless / Bluetooth / Wired 3.5mm Gaming Headset - 7.1 Surround Sound (White),30.0,EGP,https://hardwaremarket.net/product/redragon-h888-luce-wireless-bluetooth-wired-3-5mm-gaming-headset-7-1-surround-sound-white/,hardwaremarket.net,2025-10-07T00:55:16.978007Z
+c2cb32e5f237,ACESTEK AH11 USB USB RGB Gaming Headset - 7.1 Surround Sound,30.0,EGP,https://hardwaremarket.net/product/acestek-ah11-usb-usb-rgb-gaming-headset-7-1-surround-sound/,hardwaremarket.net,2025-10-07T00:55:16.978007Z
+5c5f77cf91fa,Get the best Fans and Controllers | AHW Store,4950.0,EGP,https://ahw.store/pc-components/cooling-en-gb/fans-and-controllers/,ahw.store,2025-10-07T00:57:59.497369Z
+b5fd60d60d2e,"Gears Bundle – Gaming Keyboard, Mouse, Headset & Mouse Pad | Save 5% | AHW Store",385.0,EGP,https://ahw.store/product-product_bundle?product_bundle_id=15,ahw.store,2025-10-07T00:57:59.497369Z
+6d398526f67b,Get The Best  Keyboard / Mouse Combo | AHW Store,1000.0,EGP,https://ahw.store/computer-peripherals/keyboard-mouse-combo/,ahw.store,2025-10-07T00:57:59.497369Z
+a222ba2b5a10,Headset Stand | AHW Store,199.0,EGP,https://ahw.store/computer-peripherals/headset-stand/,ahw.store,2025-10-07T00:57:59.497369Z
+5e784e6d75c3,Buy The Best  Headsets | AHW Store,1539.0,EGP,https://ahw.store/computer-peripherals/headsets-en-gb/,ahw.store,2025-10-07T00:57:59.497369Z
+d84be297173d,Get The Best Keyboard | AHW Store,275.0,EGP,https://ahw.store/computer-peripherals/keyboard-en-gb/,ahw.store,2025-10-07T00:57:59.497369Z
+bdefeb6e0163,Get The Best Mouse | AHW Store,175.0,EGP,https://ahw.store/computer-peripherals/mouse-en/,ahw.store,2025-10-07T00:57:59.497369Z
+24eeabcab45a,Buy The Best  Mouse Pad | AHW Store,249.0,EGP,https://ahw.store/computer-peripherals/mouse-pad-en-gb/,ahw.store,2025-10-07T00:57:59.497369Z
+fbf61c92cf1a,Buy The Best  Gaming Chair | AHW Store,38999.0,EGP,https://ahw.store/gaming-chair/,ahw.store,2025-10-07T00:57:59.497369Z
+15663907775e,AHW PC Services | AHW Store,100.0,EGP,https://ahw.store/index.php?route=product/product_bundle&product_bundle_id=10&options=pov_2087;3034_1,ahw.store,2025-10-07T00:57:59.497369Z
+3462d4d7c928,AHW Laptop Service | AHW Store,100.0,EGP,https://ahw.store/index.php?route=product/product_bundle&product_bundle_id=11&options=pov_2077;3034_1,ahw.store,2025-10-07T00:57:59.497369Z
+28dc6a8c146e,AHW Fix | AHW Store,200.0,EGP,https://ahw.store/index.php?route=product/product_bundle&product_bundle_id=12&options=pov_2071;3034_1,ahw.store,2025-10-07T00:57:59.497369Z
+eb183799655e,Gaming Furniture | AHW Store,38999.0,EGP,https://ahw.store/Gaming-furniture/,ahw.store,2025-10-07T00:57:59.497369Z
+153b6cb5effc,Buy The Best  Gaming Chair | AHW Store,38999.0,EGP,https://ahw.store/Gaming-furniture/gaming-chair/,ahw.store,2025-10-07T00:57:59.497369Z
+36e42e5999e1,Gaming Decoration in Egypt | Gaming Accessories & Setup Decor | AHW Store | AHW Store,350.0,EGP,https://ahw.store/Gaming-furniture/gaming-decoration/,ahw.store,2025-10-07T00:57:59.497369Z
+aa5f6f893845,Gaming Desks in Egypt | Premium Gaming Furniture | AHW Store | AHW Store,10227.0,EGP,https://ahw.store/Gaming-furniture/Gaming-Desk/,ahw.store,2025-10-07T00:57:59.497369Z
+f63c1b789111,AHW PS Services | AHW Store,100.0,EGP,https://ahw.store/product-product_bundle?product_bundle_id=14&options=pov_46729;3089_1,ahw.store,2025-10-07T00:57:59.497369Z
+da076400cba2,Buy The Best  Gaming Chair | AHW Store,38999.0,EGP,https://ahw.store/gaming-chair/?fq=1,ahw.store,2025-10-07T00:57:59.497369Z
+1890c11a0d7f,Mobile Stand 3D Printed - Black,69.0,EGP,https://ahw.store/product-product?product_id=3583,ahw.store,2025-10-07T00:57:59.497369Z
+1392f8728744,AHW PC External Power Start On/Off Button Blue Switch 3D Printed 1.65M Cable,149.0,EGP,https://ahw.store/product-product?product_id=3690,ahw.store,2025-10-07T00:57:59.497369Z
+7695f7d32c29,Under Desk Mount for PS5/PS4 Controller 3D Printed - Black,49.0,EGP,https://ahw.store/under-desk-mount-for-ps5-ps4-controller-3d-printed-black,ahw.store,2025-10-07T00:57:59.497369Z
+6118d1125d9e,Brennenstuhl Premium-Line Power Strip with 6 Sockets 3M Cable with Switch Black,999.0,EGP,https://ahw.store/product-product?product_id=3778,ahw.store,2025-10-07T00:57:59.497369Z
+a19b7863ce36,RAZER ISKUR XL Ergonomic Gaming Chair Black/Green,38999.0,EGP,https://ahw.store/product-product?product_id=4105,ahw.store,2025-10-07T00:57:59.497369Z
+5ec0e9941300,ASUS ROG SL400C Destrier Core Ergo Gaming Chair Black,32499.0,EGP,https://ahw.store/product-product?product_id=4284,ahw.store,2025-10-07T00:57:59.497369Z
+247c7421649e,Cooler Master Hybrid 1 Gaming Chair - Black,25950.0,EGP,https://ahw.store/product-product?product_id=3430,ahw.store,2025-10-07T00:57:59.497369Z
+d11e70dfc915,ASUS SL201 ROG Aethon Gaming Chair - Black,25846.0,EGP,https://ahw.store/product-product?product_id=3631,ahw.store,2025-10-07T00:57:59.497369Z
+b8f7c4708ada,CORSAIR TC500 LUXE Gaming Chair Sherwood,32875.0,EGP,https://ahw.store/product-product?product_id=4108,ahw.store,2025-10-07T00:57:59.497369Z
+0842a9d4bffa,BENQ ZOWIE III Extra Large Esports Gaming Mouse Pad 50 x 50 cm Black,3499.0,EGP,https://ahw.store/product-product?product_id=4176,ahw.store,2025-10-07T00:57:59.497369Z
+48ce6f415a7f,BENQ ZOWIE Bi II Large Esports Gaming Mouse Pad 47 x 39 cm Green,2999.0,EGP,https://ahw.store/product-product?product_id=4174,ahw.store,2025-10-07T00:57:59.497369Z
+a9c861fc142a,BenQ GW2791 Office Monitor 27 Inch IPS FHD 100Hz 5Ms Black + HP 150 Wireless Mouse (Gift),5750.0,EGP,https://ahw.store/product-product?product_id=3942,ahw.store,2025-10-07T00:57:59.497369Z
+67abd5cbc34d,BenQ PD2705U Designer Monitor 27 Inch IPS 4K 60Hz 5Ms Black,24990.0,EGP,https://ahw.store/product-product?product_id=3476,ahw.store,2025-10-07T00:57:59.497369Z
+fc3022116517,BenQ GW2490 Designer Monitor 24 Inch IPS FHD 100Hz 5Ms Black,4750.0,EGP,https://ahw.store/product-product?product_id=3471,ahw.store,2025-10-07T00:57:59.497369Z
+39480f9fba9e,BenQ MOBIUZ EX271Q Gaming Monitor 27 Inch IPS 2K 180Hz 1Ms White + HP X220 Gaming Mouse (Gift),16990.0,EGP,https://ahw.store/product-product?product_id=3862,ahw.store,2025-10-07T00:57:59.497369Z
+80c1de2c069e,BenQ ZOWIE XL2586X 24 Inch Fast TN FHD 540Hz Esports Gaming Monitor Black + HP X220 Gaming Mouse (Gift),59990.0,EGP,https://ahw.store/product-product?product_id=3863,ahw.store,2025-10-07T00:57:59.497369Z
+171531845deb,BenQ MA320U Designer Monitor For MacBook 32 Inch IPS 4K 60Hz 5Ms Built-in Speaker Silver,37990.0,EGP,https://ahw.store/product-product?product_id=3866,ahw.store,2025-10-07T00:57:59.497369Z
+5ca73fae3a9e,HP V19 Monitor 18.5 Inch TN HD 60Hz 5Ms Black,3750.0,EGP,https://ahw.store/product-product?product_id=4268,ahw.store,2025-10-07T00:57:59.497369Z
+713ee45c50c0,HP P22VA Monitor 21.5 Inch VA FHD 60Hz 7Ms Black,4750.0,EGP,https://ahw.store/product-product?product_id=4269,ahw.store,2025-10-07T00:57:59.497369Z
+f7d4ffc57763,DELL E1920H Monitor 18.5 Inch TN HD 60Hz 5Ms Black,3750.0,EGP,https://ahw.store/product-product?product_id=4270,ahw.store,2025-10-07T00:57:59.497369Z
+0651d27644a1,DELL E2016HV Monitor 19.5 Inch TN HD 60Hz 5Ms Black,3750.0,EGP,https://ahw.store/product-product?product_id=4271,ahw.store,2025-10-07T00:57:59.497369Z
+3c278fae1530,DELL E2020H Monitor 19.5 Inch TN FHD 60Hz 5Ms Black,3850.0,EGP,https://ahw.store/product-product?product_id=4272,ahw.store,2025-10-07T00:57:59.497369Z
+92fc8e5299f0,DELL E2222H Monitor 21.45 Inch VA FHD 60Hz 5Ms Black,4750.0,EGP,https://ahw.store/product-product?product_id=4273,ahw.store,2025-10-07T00:57:59.497369Z
+3e091da98539,DELL E2422HN Monitor 23.8 Inch IPS FHD 75Hz 5Ms Black,5650.0,EGP,https://ahw.store/product-product?product_id=4274,ahw.store,2025-10-07T00:57:59.497369Z
+cb222a84c6d9,DELL E2423H Monitor 23.8 Inch VA FHD 75Hz 5Ms Black,5700.0,EGP,https://ahw.store/product-product?product_id=4275,ahw.store,2025-10-07T00:57:59.497369Z
+a1c6fed3c2f5,DELL E2423HN Monitor 23.8 Inch VA FHD 75Hz 5Ms Black,5900.0,EGP,https://ahw.store/product-product?product_id=4276,ahw.store,2025-10-07T00:57:59.497369Z
+1980e5d174af,"HP VICTUS 15 Laptop RYZEN 5 8645HS 8GB DDR5 512 SSD RTX 4050 6GB 15.6"" FHD 144Hz Win 11 Mica Silver",40050.0,EGP,https://ahw.store/product-product?product_id=3539,ahw.store,2025-10-07T00:57:59.497369Z
+9c0a3e010bbf,"HP VICTUS 15 FA1017NE Laptop Core i5-13500H 16GB DDR4 512GB SSD RTX 4050 6GB 15.6"" FHD 144Hz Blue",41050.0,EGP,https://ahw.store/product-product?product_id=3545,ahw.store,2025-10-07T00:57:59.497369Z
+c50b39f67c05,"HP VICTUS 15 FA1035NE Laptop Core i5-13500H 16GB DDR4 512GB SSD RTX 4050 6GB 15.6"" FHD 144Hz Blue",41200.0,EGP,https://ahw.store/product-product?product_id=3546,ahw.store,2025-10-07T00:57:59.497369Z
+c2ef787a4326,"HP VICTUS 15 FA1036NE Laptop Core I5-13500H 16GB DDR4 512GB SSD RTX 4050 6GB 15.6"" FHD 144Hz Silver",41200.0,EGP,https://ahw.store/product-product?product_id=3547,ahw.store,2025-10-07T00:57:59.497369Z
+7a8dbee04b42,LDNIO AW001 Super 10W Wireless Charger Pad (Open Box),99.0,EGP,https://ahw.store/ldnio-aw001-super-10w-wireless-charger-pad,ahw.store,2025-10-07T00:57:59.497369Z
+4e4626c91905,XIGMATEK CUBI Arctic ARGB Super Tower Case 6 Fan ARGB White (Open Box),4999.0,EGP,https://ahw.store/xigmatek-cubi-arctic-argb-super-tower-case-en,ahw.store,2025-10-07T00:57:59.497369Z
+02c4f445aa95,HP V8 RGB 8GB 3600MHz CL18 DDR4 RAM Black (Open Box),1035.0,EGP,https://ahw.store/hp-v8-rgb-ddr4-3600mhz-u-dimm-1x8g,ahw.store,2025-10-07T00:57:59.497369Z
+683a27d7b5d4,Redragon P032 FLICK XL Gaming Mouse Pad (Open Box),869.0,EGP,https://ahw.store/redragon-p032-flick-xl-gaming-mouse-pad,ahw.store,2025-10-07T00:57:59.497369Z
+30a91ce33080,Meetion M371 Backlit Wired Rainbow Gaming Mouse 1600 DPI 4 Buttons Black,175.0,EGP,https://ahw.store/product-product?product_id=3902,ahw.store,2025-10-07T00:57:59.497369Z
+d24ec6322ad4,Meetion GM19 2023 RGB Wired Gaming Mouse 12000 DPI 7 Buttons Black,475.0,EGP,https://ahw.store/product-product?product_id=3907,ahw.store,2025-10-07T00:57:59.497369Z
+356c4c8ecfe8,Meetion M915 Backlight Wired Gaming Mouse 2400 DPI 6 Buttons Black,250.0,EGP,https://ahw.store/product-product?product_id=3904,ahw.store,2025-10-07T00:57:59.497369Z
+4c3832726d93,Meetion GM23 2023 RGB Circulation Backlit Wired Gaming Mouse 12800 DPI 6 Buttons Black,549.0,EGP,https://ahw.store/product-product?product_id=3909,ahw.store,2025-10-07T00:57:59.497369Z
+bb288db2a090,Meetion GM21 2023 RGB Wired Gaming Mouse 12000 DPI 7 Buttons Black,375.0,EGP,https://ahw.store/product-product?product_id=3905,ahw.store,2025-10-07T00:57:59.497369Z
+8d0a9578cd24,Meetion K200 Wired Office Keyboard Membrane English & Arabic Black,275.0,EGP,https://ahw.store/product-product?product_id=3891,ahw.store,2025-10-07T00:57:59.497369Z
+ec3401a7a34f,Meetion K9420 RGB Membrane Gaming Keyboard English & Arabic Black,749.0,EGP,https://ahw.store/product-product?product_id=3914,ahw.store,2025-10-07T00:57:59.497369Z
+1d62164f5883,Meetion MK600MX Blue Backlight Mechanical Gaming Keyboard Blue Switch English & Arabic White,849.0,EGP,https://ahw.store/product-product?product_id=3917,ahw.store,2025-10-07T00:57:59.497369Z
+24dfe3cfb0f3,Redragon K552 KUMARA Rainbow Gaming Keyboard Mechanical Blue Switch English & Arabic Black,1365.0,EGP,https://ahw.store/redragon-k552-kumara-rainbow-mechanical-gaming-keyboard-cherry-mx-blue-switch-black-en-gb,ahw.store,2025-10-07T00:57:59.497369Z
+c3cd4b46b016,Redragon K608 Valheim Rainbow Gaming Keyboard Mechanical BLUE Switch English & Arabic Black,1584.0,EGP,https://ahw.store/redragon-k608-valheim-rainbow-mechanical-gaming-keyboard-blue-switch,ahw.store,2025-10-07T00:57:59.497369Z
+e06252ea9794,HyperX Cloud Mini 3.5mm Gaming Headset Colorful,1539.0,EGP,https://ahw.store/product-product?product_id=3619,ahw.store,2025-10-07T00:57:59.497369Z
+29c29e19e827,Redragon Europe H720 7.1 USB C 3.5mm Gaming Headset Black,3063.0,EGP,https://ahw.store/redragon-h720-europe-type-c-surround-sound-gaming-headset,ahw.store,2025-10-07T00:57:59.497369Z
+15160e2e27ba,Meetion HP099 RGB Virtual 7.1 Surround Sound Wired Gaming Headset,1299.0,EGP,https://ahw.store/product-product?product_id=3919,ahw.store,2025-10-07T00:57:59.497369Z
+42e189f58e49,MSI MAESTRO 300 USB Gaming Headset Black,1850.0,EGP,https://ahw.store/product-product?product_id=4161,ahw.store,2025-10-07T00:57:59.497369Z
+8e686ff2d6df,Redragon Europe H720 7.1 USB 3.5mm Gaming Headset Black,3052.0,EGP,https://ahw.store/redragon-h720-europe-usb-7-1-surround-sound-gaming-headset,ahw.store,2025-10-07T00:57:59.497369Z
+6376707cd1ec,TP-Link Archer T600U Nano | AC600 Nano Wireless USB Adapter,573.0,EGP,https://ahw.store/product-product?product_id=3378,ahw.store,2025-10-07T00:57:59.497369Z
+6d2277f4756c,TP-Link Archer A6 | AC1200 Wireless MU-MIMO Gigabit Router,2406.0,EGP,https://ahw.store/product-product?product_id=3367,ahw.store,2025-10-07T00:57:59.497369Z
+e9c32672ef58,TP-Link Archer C60 | AC1350 Dual Band Access Point/ Wi-Fi Router,2061.0,EGP,https://ahw.store/product-product?product_id=3452,ahw.store,2025-10-07T00:57:59.497369Z
+c8b8686f990f,Thermal Grizzly Kryonaut 1G Thermal Paste,425.0,EGP,https://ahw.store/product-product?product_id=3981,ahw.store,2025-10-07T00:57:59.497369Z
+1025947b3961,Thermal Grizzly Kryonaut Extreme 2G Thermal Paste,825.0,EGP,https://ahw.store/product-product?product_id=3987,ahw.store,2025-10-07T00:57:59.497369Z
+696094e043c5,Polartherm X8 2g Thermal Paste,199.0,EGP,https://ahw.store/product-product?product_id=4053,ahw.store,2025-10-07T00:57:59.497369Z
+747120cded33,Thermal Grizzly Duronaut 2G Thermal Paste,575.0,EGP,https://ahw.store/product-product?product_id=3984,ahw.store,2025-10-07T00:57:59.497369Z
+6885b42ab03f,Thermal Grizzly Aeronaut 1G Thermal Paste,275.0,EGP,https://ahw.store/product-product?product_id=3975,ahw.store,2025-10-07T00:57:59.497369Z
+ab8b7a4cc13f,Gaming Accessories,3535.0,EGP,https://www.pcs-souq.com/collections/gaming-accessories,www.pcs-souq.com,2025-10-07T00:59:33.929744Z
+8c9a5b3c1cb3,RG-RAP2260(G) Reyee Wi-Fi 6 AX1800 Ceiling Access Point,7199.0,EGP,https://www.pcs-souq.com/products/rg-rap2260g,www.pcs-souq.com,2025-10-07T00:59:33.929744Z
+dcda402fd8c1,VGA Card GAMING GeForce RTX 3060 Twin Edge OC DDR6 12G,15980.0,EGP,https://www.pcs-souq.com/products/vga-card-gaming-geforce-rtx-3060-twin-edge,www.pcs-souq.com,2025-10-07T00:59:33.929744Z
+20e2a88cd361,"SurgeArrest 5 outlets Black, PME5B-GR",850.0,EGP,https://www.pcs-souq.com/products/apc-surgearrest-5-outlets-black-pme5b-gr,www.pcs-souq.com,2025-10-07T00:59:33.929744Z
+df2ec9c236a8,Workstation Precision 3680 CoreI7 14700 32GB 256 NVMe + 2TB SATA VGA Q,99000.0,EGP,https://www.pcs-souq.com/products/workstation-precision-3680-corei7-14700-32gb-256-nvme-2tb-sata-qaudro-t1000-8gb-ddr6,www.pcs-souq.com,2025-10-07T00:59:33.929744Z
+c337c54e8bcc,"PowerEdge R750xs, Xeon Silver 4314 32GB 1.2SAS Rack Server",335000.0,EGP,https://www.pcs-souq.com/products/poweredge-r750xs-xeon-silver-4314-32gb-1-2sas-rack-server,www.pcs-souq.com,2025-10-07T00:59:33.929744Z
+fd2b7debb821,Workstation Precision 3680 CoreI7 14700 16GB 256 NVMe + 2TB SATA VGA R,148000.0,EGP,https://www.pcs-souq.com/products/workstation-precision-3680-corei7-14700-16gb-256-nvme-2tb-sata-vga-quadro-rtx3050-8gb-copy,www.pcs-souq.com,2025-10-07T00:59:33.929744Z
+185143ffb407,VGA Card GeForce RTX™ 4060 GAMING OC 8G,17500.0,EGP,https://www.pcs-souq.com/products/vga-card-geforce-rtx%E2%84%A2-4060-gaming-oc-8g,www.pcs-souq.com,2025-10-07T00:59:33.929744Z
+16b26c5f745c,VGA Card GeForce RTX™ 3050 WINDFORCE OC 8G,12275.0,EGP,https://www.pcs-souq.com/products/vga-card-geforce-rtx%E2%84%A2-3050-windforce-oc-8g,www.pcs-souq.com,2025-10-07T00:59:33.929744Z
+61e5c00a05a2,HD 3.84TB SATA 6G 512e 2.5in SSD D3-S4510 without caddy,37850.0,EGP,https://www.pcs-souq.com/products/hd-3-84tb-sata-6g-512e-2-5in-ssd,www.pcs-souq.com,2025-10-07T00:59:33.929744Z
+0f89570f27ea,HD 1.92TB SATA 6G 512e 2.5in SSD without caddy,28500.0,EGP,https://www.pcs-souq.com/products/dell-1-92tb-ssd-sata-read-intensive-6gbps-512e-2-5in,www.pcs-souq.com,2025-10-07T00:59:33.929744Z
+f1c8b64d5e15,"UPS Smart OnLine 2KVA, 1.98KW SRT2200XLI",49800.0,EGP,https://www.pcs-souq.com/products/apc-smart-ups-online-2kva-1-98kw-srt2200xli,www.pcs-souq.com,2025-10-07T00:59:33.929744Z
+99806545414e,"PowerEdge R750xs, Xeon Silver 4310 32GB 1.2SAS Rack Server",323000.0,EGP,https://www.pcs-souq.com/products/dell-poweredge-r750xs-xeon-silver-4310-32gb-rdimm-1-2tb-10k-hard-drive-rack-server,www.pcs-souq.com,2025-10-07T00:59:33.929744Z
+f15c7df8e337,"PowerEdge T350, Xeon E-2314 Tower Server",127000.0,EGP,https://www.pcs-souq.com/products/dell-poweredge-t350-xeon-e-2314-16gb-udimm-2tb-hard-drive-tower-server,www.pcs-souq.com,2025-10-07T00:59:33.929744Z
+34b6d5737c6b,"UPS Smart OnLine 3KVA, 2.7KW SRT3000XLI",125800.0,EGP,https://www.pcs-souq.com/products/apc-smart-ups-online-3kva-2-7kw-srt3000xli,www.pcs-souq.com,2025-10-07T00:59:33.929744Z
+7c65917996dd,"RG-ES110GDS-P, 10-port 10/100/1000Mbps Unmanaged PoE Switch",5885.0,EGP,https://www.pcs-souq.com/products/ruijie-picture-rg-es110gds-p-10-port-10-100-1000mbps-unmanaged-poe-switch,www.pcs-souq.com,2025-10-07T00:59:33.929744Z
+d6f78b2694b2,RG-RAP2200(E) Reyee Wi-Fi 5 1267Mbps Ceiling Access Point,3699.0,EGP,https://www.pcs-souq.com/products/rg-rap2200e,www.pcs-souq.com,2025-10-07T00:59:33.929744Z
+243a15ef38f7,"PowerEdge R750xs, Xeon Gold 6330 64GB 2.4 SAS Rack Server",435000.0,EGP,https://www.pcs-souq.com/products/dell-poweredge-r750xs-xeon-gold-6330-64gb-rdimm-3x1-92tb-ssd-rack-server,www.pcs-souq.com,2025-10-07T00:59:33.929744Z
+01e33d52b30b,"SurgeArrest 1 outlet Black, PME1WB-GR",850.0,EGP,https://www.pcs-souq.com/products/apc-surgearrest-1-outlet-pm1w-gr,www.pcs-souq.com,2025-10-07T00:59:33.929744Z
+9f351dccd5f5,"PowerEdge R760xs, Xeon Silver 4514Y 128GB 2.4 SAS Rack Server",430000.0,EGP,https://www.pcs-souq.com/products/poweredge-r760xs-xeon-silver-4514-128gb-2-4-sas-rack-server,www.pcs-souq.com,2025-10-07T00:59:33.929744Z
+66a1f20e66b2,"Workstation Precision 3680 CoreI9 14900K ,64GB, 1TB NVMe Nvidia QUADRO",275000.0,EGP,https://www.pcs-souq.com/products/workstation-precision-3680-corei9-14900k-64gb-1tb-nvme-nvidia-quadro-rtx-a4500-ada-24gb-gddr6,www.pcs-souq.com,2025-10-07T00:59:33.929744Z
+5aea71aa96a8,"Workstation Precision 3680 CoreI9 14900K ,32GB, 512GB NVMe Nvidia RTX™",155000.0,EGP,https://www.pcs-souq.com/products/workstation-precision-3680-corei9-14900k-32gb-512gb-nvme-nvidia-rtx%E2%84%A2-ada2000-16g,www.pcs-souq.com,2025-10-07T00:59:33.929744Z
+8d4b166144d6,"Dell Precision T5860 Tower - intel Xeon W3-2423 32GB 1TB M.2,Quadro P2",145500.0,EGP,https://www.pcs-souq.com/products/dell-precision-t5860-tower-intel-xeon-w3-2423-32gb-1tb-m-2-w11-pro-1000w,www.pcs-souq.com,2025-10-07T00:59:33.929744Z
+e022dc5d66d0,"PowerEdge R750xs, Xeon Gold 6338 64GB 2.4 SAS Rack Server",485000.0,EGP,https://www.pcs-souq.com/products/poweredge-r750xs-xeon-gold-6338-64gb-2-4-sas-rack-server,www.pcs-souq.com,2025-10-07T00:59:33.929744Z
+91ec876ea704,Workstation Precision 3680 CoreI7 14700 8GB 256 NVMe + 2TB SATA Intel,75500.0,EGP,https://www.pcs-souq.com/products/workstation-precision-3680-corei7-14700-8gb-256-nvme-2tb-sata-intel-vga,www.pcs-souq.com,2025-10-07T00:59:33.929744Z
+a3ef9e6a1701,"Workstation Precision 3680 CoreI7 - 14700 ,128GB, 4TB NVMe, NVIDIA Qua",345000.0,EGP,https://www.pcs-souq.com/products/workstation-precision-3680-corei7-14700-128gb-4tb-nvme-nvidia-quadro-rtx-8000-48gb,www.pcs-souq.com,2025-10-07T00:59:33.929744Z
+f06171d71203,"Desktop OptiPlex All-in-One Plus 7400 Core I7 12700h , 8GB , 256GB NVM",56000.0,EGP,https://www.pcs-souq.com/products/desktop-optiplex-all-in-one-plus-7400-core-i7-12700h-16gb-256gb-nvme-23-8-fhd-touch,www.pcs-souq.com,2025-10-07T00:59:33.929744Z
+95a6745d5263,CAT6 UTP KEYSTONE JACK 90deg BLACK,105.0,EGP,https://www.pcs-souq.com/products/cat6-utp-keystone-jack-90deg-black,www.pcs-souq.com,2025-10-07T00:59:33.929744Z
+341aeed7dd03,SPLICE CASSETTE,175.0,EGP,https://www.pcs-souq.com/products/splice-cassette,www.pcs-souq.com,2025-10-07T00:59:33.929744Z
+5be31cffc688,OM3 2M LC PIGTAIL 50/125,110.0,EGP,https://www.pcs-souq.com/products/om3-2m-lc-pigtail-50-125,www.pcs-souq.com,2025-10-07T00:59:33.929744Z
+ff2a3e39f844,LC MULTIMODE ADAPTOR,90.0,EGP,https://www.pcs-souq.com/products/cat6-low-profile-utp-toolless-jack-black-copy,www.pcs-souq.com,2025-10-07T00:59:33.929744Z
+c8b922c8c481,CAT6 LOW PROFILE UTP TOOLLESS JACK-BLACK,105.0,EGP,https://www.pcs-souq.com/products/cat6-low-profile-utp-toolless-jack-black,www.pcs-souq.com,2025-10-07T00:59:33.929744Z
+cd4adee6e9b8,Euromod Angled Shutter For Keystone Jack,35.0,EGP,https://www.pcs-souq.com/products/25x50mm-angled-shuttered-module,www.pcs-souq.com,2025-10-07T00:59:33.929744Z
+6a675d6b4d29,Unloaded 24 Port Keystone Patch Panel Frame 1U Black,920.0,EGP,https://www.pcs-souq.com/products/unloaded-24-port-keystone-patch-panel-frame-1u-black-1,www.pcs-souq.com,2025-10-07T00:59:33.929744Z
+4914d4f94bde,"PowerEdge R760xs, Xeon Gold 5418Y 128GB 2.4 SAS Rack Server",580000.0,EGP,https://www.pcs-souq.com/products/poweredge-r760xs-xeon-gold-5418y-128gb-2-4-sas-rack-server,www.pcs-souq.com,2025-10-07T00:59:33.929744Z
+49db600b92f7,"Workstation Precision 3680 CoreI9 14900K ,32GB, 512GB NVMe Nvidia Quad",179100.0,EGP,https://www.pcs-souq.com/products/workstation-precision-3680-corei9-14900k-32gb-512gb-nvme-nvidia-quadro-rtx%E2%84%A2-a4000-16g,www.pcs-souq.com,2025-10-07T00:59:33.929744Z
+bcfb83609b92,"Workstation Precision 3680 CoreI9 14900K ,32GB, 512GB NVMe, Quadro T10",107000.0,EGP,https://www.pcs-souq.com/products/workstation-precision-3680-corei9-14900k-64gb-512gb-nvme-copy,www.pcs-souq.com,2025-10-07T00:59:33.929744Z
+23492b80067c,Desktop Optiplex 7020 Intel Corei7 14700 8GB 512GB SSD 3 Years Warrant,37500.0,EGP,https://www.pcs-souq.com/products/desktop-optiplex-7020-intel-corei7-14700-8gb-512gb-ssd,www.pcs-souq.com,2025-10-07T00:59:33.929744Z
+c98cfa665e0c,"Workstation Precision 3680 CoreI9 14900K ,16GB, 512GB NVMe",95000.0,EGP,https://www.pcs-souq.com/products/workstation-precision-3680-corei9-14900k-16gb-512gb-nvme,www.pcs-souq.com,2025-10-07T00:59:33.929744Z
+c6a6ba6438a9,"Workstation Precision 3660 CoreI9 13900K ,128GB, 4TB NVMe, NVIDIA Quad",385000.0,EGP,https://www.pcs-souq.com/products/workstation-precision-3660-corei9-13900k-128gb-1tb-nvme-rtx-8000-48gb,www.pcs-souq.com,2025-10-07T00:59:33.929744Z
+07cedc7eb474,"Desktop OptiPlex All-in-One Plus 7410 Core I7 13700h , 16GB , 512GB NV",78400.0,EGP,https://www.pcs-souq.com/products/desktop-optiplex-all-in-one-plus-7410-core-i7-13700h-16gb-512gb-nvme-23-8-fhd-touch-copy,www.pcs-souq.com,2025-10-07T00:59:33.929744Z
+3bf9b44dc84b,"Desktop OptiPlex All-in-One Plus 7410 Core I5 13500h , 16GB , 512GB NV",60300.0,EGP,https://www.pcs-souq.com/products/desktop-optiplex-all-in-one-plus-7410-corei5-13500-16gb-512gb-nvme-23-8-fhd-touch,www.pcs-souq.com,2025-10-07T00:59:33.929744Z
+7255ebd3b303,"SurgeArrest 5 outlets, 2 USB charger, PME5U2B-GR",1000.0,EGP,https://www.pcs-souq.com/products/apc-surgearrest-5-outlets-2-usb-charger-pme5u2b-gr,www.pcs-souq.com,2025-10-07T00:59:33.929744Z
+5436383f6639,"SurgeArrest 1 outlet, PM1W-GR",525.0,EGP,https://www.pcs-souq.com/products/apc-surgearrest-1-outlet-pm1w-gr-1,www.pcs-souq.com,2025-10-07T00:59:33.929744Z
+6779e884e74b,"SurgeArrest 6 outlets, 2 USB charger, PM6U-GR",1625.0,EGP,https://www.pcs-souq.com/products/apc-surgearrest-6-outlets-2-usb-charger-pm6u-gr,www.pcs-souq.com,2025-10-07T00:59:33.929744Z
+3dc196a829e8,"RG-ES124GD, 24-port 10/100/1000Mbps Unmanaged Switch",4500.0,EGP,https://www.pcs-souq.com/products/rg-es124gd,www.pcs-souq.com,2025-10-07T00:59:33.929744Z
+e1cc717d25b4,"RG-NBS3100-24GT4SFP-P, 28-Port Gigabit Layer 2 Cloud Managed PoE Switc",17250.0,EGP,https://www.pcs-souq.com/products/rg-nbs3100-24gt4sfp-p,www.pcs-souq.com,2025-10-07T00:59:33.929744Z
+fe0cafc8fa00,"Monitor 21.5"" E2222H",4890.0,EGP,https://www.pcs-souq.com/products/dell-21-5-inch-e2222h,www.pcs-souq.com,2025-10-07T00:59:33.929744Z
+af3dcc2dc5d9,"PowerEdge R760xs, Xeon Silver 4410 128GB 2.4 SAS Rack Server",410000.0,EGP,https://www.pcs-souq.com/products/poweredge-r760-rack-server-4410y,www.pcs-souq.com,2025-10-07T00:59:33.929744Z
+ebbe12824d1c,Workstation Precision 3680 CoreI9 14900K 128GB 1TB NVMe Quadro RTX8000 - 48G,375000.0,EGP,https://www.pcs-souq.com/products/dell-precision-3660-corei9-14900-128gb-1tb-quadro-rtx8000-48g,www.pcs-souq.com,2025-10-07T00:59:33.929744Z
+e395212ab7fb,"Easy UPS Back 700VA, 360W, AVR, BVX700LI-GR",3750.0,EGP,https://www.pcs-souq.com/products/apc-easy-ups-700va-360w-avr-bvx700li-gr,www.pcs-souq.com,2025-10-07T00:59:33.929744Z
+41070bd6dd21,Workstation Precision 3660 CoreI7 13700 8GB 256 NVMe + 2TB SATA Intel,72500.0,EGP,https://www.pcs-souq.com/products/dell-precision-3660-corei7-8gb-256-2tb-intel-vga-tower,www.pcs-souq.com,2025-10-07T00:59:33.929744Z
+285643a72dfa,Barracuda X (2022) - Black RZ04-04430100-R3M1,6990.0,EGP,https://www.pcs-souq.com/products/barracuda-x-2022-black,www.pcs-souq.com,2025-10-07T00:59:33.929744Z
+c5bca13c2cd1,Basilisk V3 RZ01-04000100-R3M1,3980.0,EGP,https://www.pcs-souq.com/products/deathadder-essential-2021-white-edition-rz01-03850200-r3m1-copy,www.pcs-souq.com,2025-10-07T00:59:33.929744Z
+2f37abfecf6f,Basilisk V3 X HyperSpeed RZ01-04870100-R3G1,3980.0,EGP,https://www.pcs-souq.com/products/basilisk-v3-x-hyperspeed-rz01-04870100-r3g1,www.pcs-souq.com,2025-10-07T00:59:33.929744Z
+d1ba274b80f6,BlackShark V2 Pro (2023) - Black RZ04-04530100-R3M1,13333.0,EGP,https://www.pcs-souq.com/products/blackshark-v2-pro-2023-black,www.pcs-souq.com,2025-10-07T00:59:33.929744Z
+3d4e7bb4903f,BlackShark V2 Pro (2023) - White RZ04-04530200-R3M1,13333.0,EGP,https://www.pcs-souq.com/products/blackshark-v2-pro-2023-white,www.pcs-souq.com,2025-10-07T00:59:33.929744Z
+8cf0bb87a13d,Blackshark V2 X - White RZ04-03240700-R3M1,3535.0,EGP,https://www.pcs-souq.com/products/blackshark-v2-x-white,www.pcs-souq.com,2025-10-07T00:59:33.929744Z
+0621e0b638b5,Blackshark V2 X RZ04-03240100-R3M1,3895.0,EGP,https://www.pcs-souq.com/products/blackshark-v2-x-rz04-03240100-r3m1,www.pcs-souq.com,2025-10-07T00:59:33.929744Z
+313c342b36a5,Cobra RZ01-04650100-R3M1,2490.0,EGP,https://www.pcs-souq.com/products/cobra-rz01-04650100-r3m1,www.pcs-souq.com,2025-10-07T00:59:33.929744Z
+241dd8bf5053,DeathAdder Essential RZ01-03850100-R3M1,1725.0,EGP,https://www.pcs-souq.com/products/deathadder-essential-rz01-03850100-r3m1,www.pcs-souq.com,2025-10-07T00:59:33.929744Z
+76bac59da158,DeathAdder Essential [2021] - White Edition RZ01-03850200-R3M1,1825.0,EGP,https://www.pcs-souq.com/products/deathadder-essential-rz01-03850100-r3m1-copy,www.pcs-souq.com,2025-10-07T00:59:33.929744Z
+b88046432f45,Kraken X Lite RZ04-02950100-R381,2990.0,EGP,https://www.pcs-souq.com/products/kraken-x-lite-rz04-02950100-r381,www.pcs-souq.com,2025-10-07T00:59:33.929744Z
+c5b675193e0a,Viper V3 Pro - White RZ01-05120200-R3G1,8390.0,EGP,https://www.pcs-souq.com/products/viper-v3-pro-white-rz01-05120200-r3g1,www.pcs-souq.com,2025-10-07T00:59:33.929744Z
+6d533d996179,Shop Best Laptops in Egypt,109999.0,EGP,https://tv-it.com/public/product-categories/laptops-in-egypt,tv-it.com,2025-10-07T01:08:39.405417Z
+777d161a63fd,Shop Best Gaming Laptop in Egypt - Gaming Laptop,109999.0,EGP,https://tv-it.com/product-categories/gaming-laptop,tv-it.com,2025-10-07T01:08:39.405417Z
+bb778e8f0454,Buy Business Laptop with Best Price in Egypt | Technology Valley,20999.0,EGP,https://tv-it.com/product-categories/business-laptops,tv-it.com,2025-10-07T01:08:39.405417Z
+2148688f8a8c,Shop Student Laptop with Best Price in Egypt | Technology Valley,25555.0,EGP,https://tv-it.com/product-categories/economic-laptops-1,tv-it.com,2025-10-07T01:08:39.405417Z
+d86bf95f7bec,Shop Best Intel AI Laptop in Egypt - Intel AI Laptop,72800.0,EGP,https://tv-it.com/product-categories/intel-ai-laptop#list,tv-it.com,2025-10-07T01:08:39.405417Z
+6cf7176948a7,Shop 2-in-1 Laptop with Best Price in Egypt | Technology Valley,72800.0,EGP,https://tv-it.com/product-categories/2-in-1-laptop-1#list,tv-it.com,2025-10-07T01:08:39.405417Z
+88e02e367a32,Best Laptop Lenovo and Lenovo Tablet in Egypt,84999.0,EGP,https://tv-it.com/product-categories/lenovo,tv-it.com,2025-10-07T01:08:39.405417Z
+254e67c9c95c,Shop Asus Laptop - Gaming Laptop in Egypt,109999.0,EGP,https://tv-it.com/product-categories/asus,tv-it.com,2025-10-07T01:08:39.405417Z
+8093680a9491,Buy MSI Laptop with Best Price in Egypt | Technology Valley,23999.0,EGP,https://tv-it.com/product-categories/msi-laptops,tv-it.com,2025-10-07T01:08:39.405417Z
+262cf27bf344,Buy Laptop HP with Best Price in Egypt | Technology Valley,62999.0,EGP,https://tv-it.com/product-categories/hp-laptops,tv-it.com,2025-10-07T01:08:39.405417Z
+630bf57af963,Buy Dell Laptop with Best Price in Egypt | Technology Valley,20999.0,EGP,https://tv-it.com/product-categories/dell-laptops,tv-it.com,2025-10-07T01:08:39.405417Z
+0dbfdb3b7112,Buy Laptop Acer with Best Price in Egypt | Technology Valley,31099.0,EGP,https://tv-it.com/product-categories/acer-laptops,tv-it.com,2025-10-07T01:08:39.405417Z
+0db6a917a30f,Shop Best Laptop Huawei in Egypt - Laptop Huawei,23999.0,EGP,https://tv-it.com/product-categories/huawei-1,tv-it.com,2025-10-07T01:08:39.405417Z
+9829a3614697,Shop Macbook in Egypt | Technology Valley,52000.0,EGP,https://tv-it.com/product-categories/macbook,tv-it.com,2025-10-07T01:08:39.405417Z
+443934825a94,Buy Microsoft Surface Laptop wirh Best Price in Egypt | Technology Valley,0.0,EGP,https://tv-it.com/product-categories/microsoft,tv-it.com,2025-10-07T01:08:39.405417Z
+c6db0f8da5b1,Shop Best Computer Components in Egypt - Computer Components,2900.0,EGP,https://tv-it.com/public/product-categories/computer-1,tv-it.com,2025-10-07T01:08:39.405417Z
+56894f434851,Build Your PC in Egypt | Technology Valley,4400.0,EGP,https://tv-it.com/product-categories/computer-components-14,tv-it.com,2025-10-07T01:08:39.405417Z
+608b6adb0b70,Shop Processor in Egypt | Technology Valley,10400.0,EGP,https://tv-it.com/product-categories/processor,tv-it.com,2025-10-07T01:08:39.405417Z
+d4ff69002438,Shop Motherboard in Egypt | Technology Valley,4400.0,EGP,https://tv-it.com/product-categories/motherboard,tv-it.com,2025-10-07T01:08:39.405417Z
+81411e43421b,Shop Graphic Cards in Egypt | Technology Valley,18999.0,EGP,https://tv-it.com/product-categories/graphics-cards,tv-it.com,2025-10-07T01:08:39.405417Z
+36fe1bc6daa5,Shop Computer Case in Egypt | Technology Valley,3500.0,EGP,https://tv-it.com/product-categories/computer-case,tv-it.com,2025-10-07T01:08:39.405417Z
+f1ab5859f117,Shop Computer Fans in Egypt | Technology Valley,4500.0,EGP,https://tv-it.com/product-categories/computer-fans,tv-it.com,2025-10-07T01:08:39.405417Z
+57d3867a69c6,Shop Power Supply in Egypt | Technology Valley,2200.0,EGP,https://tv-it.com/product-categories/power-supply,tv-it.com,2025-10-07T01:08:39.405417Z
+26bcf5463f7c,Shop Best Gaming PC - PC Bundle with best Price in Egypt,10666.0,EGP,https://tv-it.com/product-categories/gaming-pcs-17,tv-it.com,2025-10-07T01:08:39.405417Z
+7560c3e7b12a,Computer Monitor | Technology Valley,47250.0,EGP,https://tv-it.com/product-categories/monitor-6,tv-it.com,2025-10-07T01:08:39.405417Z
+60a0db7f98ae,Shop Best Desktop Price in Egypt -  Desktop,18250.0,EGP,https://tv-it.com/product-categories/desktop,tv-it.com,2025-10-07T01:08:39.405417Z
+2666a107e2e4,Shop Printers with best Price in Egypt | Technology Valley,3499.0,EGP,https://tv-it.com/product-categories/printers,tv-it.com,2025-10-07T01:08:39.405417Z
+e37cea4cac54,Shop Multi-Function Printers with best Price in Egypt | Technology Valley,8250.0,EGP,https://tv-it.com/product-categories/multi-function-printers,tv-it.com,2025-10-07T01:08:39.405417Z
+b49319df6691,Shop laser Printers in Egypt | Technology Valley,7999.0,EGP,https://tv-it.com/product-categories/laser-printers,tv-it.com,2025-10-07T01:08:39.405417Z
+a062df4e853f,Shop InkJet Printers with best Price in Egypt | Technology Valley,8250.0,EGP,https://tv-it.com/product-categories/inkjet-printers,tv-it.com,2025-10-07T01:08:39.405417Z
+b673ef146f6e,Shop Printer Ink & Toner in Egypt | Technology Valley,380.0,EGP,https://tv-it.com/product-categories/printer-ink-toner,tv-it.com,2025-10-07T01:08:39.405417Z
+f395fc778823,Shop Software in Egypt | Technology Valley,200.0,EGP,https://tv-it.com/product-categories/software,tv-it.com,2025-10-07T01:08:39.405417Z
+1c8424457247,Shop Storage in Egypt | Technology Valley,2900.0,EGP,https://tv-it.com/product-categories/storage-7,tv-it.com,2025-10-07T01:08:39.405417Z
+556411e936c9,Shop Network in Egypt | Technology Valley,875.0,EGP,https://tv-it.com/product-categories/network-8,tv-it.com,2025-10-07T01:08:39.405417Z
+f90b75b8ce39,Shop Security Cameras in Egypt | Technology Valley,875.0,EGP,https://tv-it.com/product-categories/security#list,tv-it.com,2025-10-07T01:08:39.405417Z
+8f4c7e2eb4b8,Shop Routers in Egypt | Technology Valley,2025.0,EGP,https://tv-it.com/product-categories/routers#list,tv-it.com,2025-10-07T01:08:39.405417Z
+b31b889d8eae,Time Attendance Device,1950.0,EGP,https://tv-it.com/product-categories/time-attendance,tv-it.com,2025-10-07T01:08:39.405417Z
+19c45016f694,Shop UPS in Egypt | Technology Valley,8425.0,EGP,https://tv-it.com/product-categories/ups#list,tv-it.com,2025-10-07T01:08:39.405417Z
+90a025a92ac3,"""Shop Best iPhone prices in Egypt """,115500.0,EGP,https://tv-it.com/product-categories/apple-16,tv-it.com,2025-10-07T01:08:39.405417Z
+452a95ed6df2,Shop Best iPhone prices in Egypt,115500.0,EGP,https://tv-it.com/product-categories/iphone,tv-it.com,2025-10-07T01:08:39.405417Z
+953076c0f309,Shop iPad in Egypt | Technology Valley,67500.0,EGP,https://tv-it.com/product-categories/ipad,tv-it.com,2025-10-07T01:08:39.405417Z
+3f5a7a605e8b,Shop Apple Pencil in Egypt | Technology Valley,10500.0,EGP,https://tv-it.com/product-categories/pencil,tv-it.com,2025-10-07T01:08:39.405417Z
+1d86e648a5d8,Shop Apple Watch in Egypt | Technology Valley,22800.0,EGP,https://tv-it.com/product-categories/watch,tv-it.com,2025-10-07T01:08:39.405417Z
+437b49d54b99,Shop Air Pod in Egypt | Technology Valley,760.0,EGP,https://tv-it.com/product-categories/air-pod,tv-it.com,2025-10-07T01:08:39.405417Z
+339dd882158f,Shop Apple Power Adapter in Egypt | Technology Valley,205.0,EGP,https://tv-it.com/product-categories/power-adapter,tv-it.com,2025-10-07T01:08:39.405417Z
+ae658b4b1e42,Shop iPad Keyboard in Egypt | Technology Valley,19400.0,EGP,https://tv-it.com/product-categories/ipad-keyboard,tv-it.com,2025-10-07T01:08:39.405417Z
+48e7082bedaa,Shop the Latest Mobile Phones at Technology Valley | TV-IT,7390.0,EGP,https://tv-it.com/product-categories/mobiles-18,tv-it.com,2025-10-07T01:08:39.405417Z
+21c6d94c5234,Shop the Latest Tablet at Technology Valley | TV-IT,12699.0,EGP,https://tv-it.com/product-categories/tablet-19,tv-it.com,2025-10-07T01:08:39.405417Z
+6b8b09867474,Shop Best Tablet Lenovo in Egypt - Lenovo Tablet,12699.0,EGP,https://tv-it.com/product-categories/lenovo-tablets,tv-it.com,2025-10-07T01:08:39.405417Z
+580c6c1e7d6f,Shop Best Tablet Huawei in Egypt - Huawei Tablet,25699.0,EGP,https://tv-it.com/product-categories/huawei-tablets,tv-it.com,2025-10-07T01:08:39.405417Z
+752fc8fc9200,Shop Best Tablet Samsung in Egypt - Samsung Galaxy Tablet,7050.0,EGP,https://tv-it.com/product-categories/samsung-tablets,tv-it.com,2025-10-07T01:08:39.405417Z
+5208a698b290,Shop Best Tablet Nokia in Egypt - Nokia Tablet,5250.0,EGP,https://tv-it.com/product-categories/nokia-tablets,tv-it.com,2025-10-07T01:08:39.405417Z
+153e6e0ee992,Shop Best Mobile Samsung in Egypt - Samsung Galaxy,7390.0,EGP,https://tv-it.com/product-categories/samsung-mobiles,tv-it.com,2025-10-07T01:08:39.405417Z
+daf598b46f39,Shop Best Mobile Xiaomi in Egypt - Xiaomi Redmi,6750.0,EGP,https://tv-it.com/product-categories/xiaomi-mobiles,tv-it.com,2025-10-07T01:08:39.405417Z
+38b2b538e88c,Shop Best Mobile Realme in Egypt - Realme,13199.0,EGP,https://tv-it.com/product-categories/realme-mobiles,tv-it.com,2025-10-07T01:08:39.405417Z
+204414398e8c,Shop Best Mobile OPPO in Egypt - Oppo - Oppo Reno,7450.0,EGP,https://tv-it.com/product-categories/oppo-mobiles,tv-it.com,2025-10-07T01:08:39.405417Z
+4867f2326b66,Shop Best Mobile Honor in Egypt - Honor,8555.0,EGP,https://tv-it.com/product-categories/mobile-honor#list,tv-it.com,2025-10-07T01:08:39.405417Z
+4463210a7861,Shop Best Mobile Nokia in Egypt - Nokia,1775.0,EGP,https://tv-it.com/product-categories/nokia-mobiles,tv-it.com,2025-10-07T01:08:39.405417Z
+ef9e9c26cb7d,Shop Best Mobile Infinix in Egypt - Infinix,4399.0,EGP,https://tv-it.com/product-categories/infinix-mobiles,tv-it.com,2025-10-07T01:08:39.405417Z
+f8f732d1eedc,Shop Best Mobile Vivo in Egypt - Vivo,27555.0,EGP,https://tv-it.com/product-categories/vivo-mobiles,tv-it.com,2025-10-07T01:08:39.405417Z
+132256925698,Shop Best Mobile Lava in Egypt - Lava,800.0,EGP,https://tv-it.com/product-categories/lava-mobiles,tv-it.com,2025-10-07T01:08:39.405417Z
+4b569974d56e,Shop Best Mobile Mtouch in Egypt - Mtouch,615.0,EGP,https://tv-it.com/product-categories/mtouch-mobiles,tv-it.com,2025-10-07T01:08:39.405417Z
+133bbded4b21,Shop Best Mobile Ace in Egypt - Ace,650.0,EGP,https://tv-it.com/product-categories/ace,tv-it.com,2025-10-07T01:08:39.405417Z
+a80aa7b7fab9,Shop Best Mobile Itel in Egypt - Itel,4099.0,EGP,https://tv-it.com/product-categories/itel,tv-it.com,2025-10-07T01:08:39.405417Z
+e73b276b37c8,Shop Premium Accessories for Your Devices,2999.0,EGP,https://tv-it.com/product-categories/accessories-1,tv-it.com,2025-10-07T01:08:39.405417Z
+6a1474aa7dfe,Shop Microsoft Surface Accessories in Egypt,6325.0,EGP,https://tv-it.com/product-categories/microsoft-surface-accessories,tv-it.com,2025-10-07T01:08:39.405417Z
+a392c2cd1cdd,Shop Laptop - Computer Accessories in Egypt | Technology Valley,299.0,EGP,https://tv-it.com/product-categories/laptop-computer-accessories,tv-it.com,2025-10-07T01:08:39.405417Z
+86383e489d9c,Shop Webcam in Egypt | Technology Valley,4399.0,EGP,https://tv-it.com/product-categories/webcam,tv-it.com,2025-10-07T01:08:39.405417Z
+ec54571dbc94,Shop Cooler Fan in Egypt | Technology Valley,250.0,EGP,https://tv-it.com/product-categories/cooler-fan,tv-it.com,2025-10-07T01:08:39.405417Z
+6c353925c855,Shop Microphones in Egypt | Technology Valley,1050.0,EGP,https://tv-it.com/product-categories/microphones,tv-it.com,2025-10-07T01:08:39.405417Z
+8699c8bc0fb1,Shop Cables and Power Strips in Egypt | Technology Valley,145.0,EGP,https://tv-it.com/product-categories/cables-and-power-strips,tv-it.com,2025-10-07T01:08:39.405417Z
+2145d956892e,Shop Speaker in Egypt | Technology Valley,6499.0,EGP,https://tv-it.com/product-categories/speaker,tv-it.com,2025-10-07T01:08:39.405417Z
+a6de4e4b7856,Shop Bags & Sleeves in Egypt | Technology Valley,299.0,EGP,https://tv-it.com/product-categories/bag-and-sleeve,tv-it.com,2025-10-07T01:08:39.405417Z
+1c6bcdcb77a6,Shop Headset in Egypt | Technology Valley,5999.0,EGP,https://tv-it.com/product-categories/headphone,tv-it.com,2025-10-07T01:08:39.405417Z
+e7e8bb43e43e,Shop Keyboard in Egypt | Technology Valley,1599.0,EGP,https://tv-it.com/product-categories/keyboard,tv-it.com,2025-10-07T01:08:39.405417Z
+ec8602ef53f6,Shop Mouse - Mouse Pad in Egypt | Technology Valley,175.0,EGP,https://tv-it.com/product-categories/mouse-mousepad,tv-it.com,2025-10-07T01:08:39.405417Z
+256fc16f33b0,Presentation Remote,7100.0,EGP,https://tv-it.com/product-categories/presentation-remote,tv-it.com,2025-10-07T01:08:39.405417Z
+df27f0f91c6d,Shop Mobile Accessories in Egypt | Technology Valley,2999.0,EGP,https://tv-it.com/product-categories/mobile-accessories,tv-it.com,2025-10-07T01:08:39.405417Z
+665ae8e248a9,Shop Chargers and Adapters in Egypt | Technology Valley,325.0,EGP,https://tv-it.com/product-categories/chargers-and-adapters,tv-it.com,2025-10-07T01:08:39.405417Z
+e8077bae638f,Shop Earbuds in Egypt | Technology Valley,2999.0,EGP,https://tv-it.com/product-categories/earbuds,tv-it.com,2025-10-07T01:08:39.405417Z
+637ab285f444,Shop Earphones in Egypt | Technology Valley,175.0,EGP,https://tv-it.com/product-categories/earphones,tv-it.com,2025-10-07T01:08:39.405417Z
+0efcb37cb81d,Shop Wireless Headphones  in Egypt | Technology Valley,1099.0,EGP,https://tv-it.com/product-categories/wireless-headphones,tv-it.com,2025-10-07T01:08:39.405417Z
+5bf3750f9e4e,Shop Bluetooth Speaker & Microphones in Egypt | Technology Valley,4444.0,EGP,https://tv-it.com/product-categories/bluetooth-speaker-and-microphones,tv-it.com,2025-10-07T01:08:39.405417Z
+0e8599308705,Shop Powerbank in Egypt | Technology Valley,1555.0,EGP,https://tv-it.com/product-categories/powerbank,tv-it.com,2025-10-07T01:08:39.405417Z
+ca66d0e6b3d6,Shop Cables and Hubs  in Egypt | Technology Valley,120.0,EGP,https://tv-it.com/product-categories/cables-and-hubs,tv-it.com,2025-10-07T01:08:39.405417Z
+ce5dae9f3a5f,Shop Magnetic Charger in Egypt | Technology Valley,250.0,EGP,https://tv-it.com/product-categories/magnetic-charger,tv-it.com,2025-10-07T01:08:39.405417Z
+912b07eac2cf,Shop Car Charger and Holders in Egypt | Technology Valley,299.0,EGP,https://tv-it.com/product-categories/car-charger-and-holders,tv-it.com,2025-10-07T01:08:39.405417Z
+52b8aeb0cac4,Shop Ring light and Selfie Stick in Egypt | Technology Valley,850.0,EGP,https://tv-it.com/product-categories/ring-light-and-selfie-stick,tv-it.com,2025-10-07T01:08:39.405417Z
+83501e55fd55,Shop Smart Scale in Egypt | Technology Valley,799.0,EGP,https://tv-it.com/product-categories/scale,tv-it.com,2025-10-07T01:08:39.405417Z
+e444d95d3290,Shop Gaming Accessories in Egypt | Technology Valley,5999.0,EGP,https://tv-it.com/product-categories/gaming-accessories,tv-it.com,2025-10-07T01:08:39.405417Z
+2bab913d6979,Shop Gaming in Egypt | Technology Valley,5999.0,EGP,https://tv-it.com/product-categories/gaming-consoles-11,tv-it.com,2025-10-07T01:08:39.405417Z
+df6ce682b29f,Shop PlayStation in Egypt | Technology Valley,34500.0,EGP,https://tv-it.com/product-categories/playstation-&-xbox-consoles,tv-it.com,2025-10-07T01:08:39.405417Z
+d3b87c2abf8a,Shop PS Account in Egypt | Technology Valley,0.0,EGP,https://tv-it.com/product-categories/ps-account,tv-it.com,2025-10-07T01:08:39.405417Z
+a08788e83b55,Shop PlayStation Games in Egypt | Technology Valley,625.0,EGP,https://tv-it.com/product-categories/playstation-ps-games,tv-it.com,2025-10-07T01:08:39.405417Z
+f249ac69f56e,Shop the Latest Home Appliances at Technology Valley | TV-IT,27500.0,EGP,https://tv-it.com/product-categories/home-appliances-12,tv-it.com,2025-10-07T01:08:39.405417Z
+1b83b8f55c0f,Shop Best Air Conditioner inverter/Split in Egypt,23500.0,EGP,https://tv-it.com/product-categories/air-conditioner-air-purifier,tv-it.com,2025-10-07T01:08:39.405417Z
+bc1b02da536f,Shop Best Televisions in Egypt,7299.0,EGP,https://tv-it.com/product-categories/televisions,tv-it.com,2025-10-07T01:08:39.405417Z
+acabd7cb95e9,Shop TV Accessories in Egypt | Technology Valley,2750.0,EGP,https://tv-it.com/product-categories/tv-accessories,tv-it.com,2025-10-07T01:08:39.405417Z
+7d831278e43c,Shop Hair Products in Egypt | Technology Valley,1699.0,EGP,https://tv-it.com/public/product-categories/hair-products,tv-it.com,2025-10-07T01:08:39.405417Z
+3b02af7837e7,Shop Kitchen Appliances in Egypt | Technology Valley,430.0,EGP,https://tv-it.com/product-categories/kitchen,tv-it.com,2025-10-07T01:08:39.405417Z
+95530bcc2f5d,Shop Kettle in Egypt | Technology Valley,430.0,EGP,https://tv-it.com/product-categories/kettle,tv-it.com,2025-10-07T01:08:39.405417Z
+1a934adb63fd,Shop Kitchen Machine  in Egypt | Technology Valley,4999.0,EGP,https://tv-it.com/product-categories/kitchen-machine,tv-it.com,2025-10-07T01:08:39.405417Z
+b5c9cc38bf4e,Shop Food Processor in Egypt | Technology Valley,3699.0,EGP,https://tv-it.com/product-categories/food-processor,tv-it.com,2025-10-07T01:08:39.405417Z
+2adaba6f08a2,Shop Electric Blenders in Egypt | Technology Valley,799.0,EGP,https://tv-it.com/product-categories/electric-blenders,tv-it.com,2025-10-07T01:08:39.405417Z
+0b419499da6c,Shop Hand Blenders in Egypt | Technology Valley,1099.0,EGP,https://tv-it.com/product-categories/hand-blenders,tv-it.com,2025-10-07T01:08:39.405417Z
+768328229bdf,Buy Best Food Chopper & Mincer in Egypt at Best Price,1150.0,EGP,https://tv-it.com/product-categories/chopper,tv-it.com,2025-10-07T01:08:39.405417Z
+94fefc40c77c,Shop Hand Mixer in Egypt | Technology Valley,1890.0,EGP,https://tv-it.com/product-categories/hand-mixer,tv-it.com,2025-10-07T01:08:39.405417Z
+ad9f7311ecca,Shop Meat Grinder in Egypt | Technology Valley,2799.0,EGP,https://tv-it.com/product-categories/meat-grinder,tv-it.com,2025-10-07T01:08:39.405417Z
+812f375e7b3e,Shop Sandwich Maker in Egypt | Technology Valley,2250.0,EGP,https://tv-it.com/product-categories/sandwich-maker,tv-it.com,2025-10-07T01:08:39.405417Z
+eaca49ae0c5c,Shop Juicer in Egypt | Technology Valley,1280.0,EGP,https://tv-it.com/product-categories/juicer,tv-it.com,2025-10-07T01:08:39.405417Z
+b3102811e8c8,Buy Best Air Fryer in Egypt at Best Price Online,3499.0,EGP,https://tv-it.com/product-categories/fryer,tv-it.com,2025-10-07T01:08:39.405417Z
+3674335417ef,Shop Hot Plate in Egypt | Technology Valley,1050.0,EGP,https://tv-it.com/product-categories/hot-plate#list,tv-it.com,2025-10-07T01:08:39.405417Z
+944546fa648e,Shop Small Home Appliances in Egypt | Technology Valley,2190.0,EGP,https://tv-it.com/product-categories/small-home-appliances,tv-it.com,2025-10-07T01:08:39.405417Z
+7ae53e767e3d,Shop Water Heaters in Egypt | Technology Valley,3679.0,EGP,https://tv-it.com/product-categories/water-heaters,tv-it.com,2025-10-07T01:08:39.405417Z
+3952dd86d530,Shop Fans in Egypt | Technology Valley,840.0,EGP,https://tv-it.com/product-categories/fans,tv-it.com,2025-10-07T01:08:39.405417Z
+aaeec4083f22,Shop Water Dispenser in Egypt | Technology Valley,6320.0,EGP,https://tv-it.com/product-categories/water-dispenser,tv-it.com,2025-10-07T01:08:39.405417Z
+a999976c298d,Shop Vacuum Cleaner in Egypt | Technology Valley,2850.0,EGP,https://tv-it.com/product-categories/vacuum-cleaner,tv-it.com,2025-10-07T01:08:39.405417Z
+37f9530c3579,Shop Heater in Egypt | Technology Valley,2525.0,EGP,https://tv-it.com/product-categories/heater,tv-it.com,2025-10-07T01:08:39.405417Z
+a3766b2cbfb3,Shop Steam Iron in Egypt | Technology Valley,999.0,EGP,https://tv-it.com/product-categories/steam-iron-,tv-it.com,2025-10-07T01:08:39.405417Z
+13fdaf8aa1ab,Shop Microwave in Egypt | Technology Valley,4050.0,EGP,https://tv-it.com/product-categories/microwave,tv-it.com,2025-10-07T01:08:39.405417Z
+bc19ab1203a3,Shop Suction Fan  in Egypt | Technology Valley,670.0,EGP,https://tv-it.com/product-categories/ventilating-fan,tv-it.com,2025-10-07T01:08:39.405417Z
+4d8fd70f3917,Shop Electric Ovens in Egypt | Technology Valley,2699.0,EGP,https://tv-it.com/product-categories/electric-ovens,tv-it.com,2025-10-07T01:08:39.405417Z
+1be4a996b623,Shop Best Large Home Appliances in Egypt,27500.0,EGP,https://tv-it.com/product-categories/large-home-appliances,tv-it.com,2025-10-07T01:08:39.405417Z
+25fd9069e462,Shop Freezers in Egypt | Technology Valley,8600.0,EGP,https://tv-it.com/product-categories/freezers,tv-it.com,2025-10-07T01:08:39.405417Z
+a3fa3f1e7052,Shop Refrigerators  in Egypt | Technology Valley,27500.0,EGP,https://tv-it.com/product-categories/refrigerators,tv-it.com,2025-10-07T01:08:39.405417Z
+f50a634af2e9,Buy Best Freestanding Gas Cooker in Egypt at Best Price,10999.0,EGP,https://tv-it.com/product-categories/freestanding-cookers,tv-it.com,2025-10-07T01:08:39.405417Z
+72065ec6cfb4,Shop Washing Machine in Egypt | Technology Valley,8175.0,EGP,https://tv-it.com/product-categories/washing-machine,tv-it.com,2025-10-07T01:08:39.405417Z
+b3a9a3bbdf24,Shop Dish Washer in Egypt | Technology Valley,16199.0,EGP,https://tv-it.com/product-categories/dish-washer#list,tv-it.com,2025-10-07T01:08:39.405417Z
+28bf48f1028b,Shop Built in Appliances in Egypt | Technology Valley,3980.0,EGP,https://tv-it.com/product-categories/built-in,tv-it.com,2025-10-07T01:08:39.405417Z
+de6eb7109e09,Shop Built in Cookers in Egypt | Technology Valley,5405.0,EGP,https://tv-it.com/product-categories/built-in-hobs-cookers#list,tv-it.com,2025-10-07T01:08:39.405417Z
+fb6588245bce,Shop Built in ovens in Egypt | Technology Valley,15570.0,EGP,https://tv-it.com/product-categories/built-in-ovens#list,tv-it.com,2025-10-07T01:08:39.405417Z
+9281a5e9cdb1,Shop Cooker Hood in Egypt | Technology Valley,3980.0,EGP,https://tv-it.com/product-categories/cooker-hood,tv-it.com,2025-10-07T01:08:39.405417Z
+6f9fead1643b,Shop for a touch watch Smart watch | Smart watch at the best price in Egypt,1850.0,EGP,https://tv-it.com/product-categories/smart-watch,tv-it.com,2025-10-07T01:08:39.405417Z
+eb9c2657eaa4,Shop Best Laptops in Egypt,109999.0,EGP,https://tv-it.com/product-categories/laptops-in-egypt,tv-it.com,2025-10-07T01:08:39.405417Z
+fc375d10200f,Shop 2-in-1 Laptop with Best Price in Egypt | Technology Valley,72800.0,EGP,https://tv-it.com/product-categories/2-in-1-laptop-1,tv-it.com,2025-10-07T01:08:39.405417Z
+b2b5eca08051,Shop Best Intel AI Laptop in Egypt - Intel AI Laptop,72800.0,EGP,https://tv-it.com/product-categories/intel-ai-laptop,tv-it.com,2025-10-07T01:08:39.405417Z
+8e6e68955c08,Shop Best Computer Components in Egypt - Computer Components,2900.0,EGP,https://tv-it.com/product-categories/computer-1,tv-it.com,2025-10-07T01:08:39.405417Z
+0b9fd211fd04,Shop Scanner in Egypt | Technology Valley,3499.0,EGP,https://tv-it.com/product-categories/scanner-4,tv-it.com,2025-10-07T01:08:39.405417Z
+1a2578ad2c4c,Shop Projector in Egypt | Technology Valley,12999.0,EGP,https://tv-it.com/product-categories/projector-5,tv-it.com,2025-10-07T01:08:39.405417Z
+98019869d16a,Shop Flash Drives in Egypt | Technology Valley,300.0,EGP,https://tv-it.com/product-categories/flash-drives,tv-it.com,2025-10-07T01:08:39.405417Z
+72befeb7bb1a,Shop Memory Cards SD in Egypt | Technology Valley,2250.0,EGP,https://tv-it.com/product-categories/memory-cards-sd,tv-it.com,2025-10-07T01:08:39.405417Z
+76295e547436,Shop RAM in Egypt | Technology Valley,2900.0,EGP,https://tv-it.com/product-categories/ram-50,tv-it.com,2025-10-07T01:08:39.405417Z
+da434ce9cc93,Shop HDD in Egypt | Technology Valley,19900.0,EGP,https://tv-it.com/product-categories/hdd,tv-it.com,2025-10-07T01:08:39.405417Z
+60dff0f8041d,Shop SSD in Egypt | Technology Valley,15900.0,EGP,https://tv-it.com/product-categories/sdd,tv-it.com,2025-10-07T01:08:39.405417Z
+daabdebcad07,Shop PC Bundles with best Price in Egypt | Technology Valley,10666.0,EGP,https://tv-it.com/product-categories/pc-bundles-egypt,tv-it.com,2025-10-07T01:08:39.405417Z
+5043dba93593,Shop Security Cameras in Egypt | Technology Valley,875.0,EGP,https://tv-it.com/product-categories/security,tv-it.com,2025-10-07T01:08:39.405417Z
+0df610db20cf,Shop Routers in Egypt | Technology Valley,2025.0,EGP,https://tv-it.com/product-categories/routers,tv-it.com,2025-10-07T01:08:39.405417Z
+0e9936c01f9f,Shop UPS in Egypt | Technology Valley,8425.0,EGP,https://tv-it.com/product-categories/ups,tv-it.com,2025-10-07T01:08:39.405417Z
+e3cf23360ca4,Shop AirTag in Egypt | Technology Valley,4900.0,EGP,https://tv-it.com/product-categories/airtag,tv-it.com,2025-10-07T01:08:39.405417Z
+cdb79629e307,Shop Best Tablet Lava in Egypt - Lava Tablet,1810.0,EGP,https://tv-it.com/product-categories/lava-tablets,tv-it.com,2025-10-07T01:08:39.405417Z
+c573a303de78,Shop Best Tablet Xiaomi in Egypt - Xiaomi Tablet,9799.0,EGP,https://tv-it.com/product-categories/xiaomi,tv-it.com,2025-10-07T01:08:39.405417Z
+7fac022a82cf,Shop Best Tablet Honor in Egypt - Honor Tablet,15200.0,EGP,https://tv-it.com/product-categories/tablet-honor,tv-it.com,2025-10-07T01:08:39.405417Z
+7810ff25fe30,Shop Best Mobile Honor in Egypt - Honor,8555.0,EGP,https://tv-it.com/product-categories/mobile-honor,tv-it.com,2025-10-07T01:08:39.405417Z
+131b5b5ddb0b,Shop Gaming Keyboard - Gaming Mouse in Egypt | Technology Valley,7599.0,EGP,https://tv-it.com/product-categories/gaming-keyboard-mouse,tv-it.com,2025-10-07T01:08:39.405417Z
+8ea7efdff58a,Shop Gaming Headset in Egypt | Technology Valley,5999.0,EGP,https://tv-it.com/product-categories/gaming-headset,tv-it.com,2025-10-07T01:08:39.405417Z
+a200dfcfa8ec,Shop Gaming Mousepad in Egypt | Technology Valley,549.0,EGP,https://tv-it.com/product-categories/gaming-mousepad,tv-it.com,2025-10-07T01:08:39.405417Z
+6ea3e53fb5b8,Shop Controllers - Gaming Pad in Egypt | Technology Valley,1299.0,EGP,https://tv-it.com/product-categories/controller-and-gamepad,tv-it.com,2025-10-07T01:08:39.405417Z
+5881e0b99329,Shop Gaming Desk - Gaming Chair in Egypt | Technology Valley,14500.0,EGP,https://tv-it.com/product-categories/gaming-desk-chair,tv-it.com,2025-10-07T01:08:39.405417Z
+31aa60ca9d2e,Shop Racing Wheel and Shifter in Egypt | Technology Valley,3499.0,EGP,https://tv-it.com/product-categories/driving-wheel-and-shifter,tv-it.com,2025-10-07T01:08:39.405417Z
+142ae2a7ffc1,Shop Gaming Chargers & Cables in Egypt | Technology Valley,799.0,EGP,https://tv-it.com/product-categories/gaming-chargers-cables,tv-it.com,2025-10-07T01:08:39.405417Z
+81e94d832045,Shop Personal Care Products in Egypt | Technology Valley,1699.0,EGP,https://tv-it.com/product-categories/personal-care-products,tv-it.com,2025-10-07T01:08:39.405417Z
+d23634132bc5,Shop Hair Products in Egypt | Technology Valley,1699.0,EGP,https://tv-it.com/product-categories/hair-products,tv-it.com,2025-10-07T01:08:39.405417Z
+c88088698dcb,Shop Dish Washer in Egypt | Technology Valley,16199.0,EGP,https://tv-it.com/product-categories/dish-washer,tv-it.com,2025-10-07T01:08:39.405417Z
+02741aeba620,Shop Hot Plate in Egypt | Technology Valley,1050.0,EGP,https://tv-it.com/product-categories/hot-plate,tv-it.com,2025-10-07T01:08:39.405417Z
+84f872bf53ba,Shop Scooters & Equipment  in Egypt | Technology Valley,22999.0,EGP,https://tv-it.com/product-categories/scooters-and-equipment,tv-it.com,2025-10-07T01:08:39.405417Z
+cbc2763f791b,Shop Electric Scooters in Egypt | Technology Valley,22999.0,EGP,https://tv-it.com/product-categories/electric-scooters,tv-it.com,2025-10-07T01:08:39.405417Z
+46998ba11ac3,Shop Mobile Photo Printer in Egypt | Technology Valley,180.0,EGP,https://tv-it.com/product-categories/mobile-photo-printer-vr-glasses,tv-it.com,2025-10-07T01:08:39.405417Z
+57193169716b,Shop Stylus Pen in Egypt | Technology Valley,345.0,EGP,https://tv-it.com/product-categories/stylus,tv-it.com,2025-10-07T01:08:39.405417Z
+2bc0275af4d2,Hot Deals Products,10666.0,EGP,https://tv-it.com/product-categories/hot-deals-products,tv-it.com,2025-10-07T01:08:39.405417Z
+09ceba603ee3,Mobile Offers,7450.0,EGP,https://tv-it.com/product-categories/mobile-offers,tv-it.com,2025-10-07T01:08:39.405417Z
+0490b5204e13,Xiaomi,6750.0,EGP,https://tv-it.com/product-categories/xiaomi-1,tv-it.com,2025-10-07T01:08:39.405417Z
+e8385aa32263,Samsung,19850.0,EGP,https://tv-it.com/product-categories/samsung,tv-it.com,2025-10-07T01:08:39.405417Z
+86ed5ace9e01,Vivo,22999.0,EGP,https://tv-it.com/product-categories/vivo,tv-it.com,2025-10-07T01:08:39.405417Z
+d6765acd3e1c,Itel,4099.0,EGP,https://tv-it.com/product-categories/itel-1,tv-it.com,2025-10-07T01:08:39.405417Z
+ed80b4cbb6de,Oppo,7450.0,EGP,https://tv-it.com/product-categories/oppo,tv-it.com,2025-10-07T01:08:39.405417Z
+1966fa557909,NOKIA,899.0,EGP,https://tv-it.com/product-categories/nokia,tv-it.com,2025-10-07T01:08:39.405417Z
+e5a174ff3b72,Laptop Offers,24999.0,EGP,https://tv-it.com/product-categories/laptop-offers,tv-it.com,2025-10-07T01:08:39.405417Z
+8df5cbd64803,Lenovo,24999.0,EGP,https://tv-it.com/product-categories/lenovo-1,tv-it.com,2025-10-07T01:08:39.405417Z
+8518e0405524,Dell,41299.0,EGP,https://tv-it.com/product-categories/dell,tv-it.com,2025-10-07T01:08:39.405417Z
+92811a80e59a,Asus,25999.0,EGP,https://tv-it.com/product-categories/asus-1,tv-it.com,2025-10-07T01:08:39.405417Z
+2b1767633a8f,HP,57399.0,EGP,https://tv-it.com/product-categories/hp,tv-it.com,2025-10-07T01:08:39.405417Z
+36460951b4f3,Mobile Accessories Offers,1899.0,EGP,https://tv-it.com/product-categories/mobile-accessories-offers,tv-it.com,2025-10-07T01:08:39.405417Z
+39c1b1ccbd6a,Smart Watch,2999.0,EGP,https://tv-it.com/product-categories/smart-watch-1,tv-it.com,2025-10-07T01:08:39.405417Z
+fe70c538da58,Earphones,99.0,EGP,https://tv-it.com/product-categories/earphones-1,tv-it.com,2025-10-07T01:08:39.405417Z
+59da74ddf276,Charging Cable,120.0,EGP,https://tv-it.com/product-categories/charging-cable,tv-it.com,2025-10-07T01:08:39.405417Z
+1fa6fc0757f3,Earbuds,1899.0,EGP,https://tv-it.com/product-categories/earbuds-1,tv-it.com,2025-10-07T01:08:39.405417Z
+f8e9a26e9ae6,Power Bank,1899.0,EGP,https://tv-it.com/product-categories/power-bank,tv-it.com,2025-10-07T01:08:39.405417Z
+fbce2f135599,Charger,150.0,EGP,https://tv-it.com/product-categories/charger,tv-it.com,2025-10-07T01:08:39.405417Z
+987f2ea2c894,Playstation Offers,34500.0,EGP,https://tv-it.com/product-categories/playstation-offers,tv-it.com,2025-10-07T01:08:39.405417Z
+8387b898dd29,Playstation Games,625.0,EGP,https://tv-it.com/product-categories/playstation-games,tv-it.com,2025-10-07T01:08:39.405417Z
+6848a0e9bee2,playstation,34500.0,EGP,https://tv-it.com/product-categories/playstation,tv-it.com,2025-10-07T01:08:39.405417Z
+706f58b934dc,PC Component Offers,10666.0,EGP,https://tv-it.com/product-categories/pc-component-offers,tv-it.com,2025-10-07T01:08:39.405417Z
+9c6d26311e0b,PC Monitors,3600.0,EGP,https://tv-it.com/product-categories/pc-monitors,tv-it.com,2025-10-07T01:08:39.405417Z
+97376b28e3b8,VGA Cards,9700.0,EGP,https://tv-it.com/product-categories/vga-cards,tv-it.com,2025-10-07T01:08:39.405417Z
+851c325f0b5e,Gaming Bundles,10666.0,EGP,https://tv-it.com/product-categories/gaming-bundles,tv-it.com,2025-10-07T01:08:39.405417Z
+85b8f8879ec9,Motherboards,6900.0,EGP,https://tv-it.com/product-categories/motherboards,tv-it.com,2025-10-07T01:08:39.405417Z
+21e5b0a364fa,Processors,3900.0,EGP,https://tv-it.com/product-categories/processors,tv-it.com,2025-10-07T01:08:39.405417Z
+504287f3628d,Rush Brush Offers,1699.0,EGP,https://tv-it.com/product-categories/rush-brush,tv-it.com,2025-10-07T01:08:39.405417Z
+c280224932dc,Small Home Appliances Offers,999.0,EGP,https://tv-it.com/product-categories/kenwood-offers,tv-it.com,2025-10-07T01:08:39.405417Z
+3634116539e1,Vacuum Cleaner,2850.0,EGP,https://tv-it.com/product-categories/vacuum-cleaner-1,tv-it.com,2025-10-07T01:08:39.405417Z
+9fddd8e75d13,Steam Irons,999.0,EGP,https://tv-it.com/product-categories/steam-irons-1,tv-it.com,2025-10-07T01:08:39.405417Z
+b05a57a29822,Microwave,5999.0,EGP,https://tv-it.com/product-categories/microwave-1,tv-it.com,2025-10-07T01:08:39.405417Z
+ca683a390778,Water Heater,3050.0,EGP,https://tv-it.com/product-categories/water-heater,tv-it.com,2025-10-07T01:08:39.405417Z
+d16062337c54,Television Deals | Best Discounts and Offers | Technology Valley,7299.0,EGP,https://tv-it.com/product-categories/tv-offers,tv-it.com,2025-10-07T01:08:39.405417Z
+656c8e62f56f,Samsung,19999.0,EGP,https://tv-it.com/product-categories/samsung-tv,tv-it.com,2025-10-07T01:08:39.405417Z
+88d2466446e5,LG,18999.0,EGP,https://tv-it.com/product-categories/lg,tv-it.com,2025-10-07T01:08:39.405417Z
+8ee049fbc73e,Shop Now Large Home Appliances Deals | Best Discounts and Offers | Technology Valley,20500.0,EGP,https://tv-it.com/product-categories/refrigerators-offers,tv-it.com,2025-10-07T01:08:39.405417Z
+a4b6ec7d741c,Refrigerators Deals | Best Discounts and Offers on Refrigerators,20500.0,EGP,https://tv-it.com/product-categories/refrigerators-2,tv-it.com,2025-10-07T01:08:39.405417Z
+59b675ea8c0d,Washing Machine Deals | Best Discounts and Offers | Technology Valley,13245.0,EGP,https://tv-it.com/product-categories/washing-machines,tv-it.com,2025-10-07T01:08:39.405417Z
+0fb0eaaba14f,Built in Hoods,4999.0,EGP,https://tv-it.com/product-categories/cooker-hoods,tv-it.com,2025-10-07T01:08:39.405417Z
+72489815c9a7,Built in Cooker,10200.0,EGP,https://tv-it.com/product-categories/built-in-cooker,tv-it.com,2025-10-07T01:08:39.405417Z
+4d8a486469df,Buy Best Freestanding Gas Cooker in Egypt at Best Price,16199.0,EGP,https://tv-it.com/product-categories/gas-cookers,tv-it.com,2025-10-07T01:08:39.405417Z
+0141102d1c6a,El ARABY Offers,27500.0,EGP,https://tv-it.com/product-categories/el-araby-offers,tv-it.com,2025-10-07T01:08:39.405417Z
+371496bac29e,Washing Machine,11999.0,EGP,https://tv-it.com/product-categories/al-araby-offers,tv-it.com,2025-10-07T01:08:39.405417Z
+9f782b948b4a,Refrigerators,27500.0,EGP,https://tv-it.com/product-categories/refrigerators-1,tv-it.com,2025-10-07T01:08:39.405417Z
+2c0fa7206846,Microwave and Electric Ovens,5299.0,EGP,https://tv-it.com/product-categories/microwave-and-electric-ovens,tv-it.com,2025-10-07T01:08:39.405417Z
+7374cb22f3bd,Freezers,20500.0,EGP,https://tv-it.com/product-categories/freezers-2,tv-it.com,2025-10-07T01:08:39.405417Z
+079d2fe9bb18,Air Conditioner,33075.0,EGP,https://tv-it.com/product-categories/air-conditioner,tv-it.com,2025-10-07T01:08:39.405417Z
+09be38d6f81b,TVs,7299.0,EGP,https://tv-it.com/product-categories/tvs,tv-it.com,2025-10-07T01:08:39.405417Z
+434cb36a0381,Vacuum Cleaner,3700.0,EGP,https://tv-it.com/product-categories/vacuum-cleaner-2,tv-it.com,2025-10-07T01:08:39.405417Z
+2f1b1b13ece6,Water Heater,3079.0,EGP,https://tv-it.com/product-categories/water-heater-1,tv-it.com,2025-10-07T01:08:39.405417Z
+5afe79a6c898,Kitchen Appliances,1099.0,EGP,https://tv-it.com/product-categories/kitchen-appliances,tv-it.com,2025-10-07T01:08:39.405417Z
+f5058c1d4680,Dish Washer,17799.0,EGP,https://tv-it.com/product-categories/dish-washer-2,tv-it.com,2025-10-07T01:08:39.405417Z
+3a9dbf3a65d8,Fan,1250.0,EGP,https://tv-it.com/product-categories/fan,tv-it.com,2025-10-07T01:08:39.405417Z
+b6bb16b5184b,Ventilating Fan,1235.0,EGP,https://tv-it.com/product-categories/ventilating-fan-1,tv-it.com,2025-10-07T01:08:39.405417Z
+be277569a7bd,Water Dispenser,6500.0,EGP,https://tv-it.com/product-categories/water-dispenser-1,tv-it.com,2025-10-07T01:08:39.405417Z
+a0faa98bc11a,Steam Iron,2970.0,EGP,https://tv-it.com/product-categories/steam-iron,tv-it.com,2025-10-07T01:08:39.405417Z
+68459892c1a1,Cooker and Cooker Hoods,18849.0,EGP,https://tv-it.com/product-categories/freestanding-cooker,tv-it.com,2025-10-07T01:08:39.405417Z
+7dfa3883871a,Back to Campus,4400.0,EGP,https://tv-it.com/product-categories/back-to-campus,tv-it.com,2025-10-07T01:08:39.405417Z
+d35288ba87c4,Shop Best Selling Products in Egypt | Technology Valley,599.0,EGP,https://tv-it.com/product-categories/best-selling,tv-it.com,2025-10-07T01:08:39.405417Z
+de19cbd41840,Shop Outlet Products in Egypt | Technology Valley,575.0,EGP,https://tv-it.com/product-categories/outlet,tv-it.com,2025-10-07T01:08:39.405417Z
+acdeb169e309,Search result for,3600.0,EGP,https://tv-it.com/products?categories%5B%5D=6&q=lenovo,tv-it.com,2025-10-07T01:08:39.405417Z
+df39a3f93be3,Search result for,194999.0,EGP,https://tv-it.com/products?categories%5B0%5D=0&q=legion%20pro%207,tv-it.com,2025-10-07T01:08:39.405417Z
+81517685ae37,Search result for,34999.0,EGP,https://tv-it.com/products?categories%5B%5D=0&q=Lenovo+LOQ+15,tv-it.com,2025-10-07T01:08:39.405417Z
+8dffa48e483a,Lenovo IdeaPad Duet 3 11IAN8 4GB RAM 128GB | Technology Valley,18333.0,EGP,https://tv-it.com/products/lenovo-ideapad-duet-3-11ian8-82xk0032ed,tv-it.com,2025-10-07T01:08:39.405417Z
+822d7483efe2,"ASUS ZenBook S14 Laptop | Intel Core Ultra 7 258V, Intel Arc, 32GB RAM",92199.0,EGP,https://tv-it.com/products/asus-zenbook-s14-oled-ux5406sa-pv007w-laptop,tv-it.com,2025-10-07T01:08:39.405417Z
+76fadfed2765,Technology Valley,109999.0,EGP,https://tv-it.com/products,tv-it.com,2025-10-07T01:08:39.405417Z
 3131c989bec8,Egypt Game Store - Best Game Deals,,EGP,https://egyptgamestore.com/product/1922/Spider-Man-Miles-Morales:-Launch-Edition,egyptgamestore.com,2025-10-07T01:25:44.589449Z
 fa265dd70426,Egypt Game Store - Best Game Deals,,EGP,https://egyptgamestore.com/product/1512/Fifa-22-PS5-Standard-Edition-English,egyptgamestore.com,2025-10-07T01:25:44.589449Z
 cea15024d698,Egypt Game Store - Best Game Deals,,EGP,https://egyptgamestore.com/product/3263/EA-SPORTS-FC-25---PlayStation-5,egyptgamestore.com,2025-10-07T01:25:44.589449Z

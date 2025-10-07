@@ -1,33 +1,35 @@
-brand,category,currency,image_url,name,price_egp,scraped_at,source,url
-,,EGP,,Product Carousels,999.0,2025-10-06T18:37:04.588053Z,egygamer.com,https://egygamer.com/en/product-carousels
-,,EGP,,Product Grid Columns,3400.0,2025-10-06T18:37:04.588057Z,egygamer.com,https://egygamer.com/en/product-grid-columns
-,,EGP,,Products Grid,,2025-10-06T18:37:04.588058Z,egygamer.com,https://egygamer.com/en/products-grid
-,,EGP,,Xbox Series - Video Games,3800.0,2025-10-06T18:37:04.588059Z,egygamer.com,https://egygamer.com/en/playstation/xbox-series-x
-,,EGP,,Games - Xbox Series - Video Games,3800.0,2025-10-06T18:37:04.588060Z,egygamer.com,https://egygamer.com/en/playstation/xbox-series-x/games
-,,EGP,,Buy Best Xbox One Games In Egypt | Egygamer.com,3800.0,2025-10-06T18:37:04.588061Z,egygamer.com,https://egygamer.com/en/playstation/xbox-one
-,,EGP,,Xbox Series Console - Consoles,21000.0,2025-10-06T18:37:04.588063Z,egygamer.com,https://egygamer.com/en/console/xbox-series-console
-,,EGP,,Xbox Accessories - Hardware,2775.0,2025-10-06T18:37:04.588064Z,egygamer.com,https://egygamer.com/en/hardware/xbox-accessories
-,,EGP,,Keyboards - Hardware,1799.0,2025-10-06T18:37:04.588065Z,egygamer.com,https://egygamer.com/en/hardware/keyboards
-,,EGP,,Mouse - Hardware,999.0,2025-10-06T18:37:04.588066Z,egygamer.com,https://egygamer.com/en/hardware/mouse
-,,EGP,,Headsets - Hardware,700.0,2025-10-06T18:37:04.588067Z,egygamer.com,https://egygamer.com/en/hardware/headsets
-,,EGP,,Xbox Live - Digital Codes,600.0,2025-10-06T18:37:04.588068Z,egygamer.com,https://egygamer.com/en/digital-codes/xbox-live
-,,EGP,,Xbox Live US - Xbox Live - Digital Codes,2560.0,2025-10-06T18:37:04.588069Z,egygamer.com,https://egygamer.com/en/digital-codes/xbox-live/xbox-live-us
-,,EGP,,Xbox Live EU - Xbox Live - Digital Codes,3950.0,2025-10-06T18:37:04.588070Z,egygamer.com,https://egygamer.com/en/digital-codes/xbox-live/xbox-live-eu
-,,EGP,,Xbox Digital Games - Xbox Live - Digital Codes,415.0,2025-10-06T18:37:04.588071Z,egygamer.com,https://egygamer.com/en/digital-codes/xbox-live/xbox-digital-games
-,,EGP,https://egygamer.com/media/catalog/product/cache/865802cb1f5ccb8e3df2c5271c6d7ed4/8/1/81yo7qccpil._ac_sx569_.jpg,Split Fiction Standard Edition (PS5),2990.0,2025-10-06T18:37:04.588072Z,egygamer.com,https://www.egygamer.com/en/split-fiction-standard-edition-ps5.html
-,,EGP,https://egygamer.com/media/catalog/product/placeholder/default/65881607_1265796633601099_131943572881539072_n.png,Double Charging Base For Joystick PS5 With RGB,675.0,2025-10-06T18:37:04.588074Z,egygamer.com,https://egygamer.com/en/double-charging-base-for-joystick-ps5-with-rgb.html
-,,EGP,https://egygamer.com/media/catalog/product/cache/865802cb1f5ccb8e3df2c5271c6d7ed4/7/1/71pikzklajl._ac_sx466_.jpg,PS5 Disc Slim Console Cover -  CAMOUFLAGE,1000.0,2025-10-06T18:37:04.588075Z,egygamer.com,https://egygamer.com/en/ps5-disc-slim-console-cover-camouflage.html
-,,EGP,https://egygamer.com/media/catalog/product/cache/865802cb1f5ccb8e3df2c5271c6d7ed4/6/1/61k6f_1ausl._ac_sx522_.jpg,Dobe Display Stand Charging Kit PS5,150.0,2025-10-06T18:37:04.588076Z,egygamer.com,https://egygamer.com/en/dobe-display-stand-charging-kit-ps5.html
-,,EGP,https://egygamer.com/media/catalog/product/cache/865802cb1f5ccb8e3df2c5271c6d7ed4/a/r/artboard_1_copy.jpg,Deadskull controller silicone case with grips blue,210.0,2025-10-06T18:37:04.588077Z,egygamer.com,https://egygamer.com/en/deadskull-controller-silicone-case-with-grips-blue.html
-,,EGP,https://egygamer.com/media/catalog/product/cache/865802cb1f5ccb8e3df2c5271c6d7ed4/b/a/battlefield-6-phantom-edition.jpg,Battlefield 6 Phantom Edition (PS5),5899.0,2025-10-06T18:37:04.588078Z,egygamer.com,https://egygamer.com/en/battlefield-6-phantom-edition-ps5.html
-,,EGP,https://egygamer.com/media/catalog/product/cache/865802cb1f5ccb8e3df2c5271c6d7ed4/8/1/81-zphwe9vl._ac_sl1500_.jpg,Battlefield 6 (PS5),3890.0,2025-10-06T18:37:04.588079Z,egygamer.com,https://egygamer.com/en/battlefield-6-standard-edition-ps5.html
-,,EGP,https://egygamer.com/media/catalog/product/cache/865802cb1f5ccb8e3df2c5271c6d7ed4/p/h/photo_2025-09-02_13-12-54.jpg,Little Nightmares III Mirror Edition (PS5),6500.0,2025-10-06T18:37:04.588080Z,egygamer.com,https://egygamer.com/en/little-nightmares-iii-mirror-edition-ps5.html
-,,EGP,https://egygamer.com/media/catalog/product/cache/865802cb1f5ccb8e3df2c5271c6d7ed4/p/h/photo_2025-09-02_12-57-38.jpg,Little Nightmares III (PS5),2040.0,2025-10-06T18:37:04.588081Z,egygamer.com,https://egygamer.com/en/little-nightmares-iii-ps5.html
-,,EGP,https://egygamer.com/media/catalog/product/cache/865802cb1f5ccb8e3df2c5271c6d7ed4/n/i/ninja-gaiden-2-black-multilanguage-cover-english-845955.17.jpg,Ninja Gaiden II Black (PS5),3333.0,2025-10-06T18:37:04.588082Z,egygamer.com,https://egygamer.com/en/ninja-gaiden-ii-black-ps5.html
-,,EGP,https://egygamer.com/media/catalog/product/cache/865802cb1f5ccb8e3df2c5271c6d7ed4/7/1/71kordq6i6l._ac_sl1500__1.jpg,Xbox Core Wireless Controller - Pulse Red (EGYGAMER FABRIKA),2775.0,2025-10-06T18:37:04.588082Z,egygamer.com,https://egygamer.com/en/xbox-core-wireless-controller-pulse-red-egygamer-fabrika.html
-,,EGP,https://egygamer.com/media/catalog/product/cache/865802cb1f5ccb8e3df2c5271c6d7ed4/7/1/713eal8bxbl._ac_sl1500_.jpg,"Retro Game Console, 4K HDMI Output Video Game Console, Built in 10000+ Classic Games, with 2 Ergonomic Controllers, Plug and Play Game Console",850.0,2025-10-06T18:37:04.588083Z,egygamer.com,https://egygamer.com/en/retro-game-console-4k-hdmi-output-video-game-console-built-in-10000-classic-games-with-2-ergonomic-controllers-plug-and-play-game-console.html
-,,EGP,https://egygamer.com/media/catalog/product/cache/865802cb1f5ccb8e3df2c5271c6d7ed4/8/1/81okguze6kl._ac_sl1500__1.jpg,Tekken 8 (PS5),2350.0,2025-10-06T18:37:04.588084Z,egygamer.com,https://egygamer.com/en/tekken-ps5.html
-,,EGP,https://egygamer.com/media/catalog/product/cache/865802cb1f5ccb8e3df2c5271c6d7ed4/8/1/81n9t6jit1l._sl1500_.jpg,Wolfenstein Youngblood Deluxe Edition (Xbox One),765.0,2025-10-06T18:37:04.588085Z,egygamer.com,https://egygamer.com/en/wolfenstein-youngblood-deluxe-edition-xbox-one.html
-,,EGP,https://egygamer.com/media/catalog/product/cache/865802cb1f5ccb8e3df2c5271c6d7ed4/8/1/81xactf9x9l._ac_sl1500_.jpg,Gran Turismo 7 (PS5),2250.0,2025-10-06T18:37:04.588087Z,egygamer.com,https://egygamer.com/en/gran-turismo-7-ps5.html
-,,EGP,https://egygamer.com/media/catalog/product/cache/865802cb1f5ccb8e3df2c5271c6d7ed4/m/o/mortal-kombat-11-ultimate-kollectors-editions.png,Mortal Kombat 11 Ultimate Edition (PS5),1599.0,2025-10-06T18:37:04.588088Z,egygamer.com,https://egygamer.com/en/mortal-kombat-11-ultimate-kollector-s-editions-ps5.html
-,,EGP,https://egygamer.com/media/catalog/product/cache/865802cb1f5ccb8e3df2c5271c6d7ed4/6/1/61k6_cnm-ml._ac_sl1500_.jpg,Xbox Series X,37000.0,2025-10-06T18:37:04.588088Z,egygamer.com,https://egygamer.com/xbox-series-xx.html
+id,product name,product price,currency,product url,site name,time stamp
+5b09d4cfa9f0,Product Carousels,999.0,EGP,https://egygamer.com/en/product-carousels,egygamer.com,2025-10-07T00:43:12.291559Z
+b22146fb44e8,Product Grid Columns,3400.0,EGP,https://egygamer.com/en/product-grid-columns,egygamer.com,2025-10-07T00:43:12.291559Z
+028795bddc37,Products Grid,,EGP,https://egygamer.com/en/products-grid,egygamer.com,2025-10-07T00:43:12.291559Z
+3194ffcda5d5,Xbox Series - Video Games,3800.0,EGP,https://egygamer.com/en/playstation/xbox-series-x,egygamer.com,2025-10-07T00:43:12.291559Z
+6729c9930801,Games - Xbox Series - Video Games,3800.0,EGP,https://egygamer.com/en/playstation/xbox-series-x/games,egygamer.com,2025-10-07T00:43:12.291559Z
+9217640dbda8,Buy Best Xbox One Games In Egypt | Egygamer.com,3800.0,EGP,https://egygamer.com/en/playstation/xbox-one,egygamer.com,2025-10-07T00:43:12.291559Z
+acd04212675f,Xbox Series Console - Consoles,21000.0,EGP,https://egygamer.com/en/console/xbox-series-console,egygamer.com,2025-10-07T00:43:12.291559Z
+85f9cbc37b38,Xbox Accessories - Hardware,2775.0,EGP,https://egygamer.com/en/hardware/xbox-accessories,egygamer.com,2025-10-07T00:43:12.291559Z
+ddd732997ee4,Keyboards - Hardware,1799.0,EGP,https://egygamer.com/en/hardware/keyboards,egygamer.com,2025-10-07T00:43:12.291559Z
+c5fd7e0962a5,Mouse - Hardware,999.0,EGP,https://egygamer.com/en/hardware/mouse,egygamer.com,2025-10-07T00:43:12.291559Z
+b1544c25e55a,Headsets - Hardware,700.0,EGP,https://egygamer.com/en/hardware/headsets,egygamer.com,2025-10-07T00:43:12.291559Z
+dd74d18a3e43,Xbox Live - Digital Codes,600.0,EGP,https://egygamer.com/en/digital-codes/xbox-live,egygamer.com,2025-10-07T00:43:12.291559Z
+b731e6817c21,Xbox Live US - Xbox Live - Digital Codes,2560.0,EGP,https://egygamer.com/en/digital-codes/xbox-live/xbox-live-us,egygamer.com,2025-10-07T00:43:12.291559Z
+6b9479a0a7d0,Xbox Live EU - Xbox Live - Digital Codes,3950.0,EGP,https://egygamer.com/en/digital-codes/xbox-live/xbox-live-eu,egygamer.com,2025-10-07T00:43:12.291559Z
+64cf7c30d5c5,Xbox Digital Games - Xbox Live - Digital Codes,415.0,EGP,https://egygamer.com/en/digital-codes/xbox-live/xbox-digital-games,egygamer.com,2025-10-07T00:43:12.291559Z
+2b63e3adf0d7,Split Fiction Standard Edition (PS5),2990.0,EGP,https://www.egygamer.com/en/split-fiction-standard-edition-ps5.html,egygamer.com,2025-10-07T00:43:12.291559Z
+895fbbc49498,Double Charging Base For Joystick PS5 With RGB,675.0,EGP,https://egygamer.com/en/double-charging-base-for-joystick-ps5-with-rgb.html,egygamer.com,2025-10-07T00:43:12.291559Z
+05b50f4648da,PS5 Disc Slim Console Cover -  CAMOUFLAGE,1000.0,EGP,https://egygamer.com/en/ps5-disc-slim-console-cover-camouflage.html,egygamer.com,2025-10-07T00:43:12.291559Z
+f37a4164f6c9,Dobe Display Stand Charging Kit PS5,150.0,EGP,https://egygamer.com/en/dobe-display-stand-charging-kit-ps5.html,egygamer.com,2025-10-07T00:43:12.291559Z
+db7d7575040e,Deadskull controller silicone case with grips blue,210.0,EGP,https://egygamer.com/en/deadskull-controller-silicone-case-with-grips-blue.html,egygamer.com,2025-10-07T00:43:12.291559Z
+cc33264c2cde,Battlefield 6 Phantom Edition (PS5),5899.0,EGP,https://egygamer.com/en/battlefield-6-phantom-edition-ps5.html,egygamer.com,2025-10-07T00:43:12.291559Z
+3c853973d02e,Battlefield 6 (PS5),3890.0,EGP,https://egygamer.com/en/battlefield-6-standard-edition-ps5.html,egygamer.com,2025-10-07T00:43:12.291559Z
+a2ed935d0975,Little Nightmares III Mirror Edition (PS5),6500.0,EGP,https://egygamer.com/en/little-nightmares-iii-mirror-edition-ps5.html,egygamer.com,2025-10-07T00:43:12.291559Z
+25fb0cddafdb,Little Nightmares III (PS5),2040.0,EGP,https://egygamer.com/en/little-nightmares-iii-ps5.html,egygamer.com,2025-10-07T00:43:12.291559Z
+0766804c722b,Ninja Gaiden II Black (PS5),3333.0,EGP,https://egygamer.com/en/ninja-gaiden-ii-black-ps5.html,egygamer.com,2025-10-07T00:43:12.291559Z
+06c1861779bc,The last of us Part II Remastered Pre-Owned (PS5),1590.0,EGP,https://egygamer.com/en/the-last-of-us-part-ii-remastered-pre-owned-ps5.html,egygamer.com,2025-10-07T00:43:12.291559Z
+c8c02fc19e68,Assassin's Creed Shadows Pre-Owned (PS5),2500.0,EGP,https://egygamer.com/en/assassin-s-creed-shadows-pre-owned-ps5.html,egygamer.com,2025-10-07T00:43:12.291559Z
+f86f30e3989a,Xbox Core Wireless Controller - Pulse Red (EGYGAMER FABRIKA),2775.0,EGP,https://egygamer.com/en/xbox-core-wireless-controller-pulse-red-egygamer-fabrika.html,egygamer.com,2025-10-07T00:43:12.291559Z
+e79d84b257af,"Retro Game Console, 4K HDMI Output Video Game Console, Built in 10000+ Classic Games, with 2 Ergonomic Controllers, Plug and Play Game Console",850.0,EGP,https://egygamer.com/en/retro-game-console-4k-hdmi-output-video-game-console-built-in-10000-classic-games-with-2-ergonomic-controllers-plug-and-play-game-console.html,egygamer.com,2025-10-07T00:43:12.291559Z
+f4e33c8925c1,Tekken 8 (PS5),2350.0,EGP,https://egygamer.com/en/tekken-ps5.html,egygamer.com,2025-10-07T00:43:12.291559Z
+eb762b82d24d,Wolfenstein Youngblood Deluxe Edition (Xbox One),765.0,EGP,https://egygamer.com/en/wolfenstein-youngblood-deluxe-edition-xbox-one.html,egygamer.com,2025-10-07T00:43:12.291559Z
+398108db043c,Gran Turismo 7 (PS5),2250.0,EGP,https://egygamer.com/en/gran-turismo-7-ps5.html,egygamer.com,2025-10-07T00:43:12.291559Z
+c07f74dcf4d6,Mortal Kombat 11 Ultimate Edition (PS5),1599.0,EGP,https://egygamer.com/en/mortal-kombat-11-ultimate-kollector-s-editions-ps5.html,egygamer.com,2025-10-07T00:43:12.291559Z
+3775da46fe78,Xbox Series X,37000.0,EGP,https://egygamer.com/xbox-series-xx.html,egygamer.com,2025-10-07T00:43:12.291559Z
