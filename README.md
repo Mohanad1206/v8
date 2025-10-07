@@ -1,68 +1,51 @@
 # Edith – Egypt Gaming Accessories Scraper (GitHub-ready)
 
-This repo scrapes **15 Egyptian** e-commerce sites for gaming accessories, normalizes prices to **EGP**, filters **EGP 100 → 2500**, and commits **raw + combined** data back to the repository.
-A small viewer in `web/` lets you preview `web/data/products.json`.
+A scraper-only toolkit that gathers gaming accessory products from multiple Egyptian e‑commerce stores, normalizes prices to **EGP**, filters within a target range, and **commits results back to the same repository** via GitHub Actions. It includes a minimal web viewer to browse the merged dataset.
 
-**Websites**
-- https://www.games2egypt.com
-- https://shamystores.com
-- https://www.gamesworldegypt.com
-- https://egygamer.com
-- https://thegamecaveegypt.com
-- https://gamerscolony.net
-- https://egyptlaptop.com
-- https://compume.com.eg
-- https://www.compumarts.com
-- https://hardwaremarket.net
-- https://ahw.store
-- https://www.pcs-souq.com
-- https://rabbitstore-eg.com
-- https://tv-it.com
-- https://egyptgamestore.com
+## Key features
+- Multi-strategy scraping (sitemaps → heuristics → optional dynamic rendering via Playwright).
+- **Dynamic mode**: `auto` (fallback when static is weak), `always`, or `never`.
+- **Proxy hooks** via env (`HTTP_PROXY` / `HTTPS_PROXY` / `ALL_PROXY`) — pass one as a GitHub secret to improve reliability.
+- Outputs saved **inside the repo** so you can inspect raw JSON/CSV before any downstream processing.
+- Small front-end viewer in `web/` for quick product browsing.
 
----
+## Output files & schema
+All CSV/JSON exports follow **this exact column order** and names:
 
-## 1) Upload to GitHub (first time)
-1. Create a **new GitHub repo** (public or private).
-2. Download the release ZIP from ChatGPT and **upload/extract** its contents into the repo (or push via Git).
-3. Commit and push.
+`id, product name, product price, currency, product url, site name, time stamp`
 
-> Nothing else to configure. The workflow uses the built-in `GITHUB_TOKEN` and has `permissions: contents: write` to commit data files.
+Folders:
+- `data/raw/<domain>.{json,csv}` – Per‑site exports
+- `data/combined/products_raw.{json,csv}` – All sites (unfiltered)
+- `data/combined/products_clean.{json,csv}` – Filtered & de‑duplicated
+- `data/site_reports/<domain>.log` – Per‑site logs
+- `data/run_report.json` – Summary (counts, mode, etc.)
+- `web/data/products.json` – Dataset for the demo viewer (fields optimized for the UI)
 
----
-
-## 2) Run from Actions tab
-- Go to **Actions → “Scrape & Publish (Egypt Gaming)” → Run workflow**.
-- Inputs:
-  - `limit_per_site`: `0` = unlimited (default)
-  - `min_price`: `100`
-  - `max_price`: `2500`
-- It also runs daily at **08:00 Africa/Cairo**.
-
-On success, the workflow commits:
-- `data/raw/<domain>.json` & `.csv` (per site, raw)
-- `data/combined/products_raw.json`
-- `data/combined/products_clean.json` & `.csv` (filtered 100–2500 EGP, de-duplicated)
-- `web/data/products.json` (used by the viewer)
-- `data/site_reports/<domain>.log` and `data/run_report.json`
-
----
-
-## 3) Preview data (optional)
-Serve locally:
+## Run locally
 ```bash
+python -m venv .venv && source .venv/bin/activate   # Windows: .venv\Scripts\activate
+pip install -r scraper/requirements.txt
+python -m playwright install --with-deps            # for dynamic rendering
+
+# Scrape all sites, allow dynamic fallback, filter 100–2500 EGP
+python scraper/run_all.py --sites-file scraper/sites.txt --min-price 100 --max-price 2500 --limit-per-site 0 --dynamic-mode auto
+
+# Preview the dataset
 python -m http.server 4000
 # open http://localhost:4000/web/
 ```
 
----
+## Run on GitHub Actions
+1. Create a new GitHub repository and push these files.
+2. (Optional) Add a secret `SCRAPER_PROXY_URL` if you want to route through a proxy.
+3. Go to **Actions → “Scrape & Publish (Egypt Gaming)” → Run workflow** and set inputs:
+   - `limit_per_site`: `0` = unlimited (default)
+   - `min_price`: `100`
+   - `max_price`: `2500`
+   - `dynamic_mode`: `auto` | `never` | `always`
+4. The workflow commits updated CSV/JSON to `data/…` and the viewer dataset to `web/data/products.json`.
 
-## Notes & tips
-- Some stores may block bots or omit product metadata in sitemaps/OG tags. The repo tries **three strategies**:
-  1. Shopify product sitemaps
-  2. Generic sitemaps with product-like URLs
-  3. Heuristic: pick “producty” links on the homepage and parse OpenGraph / price blocks
-- For stubborn sites, add site-specific selectors in a custom provider later.
-- To throttle harder, edit `scraper/scrape_config.yaml` (delay/timeout).
-
-— Built by **Edith**.
+## Notes
+- Respect each site’s Terms and robots rules; tune `scraper/scrape_config.yaml` for delays/timeouts.
+- If a site still yields no data, try `dynamic_mode=always` and/or configure a proxy. For particularly stubborn stores, add site‑specific selectors in a custom provider.

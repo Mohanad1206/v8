@@ -1,13 +1,13 @@
-import time, random, requests, re
+import time, random, requests, re, os
 from typing import Optional
 from bs4 import BeautifulSoup
 
 class HttpClient:
-    def __init__(self, timeout: int = 20, delay_ms: int = 700, user_agent: Optional[str] = None):
+    def __init__(self, timeout: int = 25, delay_ms: int = 900, user_agent: Optional[str] = None):
         self.session = requests.Session()
         self.timeout = timeout
         self.delay_ms = delay_ms
-        self.user_agent = user_agent or "Mozilla/5.0 (compatible; EdithScraper/2.0)"
+        self.user_agent = user_agent or os.getenv("SCRAPER_USER_AGENT") or "Mozilla/5.0 (compatible; EdithScraper/2.0)"
 
     def get(self, url: str, **kwargs):
         headers = kwargs.pop("headers", {})

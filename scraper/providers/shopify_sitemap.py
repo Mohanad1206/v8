@@ -30,16 +30,7 @@ class ShopifySitemapProvider:
         title = og_content(soup, "og:title") or (soup.title.string if soup.title else "")
         price = guess_price(soup)
         img = og_content(soup, "og:image") or ""
-        return {
-            "name": title.strip(),
-            "price_egp": float(price) if price is not None else None,
-            "currency": "EGP",
-            "url": url,
-            "image_url": img,
-            "brand": None,
-            "category": None,
-            "source": self.source,
-        }
+        return {"name": title.strip(), "price_egp": float(price) if price is not None else None, "currency": "EGP", "url": url, "image_url": img, "brand": None, "category": None, "source": self.source}
 
     def search(self, keywords: List[str], limit_pages: int = 0) -> List[Dict]:
         out = []

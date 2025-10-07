@@ -1,4 +1,4 @@
-request_timeout: 20
-request_delay_ms: 700
-user_agent: "Mozilla/5.0 (compatible; EdithScraper/2.0)"
-max_product_pages_per_site: 0  # 0 = unlimited
+request_timeout: 25
+request_delay_ms: 900
+user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"
+max_product_pages_per_site: 0

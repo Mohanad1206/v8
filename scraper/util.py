@@ -1,3 +1,4 @@
+
 import re, hashlib
 from typing import Optional
 
@@ -18,5 +19,9 @@ def norm_name(s: str) -> str:
     s = re.sub(r'\s+', ' ', s).strip()
     return s
 
-def make_id(source: str, name: str, price: float, url: str) -> str:
-    return hashlib.md5(f"{source}|{name}|{price}|{url}".encode()).hexdigest()[:12]
+def make_id(source: str, name: str, price: Optional[float], url: str) -> str:
+    """Stable ID not tied to price (so price updates don't change ID).
+    Uses normalized name + source + url.
+    """
+    base = f"{source}|{norm_name(name)}|{url}"
+    return hashlib.md5(base.encode()).hexdigest()[:12]
