@@ -1,8 +1,8 @@
-[2025-10-07T00:41:07.396396Z] Trying ShopifySitemapProvider
-[2025-10-07T00:41:10.790444Z] ShopifySitemapProvider yielded 0 items
-[2025-10-07T00:41:10.790473Z] Trying GenericSitemapProvider
-[2025-10-07T00:41:11.794533Z] GenericSitemapProvider yielded 0 items
-[2025-10-07T00:41:11.794547Z] Trying HeuristicCatalogProvider
-[2025-10-07T00:41:12.885951Z] HeuristicCatalogProvider yielded 0 items
-[2025-10-07T00:41:12.885962Z] Static yielded few/none; falling back to PlaywrightDynamicProvider.
-[2025-10-07T00:41:29.977249Z] PlaywrightDynamicProvider yielded 0 items
+[2025-10-07T06:54:11.773192Z] Trying ShopifySitemapProvider
+[2025-10-07T06:54:15.121717Z] ShopifySitemapProvider yielded 0 items
+[2025-10-07T06:54:15.121732Z] Trying GenericSitemapProvider
+[2025-10-07T06:54:16.240076Z] GenericSitemapProvider yielded 0 items
+[2025-10-07T06:54:16.240095Z] Trying HeuristicCatalogProvider
+[2025-10-07T06:54:17.311519Z] HeuristicCatalogProvider yielded 0 items
+[2025-10-07T06:54:17.311531Z] Static yielded few/none; falling back to PlaywrightDynamicProvider.
+[2025-10-07T06:54:34.440050Z] PlaywrightDynamicProvider yielded 0 items
