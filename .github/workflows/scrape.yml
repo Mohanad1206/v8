@@ -52,12 +52,6 @@ jobs:
         run: |
           python -m playwright install --with-deps
 
-      - name: Export proxy (if set as secret)
-        if: ${{ secrets.SCRAPER_PROXY_URL != '' }}
-        run: |
-          echo "ALL_PROXY=${{ secrets.SCRAPER_PROXY_URL }}" >> $GITHUB_ENV
-          echo "HTTPS_PROXY=${{ secrets.SCRAPER_PROXY_URL }}" >> $GITHUB_ENV
-          echo "HTTP_PROXY=${{ secrets.SCRAPER_PROXY_URL }}" >> $GITHUB_ENV
 
       - name: Run scraper
         env:
