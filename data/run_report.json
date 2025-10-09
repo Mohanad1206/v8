@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-08T07:39:47.040682Z",
+  "generated_at": "2025-10-09T07:42:15.234147Z",
   "min_price": 100.0,
   "max_price": 2500.0,
   "sites": {
@@ -10,16 +10,16 @@
     "thegamecaveegypt.com": 48,
     "gamerscolony.net": 0,
     "egyptlaptop.com": 0,
-    "compume.com.eg": 3,
+    "compume.com.eg": 4,
     "www.compumarts.com": 38,
-    "hardwaremarket.net": 80,
+    "hardwaremarket.net": 81,
     "ahw.store": 75,
     "www.pcs-souq.com": 64,
     "rabbitstore-eg.com": 0,
     "tv-it.com": 234,
     "egyptgamestore.com": 864
   },
-  "total_raw": 1497,
-  "total_clean": 197,
+  "total_raw": 1499,
+  "total_clean": 196,
   "dynamic_mode": "auto"
 }
