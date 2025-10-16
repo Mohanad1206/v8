@@ -1,8 +1,10 @@
-[2025-10-15T06:58:23.312165Z] Trying ShopifySitemapProvider
-[2025-10-15T06:59:24.115102Z] ShopifySitemapProvider yielded 0 items
-[2025-10-15T06:59:24.115122Z] Trying GenericSitemapProvider
-[2025-10-15T06:59:43.120549Z] GenericSitemapProvider yielded 0 items
-[2025-10-15T06:59:43.120569Z] Trying HeuristicCatalogProvider
-[2025-10-15T07:01:13.053834Z] HeuristicCatalogProvider yielded 1 items
-[2025-10-15T07:01:13.053845Z] Static yielded few/none; falling back to PlaywrightDynamicProvider.
-[2025-10-15T07:03:08.539453Z] PlaywrightDynamicProvider yielded 3 items
+[2025-10-16T06:57:54.297459Z] Trying ShopifySitemapProvider
+[2025-10-16T06:58:42.894908Z] ShopifySitemapProvider yielded 0 items
+[2025-10-16T06:58:42.894928Z] Trying GenericSitemapProvider
+[2025-10-16T06:58:59.577514Z] GenericSitemapProvider yielded 0 items
+[2025-10-16T06:58:59.577533Z] Trying HeuristicCatalogProvider
+[2025-10-16T07:00:17.591404Z] HeuristicCatalogProvider yielded 1 items
+[2025-10-16T07:00:17.591419Z] Static yielded few/none; falling back to PlaywrightDynamicProvider.
+[2025-10-16T07:00:53.027904Z] ERROR PlaywrightDynamicProvider: Page.goto: Timeout 35000ms exceeded.
+Call log:
+  - navigating to "https://compume.com.eg/sitemap.xml", waiting until "domcontentloaded"
