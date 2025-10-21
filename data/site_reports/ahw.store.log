@@ -1,6 +1,6 @@
-[2025-10-20T07:12:16.869324Z] Trying ShopifySitemapProvider
-[2025-10-20T07:12:22.755413Z] ShopifySitemapProvider yielded 0 items
-[2025-10-20T07:12:22.755440Z] Trying GenericSitemapProvider
-[2025-10-20T07:12:23.958183Z] GenericSitemapProvider yielded 0 items
-[2025-10-20T07:12:23.958200Z] Trying HeuristicCatalogProvider
-[2025-10-20T07:15:13.941638Z] HeuristicCatalogProvider yielded 76 items
+[2025-10-21T07:13:19.903232Z] Trying ShopifySitemapProvider
+[2025-10-21T07:13:25.389885Z] ShopifySitemapProvider yielded 0 items
+[2025-10-21T07:13:25.389904Z] Trying GenericSitemapProvider
+[2025-10-21T07:13:26.618497Z] GenericSitemapProvider yielded 0 items
+[2025-10-21T07:13:26.618527Z] Trying HeuristicCatalogProvider
+[2025-10-21T07:16:04.494920Z] HeuristicCatalogProvider yielded 76 items

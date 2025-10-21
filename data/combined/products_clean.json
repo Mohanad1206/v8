@@ -6,7 +6,7 @@
     "currency": "EGP",
     "product url": "https://shamystores.com/collections/xbox-gift-cards",
     "site name": "shamystores.com",
-    "time stamp": "2025-10-20T06:56:51.581119Z"
+    "time stamp": "2025-10-21T06:56:40.918895Z"
   },
   {
     "id": "208a08440394",
@@ -15,7 +15,7 @@
     "currency": "EGP",
     "product url": "https://shamystores.com/collections/ps5-used-games",
     "site name": "shamystores.com",
-    "time stamp": "2025-10-20T06:56:51.581119Z"
+    "time stamp": "2025-10-21T06:56:40.918895Z"
   },
   {
     "id": "2d150bf345b3",
@@ -24,7 +24,7 @@
     "currency": "EGP",
     "product url": "https://shamystores.com/collections/xbox-games",
     "site name": "shamystores.com",
-    "time stamp": "2025-10-20T06:56:51.581119Z"
+    "time stamp": "2025-10-21T06:56:40.918895Z"
   },
   {
     "id": "56659c78112b",
@@ -33,7 +33,7 @@
     "currency": "EGP",
     "product url": "https://shamystores.com/collections/xbox-used-games",
     "site name": "shamystores.com",
-    "time stamp": "2025-10-20T06:56:51.581119Z"
+    "time stamp": "2025-10-21T06:56:40.918895Z"
   },
   {
     "id": "237184f72d52",
@@ -42,7 +42,7 @@
     "currency": "EGP",
     "product url": "https://shamystores.com/products/psn-10-usa-ep10usd",
     "site name": "shamystores.com",
-    "time stamp": "2025-10-20T06:56:51.581119Z"
+    "time stamp": "2025-10-21T06:56:40.918895Z"
   },
   {
     "id": "dc1886868e76",
@@ -51,7 +51,7 @@
     "currency": "EGP",
     "product url": "https://shamystores.com/products/psn-25-usa-ep25usd",
     "site name": "shamystores.com",
-    "time stamp": "2025-10-20T06:56:51.581119Z"
+    "time stamp": "2025-10-21T06:56:40.918895Z"
   },
   {
     "id": "fdd30b637c10",
@@ -60,7 +60,7 @@
     "currency": "EGP",
     "product url": "https://shamystores.com/products/psn-10-uae-ep10uae",
     "site name": "shamystores.com",
-    "time stamp": "2025-10-20T06:56:51.581119Z"
+    "time stamp": "2025-10-21T06:56:40.918895Z"
   },
   {
     "id": "e9b108ba124b",
@@ -69,7 +69,142 @@
     "currency": "EGP",
     "product url": "https://shamystores.com/products/psn-20-uae-ep20uae",
     "site name": "shamystores.com",
-    "time stamp": "2025-10-20T06:56:51.581119Z"
+    "time stamp": "2025-10-21T06:56:40.918895Z"
+  },
+  {
+    "id": "53f00d4ce372",
+    "product name": "PSN 40$ UAE",
+    "product price": 2399.0,
+    "currency": "EGP",
+    "product url": "https://shamystores.com/products/psn-40-uae-uz40uae",
+    "site name": "shamystores.com",
+    "time stamp": "2025-10-21T06:56:40.918895Z"
+  },
+  {
+    "id": "3c93390c0bdb",
+    "product name": "Apple iTunes 10$ USA",
+    "product price": 599.0,
+    "currency": "EGP",
+    "product url": "https://shamystores.com/products/apple-itunes-10-usa",
+    "site name": "shamystores.com",
+    "time stamp": "2025-10-21T06:56:40.918895Z"
+  },
+  {
+    "id": "a722d67d2992",
+    "product name": "Apple iTunes 5$ USA",
+    "product price": 299.0,
+    "currency": "EGP",
+    "product url": "https://shamystores.com/products/apple-itunes-5-usa",
+    "site name": "shamystores.com",
+    "time stamp": "2025-10-21T06:56:40.918895Z"
+  },
+  {
+    "id": "1a4b0dd75d83",
+    "product name": "Apple iTunes 20$ USA",
+    "product price": 1199.0,
+    "currency": "EGP",
+    "product url": "https://shamystores.com/products/apple-itunes-20-usa",
+    "site name": "shamystores.com",
+    "time stamp": "2025-10-21T06:56:40.918895Z"
+  },
+  {
+    "id": "ba67df0755d2",
+    "product name": "Apple iTunes 15$ USA",
+    "product price": 899.0,
+    "currency": "EGP",
+    "product url": "https://shamystores.com/products/apple-itunes-15-usa",
+    "site name": "shamystores.com",
+    "time stamp": "2025-10-21T06:56:40.918895Z"
+  },
+  {
+    "id": "66ed72ff9866",
+    "product name": "Apple iTunes 25$ USA",
+    "product price": 1499.0,
+    "currency": "EGP",
+    "product url": "https://shamystores.com/products/apple-itunes-25-usa",
+    "site name": "shamystores.com",
+    "time stamp": "2025-10-21T06:56:40.918895Z"
+  },
+  {
+    "id": "d7c8b203357a",
+    "product name": "Apple iTunes 40$ USA",
+    "product price": 2399.0,
+    "currency": "EGP",
+    "product url": "https://shamystores.com/products/apple-itunes-40-usa",
+    "site name": "shamystores.com",
+    "time stamp": "2025-10-21T06:56:40.918895Z"
+  },
+  {
+    "id": "c71d44c7caad",
+    "product name": "Apple iTunes 30$ USA",
+    "product price": 1799.0,
+    "currency": "EGP",
+    "product url": "https://shamystores.com/products/apple-itunes-30-usa",
+    "site name": "shamystores.com",
+    "time stamp": "2025-10-21T06:56:40.918895Z"
+  },
+  {
+    "id": "6778d3e72f5e",
+    "product name": "Nintendo 10$ USA",
+    "product price": 599.0,
+    "currency": "EGP",
+    "product url": "https://shamystores.com/products/nintendo-10-usa-epnintendo10",
+    "site name": "shamystores.com",
+    "time stamp": "2025-10-21T06:56:40.918895Z"
+  },
+  {
+    "id": "deea20d23bdc",
+    "product name": "Roblox 10$ USA",
+    "product price": 599.0,
+    "currency": "EGP",
+    "product url": "https://shamystores.com/products/roblox-10-usa-1",
+    "site name": "shamystores.com",
+    "time stamp": "2025-10-21T06:56:40.918895Z"
+  },
+  {
+    "id": "159d0f7c8957",
+    "product name": "Roblox 25$ USA",
+    "product price": 1499.0,
+    "currency": "EGP",
+    "product url": "https://shamystores.com/products/roblox-25-usa",
+    "site name": "shamystores.com",
+    "time stamp": "2025-10-21T06:56:40.918895Z"
+  },
+  {
+    "id": "638e988e6d20",
+    "product name": "Nintendo 20$ USA",
+    "product price": 1199.0,
+    "currency": "EGP",
+    "product url": "https://shamystores.com/products/nintendo-20-usa-ep",
+    "site name": "shamystores.com",
+    "time stamp": "2025-10-21T06:56:40.918895Z"
+  },
+  {
+    "id": "9071fe384976",
+    "product name": "Nintendo 35$ USA",
+    "product price": 2099.0,
+    "currency": "EGP",
+    "product url": "https://shamystores.com/products/nintendo-35-usa-uz-nintendo35",
+    "site name": "shamystores.com",
+    "time stamp": "2025-10-21T06:56:40.918895Z"
+  },
+  {
+    "id": "631e707a02b8",
+    "product name": "Steam Gift Card 10$ USA",
+    "product price": 599.0,
+    "currency": "EGP",
+    "product url": "https://shamystores.com/products/steam-gift-card-10-usa",
+    "site name": "shamystores.com",
+    "time stamp": "2025-10-21T06:56:40.918895Z"
+  },
+  {
+    "id": "719129d1ae8a",
+    "product name": "Steam Gift Card 20$ USA",
+    "product price": 1199.0,
+    "currency": "EGP",
+    "product url": "https://shamystores.com/products/steam-gift-card-20-usa",
+    "site name": "shamystores.com",
+    "time stamp": "2025-10-21T06:56:40.918895Z"
   },
   {
     "id": "ffa14c009d4c",
@@ -78,7 +213,7 @@
     "currency": "EGP",
     "product url": "https://shamystores.com/products/little-nightmares-3-ps5",
     "site name": "shamystores.com",
-    "time stamp": "2025-10-20T06:56:51.581119Z"
+    "time stamp": "2025-10-21T06:56:40.918895Z"
   },
   {
     "id": "263449ce8957",
@@ -87,7 +222,7 @@
     "currency": "EGP",
     "product url": "https://shamystores.com/products/little-nightmares-3-ps4-new",
     "site name": "shamystores.com",
-    "time stamp": "2025-10-20T06:56:51.581119Z"
+    "time stamp": "2025-10-21T06:56:40.918895Z"
   },
   {
     "id": "0b5ca0dd64a9",
@@ -96,7 +231,7 @@
     "currency": "EGP",
     "product url": "https://shamystores.com/products/dualsense-charging-station-41015003057562",
     "site name": "shamystores.com",
-    "time stamp": "2025-10-20T06:56:51.581119Z"
+    "time stamp": "2025-10-21T06:56:40.918895Z"
   },
   {
     "id": "12112156ff8c",
@@ -105,7 +240,7 @@
     "currency": "EGP",
     "product url": "https://shamystores.com/products/the-last-of-us-remake-used",
     "site name": "shamystores.com",
-    "time stamp": "2025-10-20T06:56:51.581119Z"
+    "time stamp": "2025-10-21T06:56:40.918895Z"
   },
   {
     "id": "3706f3cb5a18",
@@ -114,7 +249,7 @@
     "currency": "EGP",
     "product url": "https://shamystores.com/products/star-wars-outlaws-used",
     "site name": "shamystores.com",
-    "time stamp": "2025-10-20T06:56:51.581119Z"
+    "time stamp": "2025-10-21T06:56:40.918895Z"
   },
   {
     "id": "de266e562153",
@@ -123,7 +258,7 @@
     "currency": "EGP",
     "product url": "https://shamystores.com/products/silent-hill-3",
     "site name": "shamystores.com",
-    "time stamp": "2025-10-20T06:56:51.581119Z"
+    "time stamp": "2025-10-21T06:56:40.918895Z"
   },
   {
     "id": "724421279326",
@@ -132,7 +267,7 @@
     "currency": "EGP",
     "product url": "https://shamystores.com/products/fc-25-english",
     "site name": "shamystores.com",
-    "time stamp": "2025-10-20T06:56:51.581119Z"
+    "time stamp": "2025-10-21T06:56:40.918895Z"
   },
   {
     "id": "95889ea708dc",
@@ -141,7 +276,7 @@
     "currency": "EGP",
     "product url": "https://shamystores.com/products/fc-25-ar",
     "site name": "shamystores.com",
-    "time stamp": "2025-10-20T06:56:51.581119Z"
+    "time stamp": "2025-10-21T06:56:40.918895Z"
   },
   {
     "id": "434673ec98d4",
@@ -150,7 +285,7 @@
     "currency": "EGP",
     "product url": "https://shamystores.com/products/dragons-dogma-2-used",
     "site name": "shamystores.com",
-    "time stamp": "2025-10-20T06:56:51.581119Z"
+    "time stamp": "2025-10-21T06:56:40.918895Z"
   },
   {
     "id": "66ba93387b05",
@@ -159,7 +294,7 @@
     "currency": "EGP",
     "product url": "https://shamystores.com/products/prince-of-persia-the-lost-crown-used",
     "site name": "shamystores.com",
-    "time stamp": "2025-10-20T06:56:51.581119Z"
+    "time stamp": "2025-10-21T06:56:40.918895Z"
   },
   {
     "id": "13e414a67269",
@@ -168,7 +303,7 @@
     "currency": "EGP",
     "product url": "https://shamystores.com/products/wwe-2k24-used",
     "site name": "shamystores.com",
-    "time stamp": "2025-10-20T06:56:51.581119Z"
+    "time stamp": "2025-10-21T06:56:40.918895Z"
   },
   {
     "id": "f091a914230e",
@@ -177,7 +312,7 @@
     "currency": "EGP",
     "product url": "https://shamystores.com/products/the-crew-motorfest-used",
     "site name": "shamystores.com",
-    "time stamp": "2025-10-20T06:56:51.581119Z"
+    "time stamp": "2025-10-21T06:56:40.918895Z"
   },
   {
     "id": "14ad1db04dee",
@@ -186,7 +321,7 @@
     "currency": "EGP",
     "product url": "https://shamystores.com/products/the-callisto-protocol-used",
     "site name": "shamystores.com",
-    "time stamp": "2025-10-20T06:56:51.581119Z"
+    "time stamp": "2025-10-21T06:56:40.918895Z"
   },
   {
     "id": "13f48146f5d3",
@@ -195,7 +330,7 @@
     "currency": "EGP",
     "product url": "https://shamystores.com/products/outlet-final-fantasy-xvi-used",
     "site name": "shamystores.com",
-    "time stamp": "2025-10-20T06:56:51.581119Z"
+    "time stamp": "2025-10-21T06:56:40.918895Z"
   },
   {
     "id": "68c337e0dfcf",
@@ -204,7 +339,7 @@
     "currency": "EGP",
     "product url": "https://shamystores.com/products/diablo-iv-used",
     "site name": "shamystores.com",
-    "time stamp": "2025-10-20T06:56:51.581119Z"
+    "time stamp": "2025-10-21T06:56:40.918895Z"
   },
   {
     "id": "5b09d4cfa9f0",
@@ -213,7 +348,7 @@
     "currency": "EGP",
     "product url": "https://egygamer.com/en/product-carousels",
     "site name": "egygamer.com",
-    "time stamp": "2025-10-20T06:58:47.038632Z"
+    "time stamp": "2025-10-21T06:58:29.608271Z"
   },
   {
     "id": "ddd732997ee4",
@@ -222,7 +357,7 @@
     "currency": "EGP",
     "product url": "https://egygamer.com/en/hardware/keyboards",
     "site name": "egygamer.com",
-    "time stamp": "2025-10-20T06:58:47.038632Z"
+    "time stamp": "2025-10-21T06:58:29.608271Z"
   },
   {
     "id": "c5fd7e0962a5",
@@ -231,7 +366,7 @@
     "currency": "EGP",
     "product url": "https://egygamer.com/en/hardware/mouse",
     "site name": "egygamer.com",
-    "time stamp": "2025-10-20T06:58:47.038632Z"
+    "time stamp": "2025-10-21T06:58:29.608271Z"
   },
   {
     "id": "b1544c25e55a",
@@ -240,7 +375,7 @@
     "currency": "EGP",
     "product url": "https://egygamer.com/en/hardware/headsets",
     "site name": "egygamer.com",
-    "time stamp": "2025-10-20T06:58:47.038632Z"
+    "time stamp": "2025-10-21T06:58:29.608271Z"
   },
   {
     "id": "dd74d18a3e43",
@@ -249,7 +384,7 @@
     "currency": "EGP",
     "product url": "https://egygamer.com/en/digital-codes/xbox-live",
     "site name": "egygamer.com",
-    "time stamp": "2025-10-20T06:58:47.038632Z"
+    "time stamp": "2025-10-21T06:58:29.608271Z"
   },
   {
     "id": "64cf7c30d5c5",
@@ -258,7 +393,7 @@
     "currency": "EGP",
     "product url": "https://egygamer.com/en/digital-codes/xbox-live/xbox-digital-games",
     "site name": "egygamer.com",
-    "time stamp": "2025-10-20T06:58:47.038632Z"
+    "time stamp": "2025-10-21T06:58:29.608271Z"
   },
   {
     "id": "895fbbc49498",
@@ -267,7 +402,7 @@
     "currency": "EGP",
     "product url": "https://egygamer.com/en/double-charging-base-for-joystick-ps5-with-rgb.html",
     "site name": "egygamer.com",
-    "time stamp": "2025-10-20T06:58:47.038632Z"
+    "time stamp": "2025-10-21T06:58:29.608271Z"
   },
   {
     "id": "f37a4164f6c9",
@@ -276,7 +411,7 @@
     "currency": "EGP",
     "product url": "https://egygamer.com/en/dobe-display-stand-charging-kit-ps5.html",
     "site name": "egygamer.com",
-    "time stamp": "2025-10-20T06:58:47.038632Z"
+    "time stamp": "2025-10-21T06:58:29.608271Z"
   },
   {
     "id": "8c37f488d1b6",
@@ -285,7 +420,7 @@
     "currency": "EGP",
     "product url": "https://egygamer.com/en/ps5-disk-slim-console-covers-spider-man.html",
     "site name": "egygamer.com",
-    "time stamp": "2025-10-20T06:58:47.038632Z"
+    "time stamp": "2025-10-21T06:58:29.608271Z"
   },
   {
     "id": "06c1861779bc",
@@ -294,7 +429,7 @@
     "currency": "EGP",
     "product url": "https://egygamer.com/en/the-last-of-us-part-ii-remastered-pre-owned-ps5.html",
     "site name": "egygamer.com",
-    "time stamp": "2025-10-20T06:58:47.038632Z"
+    "time stamp": "2025-10-21T06:58:29.608271Z"
   },
   {
     "id": "c8c02fc19e68",
@@ -303,7 +438,7 @@
     "currency": "EGP",
     "product url": "https://egygamer.com/en/assassin-s-creed-shadows-pre-owned-ps5.html",
     "site name": "egygamer.com",
-    "time stamp": "2025-10-20T06:58:47.038632Z"
+    "time stamp": "2025-10-21T06:58:29.608271Z"
   },
   {
     "id": "e79d84b257af",
@@ -312,7 +447,7 @@
     "currency": "EGP",
     "product url": "https://egygamer.com/en/retro-game-console-4k-hdmi-output-video-game-console-built-in-10000-classic-games-with-2-ergonomic-controllers-plug-and-play-game-console.html",
     "site name": "egygamer.com",
-    "time stamp": "2025-10-20T06:58:47.038632Z"
+    "time stamp": "2025-10-21T06:58:29.608271Z"
   },
   {
     "id": "f4e33c8925c1",
@@ -321,7 +456,7 @@
     "currency": "EGP",
     "product url": "https://egygamer.com/en/tekken-ps5.html",
     "site name": "egygamer.com",
-    "time stamp": "2025-10-20T06:58:47.038632Z"
+    "time stamp": "2025-10-21T06:58:29.608271Z"
   },
   {
     "id": "eb762b82d24d",
@@ -330,7 +465,7 @@
     "currency": "EGP",
     "product url": "https://egygamer.com/en/wolfenstein-youngblood-deluxe-edition-xbox-one.html",
     "site name": "egygamer.com",
-    "time stamp": "2025-10-20T06:58:47.038632Z"
+    "time stamp": "2025-10-21T06:58:29.608271Z"
   },
   {
     "id": "c07f74dcf4d6",
@@ -339,7 +474,7 @@
     "currency": "EGP",
     "product url": "https://egygamer.com/en/mortal-kombat-11-ultimate-kollector-s-editions-ps5.html",
     "site name": "egygamer.com",
-    "time stamp": "2025-10-20T06:58:47.038632Z"
+    "time stamp": "2025-10-21T06:58:29.608271Z"
   },
   {
     "id": "07cd176a222a",
@@ -348,7 +483,7 @@
     "currency": "EGP",
     "product url": "https://thegamecaveegypt.com/collections/playstation-4-controllers",
     "site name": "thegamecaveegypt.com",
-    "time stamp": "2025-10-20T06:59:58.028626Z"
+    "time stamp": "2025-10-21T06:59:39.160356Z"
   },
   {
     "id": "5a16ce441191",
@@ -357,7 +492,7 @@
     "currency": "EGP",
     "product url": "https://thegamecaveegypt.com/collections/xbox",
     "site name": "thegamecaveegypt.com",
-    "time stamp": "2025-10-20T06:59:58.028626Z"
+    "time stamp": "2025-10-21T06:59:39.160356Z"
   },
   {
     "id": "df5150218412",
@@ -366,7 +501,7 @@
     "currency": "EGP",
     "product url": "https://thegamecaveegypt.com/collections/xbox-consoles",
     "site name": "thegamecaveegypt.com",
-    "time stamp": "2025-10-20T06:59:58.028626Z"
+    "time stamp": "2025-10-21T06:59:39.160356Z"
   },
   {
     "id": "bb7abb6fedc2",
@@ -375,7 +510,7 @@
     "currency": "EGP",
     "product url": "https://thegamecaveegypt.com/collections/xbox-gift-card",
     "site name": "thegamecaveegypt.com",
-    "time stamp": "2025-10-20T06:59:58.028626Z"
+    "time stamp": "2025-10-21T06:59:39.160356Z"
   },
   {
     "id": "01075a106094",
@@ -384,7 +519,7 @@
     "currency": "EGP",
     "product url": "https://thegamecaveegypt.com/products/roblox-gift-card",
     "site name": "thegamecaveegypt.com",
-    "time stamp": "2025-10-20T06:59:58.028626Z"
+    "time stamp": "2025-10-21T06:59:39.160356Z"
   },
   {
     "id": "c0df74d817c9",
@@ -393,7 +528,7 @@
     "currency": "EGP",
     "product url": "https://thegamecaveegypt.com/products/ea-apex-usa",
     "site name": "thegamecaveegypt.com",
-    "time stamp": "2025-10-20T06:59:58.028626Z"
+    "time stamp": "2025-10-21T06:59:39.160356Z"
   },
   {
     "id": "172aae7cc3aa",
@@ -402,7 +537,7 @@
     "currency": "EGP",
     "product url": "https://thegamecaveegypt.com/products/imvu-gift-card-usa-digital-code",
     "site name": "thegamecaveegypt.com",
-    "time stamp": "2025-10-20T06:59:58.028626Z"
+    "time stamp": "2025-10-21T06:59:39.160356Z"
   },
   {
     "id": "edba892aa1d8",
@@ -411,7 +546,7 @@
     "currency": "EGP",
     "product url": "https://thegamecaveegypt.com/products/kigso-games-gift-card-digital-delivery",
     "site name": "thegamecaveegypt.com",
-    "time stamp": "2025-10-20T06:59:58.028626Z"
+    "time stamp": "2025-10-21T06:59:39.160356Z"
   },
   {
     "id": "e9145012d832",
@@ -420,7 +555,7 @@
     "currency": "EGP",
     "product url": "https://thegamecaveegypt.com/products/pc-world-of-warcraft-60-days-digital-delivery",
     "site name": "thegamecaveegypt.com",
-    "time stamp": "2025-10-20T06:59:58.028626Z"
+    "time stamp": "2025-10-21T06:59:39.160356Z"
   },
   {
     "id": "78646c7cecf4",
@@ -429,7 +564,7 @@
     "currency": "EGP",
     "product url": "https://thegamecaveegypt.com/products/razer-gold-global-pin-digital-code",
     "site name": "thegamecaveegypt.com",
-    "time stamp": "2025-10-20T06:59:58.028626Z"
+    "time stamp": "2025-10-21T06:59:39.160356Z"
   },
   {
     "id": "cfc46e1d91ab",
@@ -438,7 +573,7 @@
     "currency": "EGP",
     "product url": "https://thegamecaveegypt.com/products/riot-access-mena-servers-digital-code",
     "site name": "thegamecaveegypt.com",
-    "time stamp": "2025-10-20T06:59:58.028626Z"
+    "time stamp": "2025-10-21T06:59:39.160356Z"
   },
   {
     "id": "a3a5881b0a81",
@@ -447,7 +582,7 @@
     "currency": "EGP",
     "product url": "https://thegamecaveegypt.com/products/steam-gift-card-united-arab-emirates",
     "site name": "thegamecaveegypt.com",
-    "time stamp": "2025-10-20T06:59:58.028626Z"
+    "time stamp": "2025-10-21T06:59:39.160356Z"
   },
   {
     "id": "43f006fa8852",
@@ -456,7 +591,7 @@
     "currency": "EGP",
     "product url": "https://thegamecaveegypt.com/products/steam-gift-card-europe",
     "site name": "thegamecaveegypt.com",
-    "time stamp": "2025-10-20T06:59:58.028626Z"
+    "time stamp": "2025-10-21T06:59:39.160356Z"
   },
   {
     "id": "47878fd7a6f2",
@@ -465,7 +600,7 @@
     "currency": "EGP",
     "product url": "https://thegamecaveegypt.com/products/twitch-gift-card-usa",
     "site name": "thegamecaveegypt.com",
-    "time stamp": "2025-10-20T06:59:58.028626Z"
+    "time stamp": "2025-10-21T06:59:39.160356Z"
   },
   {
     "id": "a6280a8cd56f",
@@ -474,7 +609,7 @@
     "currency": "EGP",
     "product url": "https://thegamecaveegypt.com/products/need-for-speed-heat-playstation-4",
     "site name": "thegamecaveegypt.com",
-    "time stamp": "2025-10-20T06:59:58.028626Z"
+    "time stamp": "2025-10-21T06:59:39.160356Z"
   },
   {
     "id": "b7d4939ef3c2",
@@ -483,7 +618,7 @@
     "currency": "EGP",
     "product url": "https://thegamecaveegypt.com/collections/frontpage/products/red-dead-redemption-playstation-4",
     "site name": "thegamecaveegypt.com",
-    "time stamp": "2025-10-20T06:59:58.028626Z"
+    "time stamp": "2025-10-21T06:59:39.160356Z"
   },
   {
     "id": "d52f14068412",
@@ -492,7 +627,7 @@
     "currency": "EGP",
     "product url": "https://thegamecaveegypt.com/collections/frontpage/products/sonic-superstars-playstation-4",
     "site name": "thegamecaveegypt.com",
-    "time stamp": "2025-10-20T06:59:58.028626Z"
+    "time stamp": "2025-10-21T06:59:39.160356Z"
   },
   {
     "id": "8ab9e5bcc6c8",
@@ -501,7 +636,7 @@
     "currency": "EGP",
     "product url": "https://thegamecaveegypt.com/collections/frontpage/products/minecraft-playstation-5",
     "site name": "thegamecaveegypt.com",
-    "time stamp": "2025-10-20T06:59:58.028626Z"
+    "time stamp": "2025-10-21T06:59:39.160356Z"
   },
   {
     "id": "9e3460921141",
@@ -510,7 +645,7 @@
     "currency": "EGP",
     "product url": "https://thegamecaveegypt.com/collections/frontpage/products/street-fighter-6-ps4",
     "site name": "thegamecaveegypt.com",
-    "time stamp": "2025-10-20T06:59:58.028626Z"
+    "time stamp": "2025-10-21T06:59:39.160356Z"
   },
   {
     "id": "25853e3c5af3",
@@ -519,7 +654,7 @@
     "currency": "EGP",
     "product url": "https://thegamecaveegypt.com/collections/frontpage/products/ghost-runner-2-playstation-5",
     "site name": "thegamecaveegypt.com",
-    "time stamp": "2025-10-20T06:59:58.028626Z"
+    "time stamp": "2025-10-21T06:59:39.160356Z"
   },
   {
     "id": "416ef38862d6",
@@ -528,7 +663,7 @@
     "currency": "EGP",
     "product url": "https://thegamecaveegypt.com/collections/frontpage/products/sonic-superstars-ps5",
     "site name": "thegamecaveegypt.com",
-    "time stamp": "2025-10-20T06:59:58.028626Z"
+    "time stamp": "2025-10-21T06:59:39.160356Z"
   },
   {
     "id": "47e87d943eb5",
@@ -537,7 +672,7 @@
     "currency": "EGP",
     "product url": "https://thegamecaveegypt.com/collections/frontpage/products/ea-sports-fc-25-playstation-5",
     "site name": "thegamecaveegypt.com",
-    "time stamp": "2025-10-20T06:59:58.028626Z"
+    "time stamp": "2025-10-21T06:59:39.160356Z"
   },
   {
     "id": "e0fbccdd7049",
@@ -546,7 +681,7 @@
     "currency": "EGP",
     "product url": "https://thegamecaveegypt.com/collections/frontpage/products/suicide-squad-kill-the-justice-league-playstation-5",
     "site name": "thegamecaveegypt.com",
-    "time stamp": "2025-10-20T06:59:58.028626Z"
+    "time stamp": "2025-10-21T06:59:39.160356Z"
   },
   {
     "id": "cbc1b3d4f51e",
@@ -555,7 +690,7 @@
     "currency": "EGP",
     "product url": "https://thegamecaveegypt.com/collections/frontpage/products/prince-of-persia%E2%84%A2-the-lost-crown-standard-edition-playstation-5",
     "site name": "thegamecaveegypt.com",
-    "time stamp": "2025-10-20T06:59:58.028626Z"
+    "time stamp": "2025-10-21T06:59:39.160356Z"
   },
   {
     "id": "7820a077e33f",
@@ -564,7 +699,7 @@
     "currency": "EGP",
     "product url": "https://compume.com.eg/en/communication/-mobiles-accessories/wired-headset",
     "site name": "compume.com.eg",
-    "time stamp": "2025-10-20T07:05:11.104127Z"
+    "time stamp": "2025-10-21T07:05:04.213937Z"
   },
   {
     "id": "5c5f77cf91fa",
@@ -573,7 +708,7 @@
     "currency": "EGP",
     "product url": "https://ahw.store/pc-components/cooling-en-gb/fans-and-controllers/",
     "site name": "ahw.store",
-    "time stamp": "2025-10-20T07:15:13.941877Z"
+    "time stamp": "2025-10-21T07:16:04.495141Z"
   },
   {
     "id": "b5fd60d60d2e",
@@ -582,7 +717,7 @@
     "currency": "EGP",
     "product url": "https://ahw.store/product-product_bundle?product_bundle_id=15",
     "site name": "ahw.store",
-    "time stamp": "2025-10-20T07:15:13.941877Z"
+    "time stamp": "2025-10-21T07:16:04.495141Z"
   },
   {
     "id": "6d398526f67b",
@@ -591,7 +726,7 @@
     "currency": "EGP",
     "product url": "https://ahw.store/computer-peripherals/keyboard-mouse-combo/",
     "site name": "ahw.store",
-    "time stamp": "2025-10-20T07:15:13.941877Z"
+    "time stamp": "2025-10-21T07:16:04.495141Z"
   },
   {
     "id": "a222ba2b5a10",
@@ -600,7 +735,7 @@
     "currency": "EGP",
     "product url": "https://ahw.store/computer-peripherals/headset-stand/",
     "site name": "ahw.store",
-    "time stamp": "2025-10-20T07:15:13.941877Z"
+    "time stamp": "2025-10-21T07:16:04.495141Z"
   },
   {
     "id": "5e784e6d75c3",
@@ -609,7 +744,7 @@
     "currency": "EGP",
     "product url": "https://ahw.store/computer-peripherals/headsets-en-gb/",
     "site name": "ahw.store",
-    "time stamp": "2025-10-20T07:15:13.941877Z"
+    "time stamp": "2025-10-21T07:16:04.495141Z"
   },
   {
     "id": "d84be297173d",
@@ -618,7 +753,7 @@
     "currency": "EGP",
     "product url": "https://ahw.store/computer-peripherals/keyboard-en-gb/",
     "site name": "ahw.store",
-    "time stamp": "2025-10-20T07:15:13.941877Z"
+    "time stamp": "2025-10-21T07:16:04.495141Z"
   },
   {
     "id": "bdefeb6e0163",
@@ -627,7 +762,7 @@
     "currency": "EGP",
     "product url": "https://ahw.store/computer-peripherals/mouse-en/",
     "site name": "ahw.store",
-    "time stamp": "2025-10-20T07:15:13.941877Z"
+    "time stamp": "2025-10-21T07:16:04.495141Z"
   },
   {
     "id": "24eeabcab45a",
@@ -636,7 +771,7 @@
     "currency": "EGP",
     "product url": "https://ahw.store/computer-peripherals/mouse-pad-en-gb/",
     "site name": "ahw.store",
-    "time stamp": "2025-10-20T07:15:13.941877Z"
+    "time stamp": "2025-10-21T07:16:04.495141Z"
   },
   {
     "id": "15663907775e",
@@ -645,7 +780,7 @@
     "currency": "EGP",
     "product url": "https://ahw.store/index.php?route=product/product_bundle&product_bundle_id=10&options=pov_2087;3034_1",
     "site name": "ahw.store",
-    "time stamp": "2025-10-20T07:15:13.941877Z"
+    "time stamp": "2025-10-21T07:16:04.495141Z"
   },
   {
     "id": "3462d4d7c928",
@@ -654,7 +789,7 @@
     "currency": "EGP",
     "product url": "https://ahw.store/index.php?route=product/product_bundle&product_bundle_id=11&options=pov_2077;3034_1",
     "site name": "ahw.store",
-    "time stamp": "2025-10-20T07:15:13.941877Z"
+    "time stamp": "2025-10-21T07:16:04.495141Z"
   },
   {
     "id": "28dc6a8c146e",
@@ -663,7 +798,7 @@
     "currency": "EGP",
     "product url": "https://ahw.store/index.php?route=product/product_bundle&product_bundle_id=12&options=pov_2071;3034_1",
     "site name": "ahw.store",
-    "time stamp": "2025-10-20T07:15:13.941877Z"
+    "time stamp": "2025-10-21T07:16:04.495141Z"
   },
   {
     "id": "36e42e5999e1",
@@ -672,7 +807,7 @@
     "currency": "EGP",
     "product url": "https://ahw.store/Gaming-furniture/gaming-decoration/",
     "site name": "ahw.store",
-    "time stamp": "2025-10-20T07:15:13.941877Z"
+    "time stamp": "2025-10-21T07:16:04.495141Z"
   },
   {
     "id": "f63c1b789111",
@@ -681,7 +816,7 @@
     "currency": "EGP",
     "product url": "https://ahw.store/product-product_bundle?product_bundle_id=14&options=pov_46729;3089_1",
     "site name": "ahw.store",
-    "time stamp": "2025-10-20T07:15:13.941877Z"
+    "time stamp": "2025-10-21T07:16:04.495141Z"
   },
   {
     "id": "1392f8728744",
@@ -690,7 +825,7 @@
     "currency": "EGP",
     "product url": "https://ahw.store/product-product?product_id=3690",
     "site name": "ahw.store",
-    "time stamp": "2025-10-20T07:15:13.941877Z"
+    "time stamp": "2025-10-21T07:16:04.495141Z"
   },
   {
     "id": "6118d1125d9e",
@@ -699,7 +834,7 @@
     "currency": "EGP",
     "product url": "https://ahw.store/product-product?product_id=3778",
     "site name": "ahw.store",
-    "time stamp": "2025-10-20T07:15:13.941877Z"
+    "time stamp": "2025-10-21T07:16:04.495141Z"
   },
   {
     "id": "c540c04cf9e9",
@@ -708,7 +843,7 @@
     "currency": "EGP",
     "product url": "https://ahw.store/redragon-origin-m903p-usb-gaming-mouse",
     "site name": "ahw.store",
-    "time stamp": "2025-10-20T07:15:13.941877Z"
+    "time stamp": "2025-10-21T07:16:04.495141Z"
   },
   {
     "id": "02c4f445aa95",
@@ -717,7 +852,7 @@
     "currency": "EGP",
     "product url": "https://ahw.store/hp-v8-rgb-ddr4-3600mhz-u-dimm-1x8g",
     "site name": "ahw.store",
-    "time stamp": "2025-10-20T07:15:13.941877Z"
+    "time stamp": "2025-10-21T07:16:04.495141Z"
   },
   {
     "id": "30a91ce33080",
@@ -726,7 +861,7 @@
     "currency": "EGP",
     "product url": "https://ahw.store/product-product?product_id=3902",
     "site name": "ahw.store",
-    "time stamp": "2025-10-20T07:15:13.941877Z"
+    "time stamp": "2025-10-21T07:16:04.495141Z"
   },
   {
     "id": "d24ec6322ad4",
@@ -735,7 +870,7 @@
     "currency": "EGP",
     "product url": "https://ahw.store/product-product?product_id=3907",
     "site name": "ahw.store",
-    "time stamp": "2025-10-20T07:15:13.941877Z"
+    "time stamp": "2025-10-21T07:16:04.495141Z"
   },
   {
     "id": "356c4c8ecfe8",
@@ -744,7 +879,7 @@
     "currency": "EGP",
     "product url": "https://ahw.store/product-product?product_id=3904",
     "site name": "ahw.store",
-    "time stamp": "2025-10-20T07:15:13.941877Z"
+    "time stamp": "2025-10-21T07:16:04.495141Z"
   },
   {
     "id": "4c3832726d93",
@@ -753,7 +888,7 @@
     "currency": "EGP",
     "product url": "https://ahw.store/product-product?product_id=3909",
     "site name": "ahw.store",
-    "time stamp": "2025-10-20T07:15:13.941877Z"
+    "time stamp": "2025-10-21T07:16:04.495141Z"
   },
   {
     "id": "bb288db2a090",
@@ -762,7 +897,7 @@
     "currency": "EGP",
     "product url": "https://ahw.store/product-product?product_id=3905",
     "site name": "ahw.store",
-    "time stamp": "2025-10-20T07:15:13.941877Z"
+    "time stamp": "2025-10-21T07:16:04.495141Z"
   },
   {
     "id": "8d0a9578cd24",
@@ -771,7 +906,7 @@
     "currency": "EGP",
     "product url": "https://ahw.store/product-product?product_id=3891",
     "site name": "ahw.store",
-    "time stamp": "2025-10-20T07:15:13.941877Z"
+    "time stamp": "2025-10-21T07:16:04.495141Z"
   },
   {
     "id": "ec3401a7a34f",
@@ -780,7 +915,7 @@
     "currency": "EGP",
     "product url": "https://ahw.store/product-product?product_id=3914",
     "site name": "ahw.store",
-    "time stamp": "2025-10-20T07:15:13.941877Z"
+    "time stamp": "2025-10-21T07:16:04.495141Z"
   },
   {
     "id": "1d62164f5883",
@@ -789,7 +924,7 @@
     "currency": "EGP",
     "product url": "https://ahw.store/product-product?product_id=3917",
     "site name": "ahw.store",
-    "time stamp": "2025-10-20T07:15:13.941877Z"
+    "time stamp": "2025-10-21T07:16:04.495141Z"
   },
   {
     "id": "24dfe3cfb0f3",
@@ -798,7 +933,7 @@
     "currency": "EGP",
     "product url": "https://ahw.store/redragon-k552-kumara-rainbow-mechanical-gaming-keyboard-cherry-mx-blue-switch-black-en-gb",
     "site name": "ahw.store",
-    "time stamp": "2025-10-20T07:15:13.941877Z"
+    "time stamp": "2025-10-21T07:16:04.495141Z"
   },
   {
     "id": "c3cd4b46b016",
@@ -807,7 +942,7 @@
     "currency": "EGP",
     "product url": "https://ahw.store/redragon-k608-valheim-rainbow-mechanical-gaming-keyboard-blue-switch",
     "site name": "ahw.store",
-    "time stamp": "2025-10-20T07:15:13.941877Z"
+    "time stamp": "2025-10-21T07:16:04.495141Z"
   },
   {
     "id": "e06252ea9794",
@@ -816,7 +951,7 @@
     "currency": "EGP",
     "product url": "https://ahw.store/product-product?product_id=3619",
     "site name": "ahw.store",
-    "time stamp": "2025-10-20T07:15:13.941877Z"
+    "time stamp": "2025-10-21T07:16:04.495141Z"
   },
   {
     "id": "6bfab68d0486",
@@ -825,7 +960,7 @@
     "currency": "EGP",
     "product url": "https://ahw.store/xtrike-me-gh-903-rgb-7-1-surround-gaming-headset-en-gb",
     "site name": "ahw.store",
-    "time stamp": "2025-10-20T07:15:13.941877Z"
+    "time stamp": "2025-10-21T07:16:04.495141Z"
   },
   {
     "id": "15160e2e27ba",
@@ -834,7 +969,7 @@
     "currency": "EGP",
     "product url": "https://ahw.store/product-product?product_id=3919",
     "site name": "ahw.store",
-    "time stamp": "2025-10-20T07:15:13.941877Z"
+    "time stamp": "2025-10-21T07:16:04.495141Z"
   },
   {
     "id": "6376707cd1ec",
@@ -843,7 +978,7 @@
     "currency": "EGP",
     "product url": "https://ahw.store/product-product?product_id=3378",
     "site name": "ahw.store",
-    "time stamp": "2025-10-20T07:15:13.941877Z"
+    "time stamp": "2025-10-21T07:16:04.495141Z"
   },
   {
     "id": "6d2277f4756c",
@@ -852,7 +987,7 @@
     "currency": "EGP",
     "product url": "https://ahw.store/product-product?product_id=3367",
     "site name": "ahw.store",
-    "time stamp": "2025-10-20T07:15:13.941877Z"
+    "time stamp": "2025-10-21T07:16:04.495141Z"
   },
   {
     "id": "e9c32672ef58",
@@ -861,7 +996,7 @@
     "currency": "EGP",
     "product url": "https://ahw.store/product-product?product_id=3452",
     "site name": "ahw.store",
-    "time stamp": "2025-10-20T07:15:13.941877Z"
+    "time stamp": "2025-10-21T07:16:04.495141Z"
   },
   {
     "id": "c8b8686f990f",
@@ -870,7 +1005,7 @@
     "currency": "EGP",
     "product url": "https://ahw.store/product-product?product_id=3981",
     "site name": "ahw.store",
-    "time stamp": "2025-10-20T07:15:13.941877Z"
+    "time stamp": "2025-10-21T07:16:04.495141Z"
   },
   {
     "id": "1025947b3961",
@@ -879,7 +1014,7 @@
     "currency": "EGP",
     "product url": "https://ahw.store/product-product?product_id=3987",
     "site name": "ahw.store",
-    "time stamp": "2025-10-20T07:15:13.941877Z"
+    "time stamp": "2025-10-21T07:16:04.495141Z"
   },
   {
     "id": "696094e043c5",
@@ -888,7 +1023,7 @@
     "currency": "EGP",
     "product url": "https://ahw.store/product-product?product_id=4053",
     "site name": "ahw.store",
-    "time stamp": "2025-10-20T07:15:13.941877Z"
+    "time stamp": "2025-10-21T07:16:04.495141Z"
   },
   {
     "id": "747120cded33",
@@ -897,7 +1032,7 @@
     "currency": "EGP",
     "product url": "https://ahw.store/product-product?product_id=3984",
     "site name": "ahw.store",
-    "time stamp": "2025-10-20T07:15:13.941877Z"
+    "time stamp": "2025-10-21T07:16:04.495141Z"
   },
   {
     "id": "ff90f3ef5dd9",
@@ -906,7 +1041,7 @@
     "currency": "EGP",
     "product url": "https://ahw.store/product-product?product_id=3985",
     "site name": "ahw.store",
-    "time stamp": "2025-10-20T07:15:13.941877Z"
+    "time stamp": "2025-10-21T07:16:04.495141Z"
   },
   {
     "id": "01e33d52b30b",
@@ -915,7 +1050,7 @@
     "currency": "EGP",
     "product url": "https://www.pcs-souq.com/products/apc-surgearrest-1-outlet-pm1w-gr",
     "site name": "www.pcs-souq.com",
-    "time stamp": "2025-10-20T07:17:35.976482Z"
+    "time stamp": "2025-10-21T07:18:28.307985Z"
   },
   {
     "id": "20e2a88cd361",
@@ -924,7 +1059,7 @@
     "currency": "EGP",
     "product url": "https://www.pcs-souq.com/products/apc-surgearrest-5-outlets-black-pme5b-gr",
     "site name": "www.pcs-souq.com",
-    "time stamp": "2025-10-20T07:17:35.976482Z"
+    "time stamp": "2025-10-21T07:18:28.307985Z"
   },
   {
     "id": "95a6745d5263",
@@ -933,7 +1068,7 @@
     "currency": "EGP",
     "product url": "https://www.pcs-souq.com/products/cat6-utp-keystone-jack-90deg-black",
     "site name": "www.pcs-souq.com",
-    "time stamp": "2025-10-20T07:17:35.976482Z"
+    "time stamp": "2025-10-21T07:18:28.307985Z"
   },
   {
     "id": "341aeed7dd03",
@@ -942,7 +1077,7 @@
     "currency": "EGP",
     "product url": "https://www.pcs-souq.com/products/splice-cassette",
     "site name": "www.pcs-souq.com",
-    "time stamp": "2025-10-20T07:17:35.976482Z"
+    "time stamp": "2025-10-21T07:18:28.307985Z"
   },
   {
     "id": "5be31cffc688",
@@ -951,7 +1086,7 @@
     "currency": "EGP",
     "product url": "https://www.pcs-souq.com/products/om3-2m-lc-pigtail-50-125",
     "site name": "www.pcs-souq.com",
-    "time stamp": "2025-10-20T07:17:35.976482Z"
+    "time stamp": "2025-10-21T07:18:28.307985Z"
   },
   {
     "id": "c8b922c8c481",
@@ -960,7 +1095,7 @@
     "currency": "EGP",
     "product url": "https://www.pcs-souq.com/products/cat6-low-profile-utp-toolless-jack-black",
     "site name": "www.pcs-souq.com",
-    "time stamp": "2025-10-20T07:17:35.976482Z"
+    "time stamp": "2025-10-21T07:18:28.307985Z"
   },
   {
     "id": "6a675d6b4d29",
@@ -969,7 +1104,7 @@
     "currency": "EGP",
     "product url": "https://www.pcs-souq.com/products/unloaded-24-port-keystone-patch-panel-frame-1u-black-1",
     "site name": "www.pcs-souq.com",
-    "time stamp": "2025-10-20T07:17:35.976482Z"
+    "time stamp": "2025-10-21T07:18:28.307985Z"
   },
   {
     "id": "7255ebd3b303",
@@ -978,7 +1113,7 @@
     "currency": "EGP",
     "product url": "https://www.pcs-souq.com/products/apc-surgearrest-5-outlets-2-usb-charger-pme5u2b-gr",
     "site name": "www.pcs-souq.com",
-    "time stamp": "2025-10-20T07:17:35.976482Z"
+    "time stamp": "2025-10-21T07:18:28.307985Z"
   },
   {
     "id": "5436383f6639",
@@ -987,7 +1122,7 @@
     "currency": "EGP",
     "product url": "https://www.pcs-souq.com/products/apc-surgearrest-1-outlet-pm1w-gr-1",
     "site name": "www.pcs-souq.com",
-    "time stamp": "2025-10-20T07:17:35.976482Z"
+    "time stamp": "2025-10-21T07:18:28.307985Z"
   },
   {
     "id": "6779e884e74b",
@@ -996,7 +1131,7 @@
     "currency": "EGP",
     "product url": "https://www.pcs-souq.com/products/apc-surgearrest-6-outlets-2-usb-charger-pm6u-gr",
     "site name": "www.pcs-souq.com",
-    "time stamp": "2025-10-20T07:17:35.976482Z"
+    "time stamp": "2025-10-21T07:18:28.307985Z"
   },
   {
     "id": "4441476d57d8",
@@ -1005,7 +1140,7 @@
     "currency": "EGP",
     "product url": "https://www.pcs-souq.com/products/blackshark-v2-x-green-rz04-03240600-r3m1",
     "site name": "www.pcs-souq.com",
-    "time stamp": "2025-10-20T07:17:35.976482Z"
+    "time stamp": "2025-10-21T07:18:28.307985Z"
   },
   {
     "id": "8cf0bb87a13d",
@@ -1014,7 +1149,7 @@
     "currency": "EGP",
     "product url": "https://www.pcs-souq.com/products/blackshark-v2-x-white",
     "site name": "www.pcs-souq.com",
-    "time stamp": "2025-10-20T07:17:35.976482Z"
+    "time stamp": "2025-10-21T07:18:28.307985Z"
   },
   {
     "id": "0621e0b638b5",
@@ -1023,34 +1158,34 @@
     "currency": "EGP",
     "product url": "https://www.pcs-souq.com/products/blackshark-v2-x-rz04-03240100-r3m1",
     "site name": "www.pcs-souq.com",
-    "time stamp": "2025-10-20T07:17:35.976482Z"
+    "time stamp": "2025-10-21T07:18:28.307985Z"
   },
   {
     "id": "313c342b36a5",
     "product name": "Cobra RZ01-04650100-R3M1",
-    "product price": 1725.0,
+    "product price": 1950.0,
     "currency": "EGP",
     "product url": "https://www.pcs-souq.com/products/cobra-rz01-04650100-r3m1",
     "site name": "www.pcs-souq.com",
-    "time stamp": "2025-10-20T07:17:35.976482Z"
+    "time stamp": "2025-10-21T07:18:28.307985Z"
   },
   {
     "id": "241dd8bf5053",
     "product name": "DeathAdder Essential RZ01-03850100-R3M1",
-    "product price": 1035.0,
+    "product price": 1190.0,
     "currency": "EGP",
     "product url": "https://www.pcs-souq.com/products/deathadder-essential-rz01-03850100-r3m1",
     "site name": "www.pcs-souq.com",
-    "time stamp": "2025-10-20T07:17:35.976482Z"
+    "time stamp": "2025-10-21T07:18:28.307985Z"
   },
   {
     "id": "76bac59da158",
     "product name": "DeathAdder Essential [2021] - White Edition RZ01-03850200-R3M1",
-    "product price": 1825.0,
+    "product price": 1050.0,
     "currency": "EGP",
     "product url": "https://www.pcs-souq.com/products/deathadder-essential-rz01-03850100-r3m1-copy",
     "site name": "www.pcs-souq.com",
-    "time stamp": "2025-10-20T07:17:35.976482Z"
+    "time stamp": "2025-10-21T07:18:28.307985Z"
   },
   {
     "id": "5466375d40ba",
@@ -1059,7 +1194,7 @@
     "currency": "EGP",
     "product url": "https://www.pcs-souq.com/products/gigantus-v2-large-rz02-03330300-r3m1",
     "site name": "www.pcs-souq.com",
-    "time stamp": "2025-10-20T07:17:35.976482Z"
+    "time stamp": "2025-10-21T07:18:28.307985Z"
   },
   {
     "id": "c6301d9c0b04",
@@ -1068,7 +1203,7 @@
     "currency": "EGP",
     "product url": "https://www.pcs-souq.com/products/gigantus-v2-medium-rz02-03330200-r3m1",
     "site name": "www.pcs-souq.com",
-    "time stamp": "2025-10-20T07:17:35.976482Z"
+    "time stamp": "2025-10-21T07:18:28.307985Z"
   },
   {
     "id": "eb13006689c5",
@@ -1077,7 +1212,7 @@
     "currency": "EGP",
     "product url": "https://www.pcs-souq.com/products/goliathus-mobile-rz02-01820200-r3m1",
     "site name": "www.pcs-souq.com",
-    "time stamp": "2025-10-20T07:17:35.976482Z"
+    "time stamp": "2025-10-21T07:18:28.307985Z"
   },
   {
     "id": "b88046432f45",
@@ -1086,7 +1221,7 @@
     "currency": "EGP",
     "product url": "https://www.pcs-souq.com/products/kraken-x-lite-rz04-02950100-r381",
     "site name": "www.pcs-souq.com",
-    "time stamp": "2025-10-20T07:17:35.976482Z"
+    "time stamp": "2025-10-21T07:18:28.307985Z"
   },
   {
     "id": "4cde8ae5d593",
@@ -1095,7 +1230,7 @@
     "currency": "EGP",
     "product url": "https://www.pcs-souq.com/products/ornata-v3-x-us-layout-rz03-04470100-r3m1",
     "site name": "www.pcs-souq.com",
-    "time stamp": "2025-10-20T07:17:35.976482Z"
+    "time stamp": "2025-10-21T07:18:28.307985Z"
   },
   {
     "id": "39e82e9f4ded",
@@ -1104,7 +1239,7 @@
     "currency": "EGP",
     "product url": "https://www.pcs-souq.com/products/seiren-v3-mini-black",
     "site name": "www.pcs-souq.com",
-    "time stamp": "2025-10-20T07:17:35.976482Z"
+    "time stamp": "2025-10-21T07:18:28.307985Z"
   },
   {
     "id": "57d3867a69c6",
@@ -1113,7 +1248,7 @@
     "currency": "EGP",
     "product url": "https://tv-it.com/product-categories/power-supply",
     "site name": "tv-it.com",
-    "time stamp": "2025-10-20T07:27:04.559419Z"
+    "time stamp": "2025-10-21T07:27:20.378517Z"
   },
   {
     "id": "b673ef146f6e",
@@ -1122,7 +1257,7 @@
     "currency": "EGP",
     "product url": "https://tv-it.com/product-categories/printer-ink-toner",
     "site name": "tv-it.com",
-    "time stamp": "2025-10-20T07:27:04.559419Z"
+    "time stamp": "2025-10-21T07:27:20.378517Z"
   },
   {
     "id": "f395fc778823",
@@ -1131,7 +1266,7 @@
     "currency": "EGP",
     "product url": "https://tv-it.com/product-categories/software",
     "site name": "tv-it.com",
-    "time stamp": "2025-10-20T07:27:04.559419Z"
+    "time stamp": "2025-10-21T07:27:20.378517Z"
   },
   {
     "id": "1c8424457247",
@@ -1140,7 +1275,7 @@
     "currency": "EGP",
     "product url": "https://tv-it.com/product-categories/storage-7",
     "site name": "tv-it.com",
-    "time stamp": "2025-10-20T07:27:04.559419Z"
+    "time stamp": "2025-10-21T07:27:20.378517Z"
   },
   {
     "id": "556411e936c9",
@@ -1149,7 +1284,7 @@
     "currency": "EGP",
     "product url": "https://tv-it.com/product-categories/network-8",
     "site name": "tv-it.com",
-    "time stamp": "2025-10-20T07:27:04.559419Z"
+    "time stamp": "2025-10-21T07:27:20.378517Z"
   },
   {
     "id": "f90b75b8ce39",
@@ -1158,7 +1293,7 @@
     "currency": "EGP",
     "product url": "https://tv-it.com/product-categories/security#list",
     "site name": "tv-it.com",
-    "time stamp": "2025-10-20T07:27:04.559419Z"
+    "time stamp": "2025-10-21T07:27:20.378517Z"
   },
   {
     "id": "8f4c7e2eb4b8",
@@ -1167,7 +1302,7 @@
     "currency": "EGP",
     "product url": "https://tv-it.com/product-categories/routers#list",
     "site name": "tv-it.com",
-    "time stamp": "2025-10-20T07:27:04.559419Z"
+    "time stamp": "2025-10-21T07:27:20.378517Z"
   },
   {
     "id": "b31b889d8eae",
@@ -1176,7 +1311,7 @@
     "currency": "EGP",
     "product url": "https://tv-it.com/product-categories/time-attendance",
     "site name": "tv-it.com",
-    "time stamp": "2025-10-20T07:27:04.559419Z"
+    "time stamp": "2025-10-21T07:27:20.378517Z"
   },
   {
     "id": "437b49d54b99",
@@ -1185,7 +1320,7 @@
     "currency": "EGP",
     "product url": "https://tv-it.com/product-categories/air-pod",
     "site name": "tv-it.com",
-    "time stamp": "2025-10-20T07:27:04.559419Z"
+    "time stamp": "2025-10-21T07:27:20.378517Z"
   },
   {
     "id": "339dd882158f",
@@ -1194,7 +1329,7 @@
     "currency": "EGP",
     "product url": "https://tv-it.com/product-categories/power-adapter",
     "site name": "tv-it.com",
-    "time stamp": "2025-10-20T07:27:04.559419Z"
+    "time stamp": "2025-10-21T07:27:20.378517Z"
   },
   {
     "id": "4463210a7861",
@@ -1203,7 +1338,7 @@
     "currency": "EGP",
     "product url": "https://tv-it.com/product-categories/nokia-mobiles",
     "site name": "tv-it.com",
-    "time stamp": "2025-10-20T07:27:04.559419Z"
+    "time stamp": "2025-10-21T07:27:20.378517Z"
   },
   {
     "id": "132256925698",
@@ -1212,7 +1347,7 @@
     "currency": "EGP",
     "product url": "https://tv-it.com/product-categories/lava-mobiles",
     "site name": "tv-it.com",
-    "time stamp": "2025-10-20T07:27:04.559419Z"
+    "time stamp": "2025-10-21T07:27:20.378517Z"
   },
   {
     "id": "4b569974d56e",
@@ -1221,7 +1356,7 @@
     "currency": "EGP",
     "product url": "https://tv-it.com/product-categories/mtouch-mobiles",
     "site name": "tv-it.com",
-    "time stamp": "2025-10-20T07:27:04.559419Z"
+    "time stamp": "2025-10-21T07:27:20.378517Z"
   },
   {
     "id": "133bbded4b21",
@@ -1230,7 +1365,7 @@
     "currency": "EGP",
     "product url": "https://tv-it.com/product-categories/ace",
     "site name": "tv-it.com",
-    "time stamp": "2025-10-20T07:27:04.559419Z"
+    "time stamp": "2025-10-21T07:27:20.378517Z"
   },
   {
     "id": "e73b276b37c8",
@@ -1239,7 +1374,7 @@
     "currency": "EGP",
     "product url": "https://tv-it.com/product-categories/accessories-1",
     "site name": "tv-it.com",
-    "time stamp": "2025-10-20T07:27:04.559419Z"
+    "time stamp": "2025-10-21T07:27:20.378517Z"
   },
   {
     "id": "a392c2cd1cdd",
@@ -1248,7 +1383,7 @@
     "currency": "EGP",
     "product url": "https://tv-it.com/product-categories/laptop-computer-accessories",
     "site name": "tv-it.com",
-    "time stamp": "2025-10-20T07:27:04.559419Z"
+    "time stamp": "2025-10-21T07:27:20.378517Z"
   },
   {
     "id": "ec54571dbc94",
@@ -1257,7 +1392,7 @@
     "currency": "EGP",
     "product url": "https://tv-it.com/product-categories/cooler-fan",
     "site name": "tv-it.com",
-    "time stamp": "2025-10-20T07:27:04.559419Z"
+    "time stamp": "2025-10-21T07:27:20.378517Z"
   },
   {
     "id": "6c353925c855",
@@ -1266,7 +1401,7 @@
     "currency": "EGP",
     "product url": "https://tv-it.com/product-categories/microphones",
     "site name": "tv-it.com",
-    "time stamp": "2025-10-20T07:27:04.559419Z"
+    "time stamp": "2025-10-21T07:27:20.378517Z"
   },
   {
     "id": "8699c8bc0fb1",
@@ -1275,7 +1410,7 @@
     "currency": "EGP",
     "product url": "https://tv-it.com/product-categories/cables-and-power-strips",
     "site name": "tv-it.com",
-    "time stamp": "2025-10-20T07:27:04.559419Z"
+    "time stamp": "2025-10-21T07:27:20.378517Z"
   },
   {
     "id": "a6de4e4b7856",
@@ -1284,7 +1419,7 @@
     "currency": "EGP",
     "product url": "https://tv-it.com/product-categories/bag-and-sleeve",
     "site name": "tv-it.com",
-    "time stamp": "2025-10-20T07:27:04.559419Z"
+    "time stamp": "2025-10-21T07:27:20.378517Z"
   },
   {
     "id": "e7e8bb43e43e",
@@ -1293,7 +1428,7 @@
     "currency": "EGP",
     "product url": "https://tv-it.com/product-categories/keyboard",
     "site name": "tv-it.com",
-    "time stamp": "2025-10-20T07:27:04.559419Z"
+    "time stamp": "2025-10-21T07:27:20.378517Z"
   },
   {
     "id": "ec8602ef53f6",
@@ -1302,7 +1437,7 @@
     "currency": "EGP",
     "product url": "https://tv-it.com/product-categories/mouse-mousepad",
     "site name": "tv-it.com",
-    "time stamp": "2025-10-20T07:27:04.559419Z"
+    "time stamp": "2025-10-21T07:27:20.378517Z"
   },
   {
     "id": "df27f0f91c6d",
@@ -1311,7 +1446,7 @@
     "currency": "EGP",
     "product url": "https://tv-it.com/product-categories/mobile-accessories",
     "site name": "tv-it.com",
-    "time stamp": "2025-10-20T07:27:04.559419Z"
+    "time stamp": "2025-10-21T07:27:20.378517Z"
   },
   {
     "id": "665ae8e248a9",
@@ -1320,7 +1455,7 @@
     "currency": "EGP",
     "product url": "https://tv-it.com/product-categories/chargers-and-adapters",
     "site name": "tv-it.com",
-    "time stamp": "2025-10-20T07:27:04.559419Z"
+    "time stamp": "2025-10-21T07:27:20.378517Z"
   },
   {
     "id": "e8077bae638f",
@@ -1329,7 +1464,7 @@
     "currency": "EGP",
     "product url": "https://tv-it.com/product-categories/earbuds",
     "site name": "tv-it.com",
-    "time stamp": "2025-10-20T07:27:04.559419Z"
+    "time stamp": "2025-10-21T07:27:20.378517Z"
   },
   {
     "id": "637ab285f444",
@@ -1338,7 +1473,7 @@
     "currency": "EGP",
     "product url": "https://tv-it.com/product-categories/earphones",
     "site name": "tv-it.com",
-    "time stamp": "2025-10-20T07:27:04.559419Z"
+    "time stamp": "2025-10-21T07:27:20.378517Z"
   },
   {
     "id": "0efcb37cb81d",
@@ -1347,7 +1482,7 @@
     "currency": "EGP",
     "product url": "https://tv-it.com/product-categories/wireless-headphones",
     "site name": "tv-it.com",
-    "time stamp": "2025-10-20T07:27:04.559419Z"
+    "time stamp": "2025-10-21T07:27:20.378517Z"
   },
   {
     "id": "0e8599308705",
@@ -1356,7 +1491,7 @@
     "currency": "EGP",
     "product url": "https://tv-it.com/product-categories/powerbank",
     "site name": "tv-it.com",
-    "time stamp": "2025-10-20T07:27:04.559419Z"
+    "time stamp": "2025-10-21T07:27:20.378517Z"
   },
   {
     "id": "ca66d0e6b3d6",
@@ -1365,7 +1500,7 @@
     "currency": "EGP",
     "product url": "https://tv-it.com/product-categories/cables-and-hubs",
     "site name": "tv-it.com",
-    "time stamp": "2025-10-20T07:27:04.559419Z"
+    "time stamp": "2025-10-21T07:27:20.378517Z"
   },
   {
     "id": "ce5dae9f3a5f",
@@ -1374,7 +1509,7 @@
     "currency": "EGP",
     "product url": "https://tv-it.com/product-categories/magnetic-charger",
     "site name": "tv-it.com",
-    "time stamp": "2025-10-20T07:27:04.559419Z"
+    "time stamp": "2025-10-21T07:27:20.378517Z"
   },
   {
     "id": "912b07eac2cf",
@@ -1383,7 +1518,7 @@
     "currency": "EGP",
     "product url": "https://tv-it.com/product-categories/car-charger-and-holders",
     "site name": "tv-it.com",
-    "time stamp": "2025-10-20T07:27:04.559419Z"
+    "time stamp": "2025-10-21T07:27:20.378517Z"
   },
   {
     "id": "52b8aeb0cac4",
@@ -1392,7 +1527,7 @@
     "currency": "EGP",
     "product url": "https://tv-it.com/product-categories/ring-light-and-selfie-stick",
     "site name": "tv-it.com",
-    "time stamp": "2025-10-20T07:27:04.559419Z"
+    "time stamp": "2025-10-21T07:27:20.378517Z"
   },
   {
     "id": "83501e55fd55",
@@ -1401,7 +1536,7 @@
     "currency": "EGP",
     "product url": "https://tv-it.com/product-categories/scale",
     "site name": "tv-it.com",
-    "time stamp": "2025-10-20T07:27:04.559419Z"
+    "time stamp": "2025-10-21T07:27:20.378517Z"
   },
   {
     "id": "a08788e83b55",
@@ -1410,232 +1545,7 @@
     "currency": "EGP",
     "product url": "https://tv-it.com/product-categories/playstation-ps-games",
     "site name": "tv-it.com",
-    "time stamp": "2025-10-20T07:27:04.559419Z"
-  },
-  {
-    "id": "7d831278e43c",
-    "product name": "Shop Hair Products in Egypt | Technology Valley",
-    "product price": 1699.0,
-    "currency": "EGP",
-    "product url": "https://tv-it.com/public/product-categories/hair-products",
-    "site name": "tv-it.com",
-    "time stamp": "2025-10-20T07:27:04.559419Z"
-  },
-  {
-    "id": "3b02af7837e7",
-    "product name": "Shop Kitchen Appliances in Egypt | Technology Valley",
-    "product price": 430.0,
-    "currency": "EGP",
-    "product url": "https://tv-it.com/product-categories/kitchen",
-    "site name": "tv-it.com",
-    "time stamp": "2025-10-20T07:27:04.559419Z"
-  },
-  {
-    "id": "95530bcc2f5d",
-    "product name": "Shop Kettle in Egypt | Technology Valley",
-    "product price": 430.0,
-    "currency": "EGP",
-    "product url": "https://tv-it.com/product-categories/kettle",
-    "site name": "tv-it.com",
-    "time stamp": "2025-10-20T07:27:04.559419Z"
-  },
-  {
-    "id": "2adaba6f08a2",
-    "product name": "Shop Electric Blenders in Egypt | Technology Valley",
-    "product price": 799.0,
-    "currency": "EGP",
-    "product url": "https://tv-it.com/product-categories/electric-blenders",
-    "site name": "tv-it.com",
-    "time stamp": "2025-10-20T07:27:04.559419Z"
-  },
-  {
-    "id": "0b419499da6c",
-    "product name": "Shop Hand Blenders in Egypt | Technology Valley",
-    "product price": 1099.0,
-    "currency": "EGP",
-    "product url": "https://tv-it.com/product-categories/hand-blenders",
-    "site name": "tv-it.com",
-    "time stamp": "2025-10-20T07:27:04.559419Z"
-  },
-  {
-    "id": "768328229bdf",
-    "product name": "Buy Best Food Chopper & Mincer in Egypt at Best Price",
-    "product price": 1150.0,
-    "currency": "EGP",
-    "product url": "https://tv-it.com/product-categories/chopper",
-    "site name": "tv-it.com",
-    "time stamp": "2025-10-20T07:27:04.559419Z"
-  },
-  {
-    "id": "94fefc40c77c",
-    "product name": "Shop Hand Mixer in Egypt | Technology Valley",
-    "product price": 1890.0,
-    "currency": "EGP",
-    "product url": "https://tv-it.com/product-categories/hand-mixer",
-    "site name": "tv-it.com",
-    "time stamp": "2025-10-20T07:27:04.559419Z"
-  },
-  {
-    "id": "812f375e7b3e",
-    "product name": "Shop Sandwich Maker in Egypt | Technology Valley",
-    "product price": 2250.0,
-    "currency": "EGP",
-    "product url": "https://tv-it.com/product-categories/sandwich-maker",
-    "site name": "tv-it.com",
-    "time stamp": "2025-10-20T07:27:04.559419Z"
-  },
-  {
-    "id": "eaca49ae0c5c",
-    "product name": "Shop Juicer in Egypt | Technology Valley",
-    "product price": 1280.0,
-    "currency": "EGP",
-    "product url": "https://tv-it.com/product-categories/juicer",
-    "site name": "tv-it.com",
-    "time stamp": "2025-10-20T07:27:04.559419Z"
-  },
-  {
-    "id": "3674335417ef",
-    "product name": "Shop Hot Plate in Egypt | Technology Valley",
-    "product price": 1050.0,
-    "currency": "EGP",
-    "product url": "https://tv-it.com/product-categories/hot-plate#list",
-    "site name": "tv-it.com",
-    "time stamp": "2025-10-20T07:27:04.559419Z"
-  },
-  {
-    "id": "944546fa648e",
-    "product name": "Shop Small Home Appliances in Egypt | Technology Valley",
-    "product price": 2190.0,
-    "currency": "EGP",
-    "product url": "https://tv-it.com/product-categories/small-home-appliances",
-    "site name": "tv-it.com",
-    "time stamp": "2025-10-20T07:27:04.559419Z"
-  },
-  {
-    "id": "3952dd86d530",
-    "product name": "Shop Fans in Egypt | Technology Valley",
-    "product price": 840.0,
-    "currency": "EGP",
-    "product url": "https://tv-it.com/product-categories/fans",
-    "site name": "tv-it.com",
-    "time stamp": "2025-10-20T07:27:04.559419Z"
-  },
-  {
-    "id": "a3766b2cbfb3",
-    "product name": "Shop Steam Iron in Egypt | Technology Valley",
-    "product price": 999.0,
-    "currency": "EGP",
-    "product url": "https://tv-it.com/product-categories/steam-iron-",
-    "site name": "tv-it.com",
-    "time stamp": "2025-10-20T07:27:04.559419Z"
-  },
-  {
-    "id": "bc19ab1203a3",
-    "product name": "Shop Suction Fan  in Egypt | Technology Valley",
-    "product price": 670.0,
-    "currency": "EGP",
-    "product url": "https://tv-it.com/product-categories/ventilating-fan",
-    "site name": "tv-it.com",
-    "time stamp": "2025-10-20T07:27:04.559419Z"
-  },
-  {
-    "id": "6f9fead1643b",
-    "product name": "Shop for a touch watch Smart watch | Smart watch at the best price in Egypt",
-    "product price": 1850.0,
-    "currency": "EGP",
-    "product url": "https://tv-it.com/product-categories/smart-watch",
-    "site name": "tv-it.com",
-    "time stamp": "2025-10-20T07:27:04.559419Z"
-  },
-  {
-    "id": "98019869d16a",
-    "product name": "Shop Flash Drives in Egypt | Technology Valley",
-    "product price": 300.0,
-    "currency": "EGP",
-    "product url": "https://tv-it.com/product-categories/flash-drives",
-    "site name": "tv-it.com",
-    "time stamp": "2025-10-20T07:27:04.559419Z"
-  },
-  {
-    "id": "72befeb7bb1a",
-    "product name": "Shop Memory Cards SD in Egypt | Technology Valley",
-    "product price": 1000.0,
-    "currency": "EGP",
-    "product url": "https://tv-it.com/product-categories/memory-cards-sd",
-    "site name": "tv-it.com",
-    "time stamp": "2025-10-20T07:27:04.559419Z"
-  },
-  {
-    "id": "60dff0f8041d",
-    "product name": "Shop SSD in Egypt | Technology Valley",
-    "product price": 1999.0,
-    "currency": "EGP",
-    "product url": "https://tv-it.com/product-categories/sdd",
-    "site name": "tv-it.com",
-    "time stamp": "2025-10-20T07:27:04.559419Z"
-  },
-  {
-    "id": "5043dba93593",
-    "product name": "Shop Security Cameras in Egypt | Technology Valley",
-    "product price": 875.0,
-    "currency": "EGP",
-    "product url": "https://tv-it.com/product-categories/security",
-    "site name": "tv-it.com",
-    "time stamp": "2025-10-20T07:27:04.559419Z"
-  },
-  {
-    "id": "0df610db20cf",
-    "product name": "Shop Routers in Egypt | Technology Valley",
-    "product price": 2025.0,
-    "currency": "EGP",
-    "product url": "https://tv-it.com/product-categories/routers",
-    "site name": "tv-it.com",
-    "time stamp": "2025-10-20T07:27:04.559419Z"
-  },
-  {
-    "id": "cdb79629e307",
-    "product name": "Shop Best Tablet Lava in Egypt - Lava Tablet",
-    "product price": 1810.0,
-    "currency": "EGP",
-    "product url": "https://tv-it.com/product-categories/lava-tablets",
-    "site name": "tv-it.com",
-    "time stamp": "2025-10-20T07:27:04.559419Z"
-  },
-  {
-    "id": "a200dfcfa8ec",
-    "product name": "Shop Gaming Mousepad in Egypt | Technology Valley",
-    "product price": 549.0,
-    "currency": "EGP",
-    "product url": "https://tv-it.com/product-categories/gaming-mousepad",
-    "site name": "tv-it.com",
-    "time stamp": "2025-10-20T07:27:04.559419Z"
-  },
-  {
-    "id": "6ea3e53fb5b8",
-    "product name": "Shop Controllers - Gaming Pad in Egypt | Technology Valley",
-    "product price": 1299.0,
-    "currency": "EGP",
-    "product url": "https://tv-it.com/product-categories/controller-and-gamepad",
-    "site name": "tv-it.com",
-    "time stamp": "2025-10-20T07:27:04.559419Z"
-  },
-  {
-    "id": "142ae2a7ffc1",
-    "product name": "Shop Gaming Chargers & Cables in Egypt | Technology Valley",
-    "product price": 799.0,
-    "currency": "EGP",
-    "product url": "https://tv-it.com/product-categories/gaming-chargers-cables",
-    "site name": "tv-it.com",
-    "time stamp": "2025-10-20T07:27:04.559419Z"
-  },
-  {
-    "id": "81e94d832045",
-    "product name": "Shop Personal Care Products in Egypt | Technology Valley",
-    "product price": 1699.0,
-    "currency": "EGP",
-    "product url": "https://tv-it.com/product-categories/personal-care-products",
-    "site name": "tv-it.com",
-    "time stamp": "2025-10-20T07:27:04.559419Z"
+    "time stamp": "2025-10-21T07:27:20.378517Z"
   },
   {
     "id": "d23634132bc5",
@@ -1644,7 +1554,223 @@
     "currency": "EGP",
     "product url": "https://tv-it.com/product-categories/hair-products",
     "site name": "tv-it.com",
-    "time stamp": "2025-10-20T07:27:04.559419Z"
+    "time stamp": "2025-10-21T07:27:20.378517Z"
+  },
+  {
+    "id": "3b02af7837e7",
+    "product name": "Shop Kitchen Appliances in Egypt | Technology Valley",
+    "product price": 430.0,
+    "currency": "EGP",
+    "product url": "https://tv-it.com/product-categories/kitchen",
+    "site name": "tv-it.com",
+    "time stamp": "2025-10-21T07:27:20.378517Z"
+  },
+  {
+    "id": "95530bcc2f5d",
+    "product name": "Shop Kettle in Egypt | Technology Valley",
+    "product price": 430.0,
+    "currency": "EGP",
+    "product url": "https://tv-it.com/product-categories/kettle",
+    "site name": "tv-it.com",
+    "time stamp": "2025-10-21T07:27:20.378517Z"
+  },
+  {
+    "id": "2adaba6f08a2",
+    "product name": "Shop Electric Blenders in Egypt | Technology Valley",
+    "product price": 799.0,
+    "currency": "EGP",
+    "product url": "https://tv-it.com/product-categories/electric-blenders",
+    "site name": "tv-it.com",
+    "time stamp": "2025-10-21T07:27:20.378517Z"
+  },
+  {
+    "id": "0b419499da6c",
+    "product name": "Shop Hand Blenders in Egypt | Technology Valley",
+    "product price": 1099.0,
+    "currency": "EGP",
+    "product url": "https://tv-it.com/product-categories/hand-blenders",
+    "site name": "tv-it.com",
+    "time stamp": "2025-10-21T07:27:20.378517Z"
+  },
+  {
+    "id": "768328229bdf",
+    "product name": "Buy Best Food Chopper & Mincer in Egypt at Best Price",
+    "product price": 1150.0,
+    "currency": "EGP",
+    "product url": "https://tv-it.com/product-categories/chopper",
+    "site name": "tv-it.com",
+    "time stamp": "2025-10-21T07:27:20.378517Z"
+  },
+  {
+    "id": "94fefc40c77c",
+    "product name": "Shop Hand Mixer in Egypt | Technology Valley",
+    "product price": 1890.0,
+    "currency": "EGP",
+    "product url": "https://tv-it.com/product-categories/hand-mixer",
+    "site name": "tv-it.com",
+    "time stamp": "2025-10-21T07:27:20.378517Z"
+  },
+  {
+    "id": "812f375e7b3e",
+    "product name": "Shop Sandwich Maker in Egypt | Technology Valley",
+    "product price": 2250.0,
+    "currency": "EGP",
+    "product url": "https://tv-it.com/product-categories/sandwich-maker",
+    "site name": "tv-it.com",
+    "time stamp": "2025-10-21T07:27:20.378517Z"
+  },
+  {
+    "id": "eaca49ae0c5c",
+    "product name": "Shop Juicer in Egypt | Technology Valley",
+    "product price": 1280.0,
+    "currency": "EGP",
+    "product url": "https://tv-it.com/product-categories/juicer",
+    "site name": "tv-it.com",
+    "time stamp": "2025-10-21T07:27:20.378517Z"
+  },
+  {
+    "id": "3674335417ef",
+    "product name": "Shop Hot Plate in Egypt | Technology Valley",
+    "product price": 1050.0,
+    "currency": "EGP",
+    "product url": "https://tv-it.com/product-categories/hot-plate#list",
+    "site name": "tv-it.com",
+    "time stamp": "2025-10-21T07:27:20.378517Z"
+  },
+  {
+    "id": "944546fa648e",
+    "product name": "Shop Small Home Appliances in Egypt | Technology Valley",
+    "product price": 2190.0,
+    "currency": "EGP",
+    "product url": "https://tv-it.com/product-categories/small-home-appliances",
+    "site name": "tv-it.com",
+    "time stamp": "2025-10-21T07:27:20.378517Z"
+  },
+  {
+    "id": "3952dd86d530",
+    "product name": "Shop Fans in Egypt | Technology Valley",
+    "product price": 840.0,
+    "currency": "EGP",
+    "product url": "https://tv-it.com/product-categories/fans",
+    "site name": "tv-it.com",
+    "time stamp": "2025-10-21T07:27:20.378517Z"
+  },
+  {
+    "id": "a3766b2cbfb3",
+    "product name": "Shop Steam Iron in Egypt | Technology Valley",
+    "product price": 999.0,
+    "currency": "EGP",
+    "product url": "https://tv-it.com/product-categories/steam-iron-",
+    "site name": "tv-it.com",
+    "time stamp": "2025-10-21T07:27:20.378517Z"
+  },
+  {
+    "id": "bc19ab1203a3",
+    "product name": "Shop Suction Fan  in Egypt | Technology Valley",
+    "product price": 670.0,
+    "currency": "EGP",
+    "product url": "https://tv-it.com/product-categories/ventilating-fan",
+    "site name": "tv-it.com",
+    "time stamp": "2025-10-21T07:27:20.378517Z"
+  },
+  {
+    "id": "6f9fead1643b",
+    "product name": "Shop for a touch watch Smart watch | Smart watch at the best price in Egypt",
+    "product price": 1850.0,
+    "currency": "EGP",
+    "product url": "https://tv-it.com/product-categories/smart-watch",
+    "site name": "tv-it.com",
+    "time stamp": "2025-10-21T07:27:20.378517Z"
+  },
+  {
+    "id": "98019869d16a",
+    "product name": "Shop Flash Drives in Egypt | Technology Valley",
+    "product price": 300.0,
+    "currency": "EGP",
+    "product url": "https://tv-it.com/product-categories/flash-drives",
+    "site name": "tv-it.com",
+    "time stamp": "2025-10-21T07:27:20.378517Z"
+  },
+  {
+    "id": "72befeb7bb1a",
+    "product name": "Shop Memory Cards SD in Egypt | Technology Valley",
+    "product price": 1000.0,
+    "currency": "EGP",
+    "product url": "https://tv-it.com/product-categories/memory-cards-sd",
+    "site name": "tv-it.com",
+    "time stamp": "2025-10-21T07:27:20.378517Z"
+  },
+  {
+    "id": "60dff0f8041d",
+    "product name": "Shop SSD in Egypt | Technology Valley",
+    "product price": 1999.0,
+    "currency": "EGP",
+    "product url": "https://tv-it.com/product-categories/sdd",
+    "site name": "tv-it.com",
+    "time stamp": "2025-10-21T07:27:20.378517Z"
+  },
+  {
+    "id": "5043dba93593",
+    "product name": "Shop Security Cameras in Egypt | Technology Valley",
+    "product price": 875.0,
+    "currency": "EGP",
+    "product url": "https://tv-it.com/product-categories/security",
+    "site name": "tv-it.com",
+    "time stamp": "2025-10-21T07:27:20.378517Z"
+  },
+  {
+    "id": "0df610db20cf",
+    "product name": "Shop Routers in Egypt | Technology Valley",
+    "product price": 2025.0,
+    "currency": "EGP",
+    "product url": "https://tv-it.com/product-categories/routers",
+    "site name": "tv-it.com",
+    "time stamp": "2025-10-21T07:27:20.378517Z"
+  },
+  {
+    "id": "cdb79629e307",
+    "product name": "Shop Best Tablet Lava in Egypt - Lava Tablet",
+    "product price": 1810.0,
+    "currency": "EGP",
+    "product url": "https://tv-it.com/product-categories/lava-tablets",
+    "site name": "tv-it.com",
+    "time stamp": "2025-10-21T07:27:20.378517Z"
+  },
+  {
+    "id": "a200dfcfa8ec",
+    "product name": "Shop Gaming Mousepad in Egypt | Technology Valley",
+    "product price": 549.0,
+    "currency": "EGP",
+    "product url": "https://tv-it.com/product-categories/gaming-mousepad",
+    "site name": "tv-it.com",
+    "time stamp": "2025-10-21T07:27:20.378517Z"
+  },
+  {
+    "id": "6ea3e53fb5b8",
+    "product name": "Shop Controllers - Gaming Pad in Egypt | Technology Valley",
+    "product price": 1299.0,
+    "currency": "EGP",
+    "product url": "https://tv-it.com/product-categories/controller-and-gamepad",
+    "site name": "tv-it.com",
+    "time stamp": "2025-10-21T07:27:20.378517Z"
+  },
+  {
+    "id": "142ae2a7ffc1",
+    "product name": "Shop Gaming Chargers & Cables in Egypt | Technology Valley",
+    "product price": 799.0,
+    "currency": "EGP",
+    "product url": "https://tv-it.com/product-categories/gaming-chargers-cables",
+    "site name": "tv-it.com",
+    "time stamp": "2025-10-21T07:27:20.378517Z"
+  },
+  {
+    "id": "81e94d832045",
+    "product name": "Shop Personal Care Products in Egypt | Technology Valley",
+    "product price": 1699.0,
+    "currency": "EGP",
+    "product url": "https://tv-it.com/product-categories/personal-care-products",
+    "site name": "tv-it.com",
+    "time stamp": "2025-10-21T07:27:20.378517Z"
   },
   {
     "id": "02741aeba620",
@@ -1653,7 +1779,7 @@
     "currency": "EGP",
     "product url": "https://tv-it.com/product-categories/hot-plate",
     "site name": "tv-it.com",
-    "time stamp": "2025-10-20T07:27:04.559419Z"
+    "time stamp": "2025-10-21T07:27:20.378517Z"
   },
   {
     "id": "46998ba11ac3",
@@ -1662,7 +1788,7 @@
     "currency": "EGP",
     "product url": "https://tv-it.com/product-categories/mobile-photo-printer-vr-glasses",
     "site name": "tv-it.com",
-    "time stamp": "2025-10-20T07:27:04.559419Z"
+    "time stamp": "2025-10-21T07:27:20.378517Z"
   },
   {
     "id": "57193169716b",
@@ -1671,16 +1797,16 @@
     "currency": "EGP",
     "product url": "https://tv-it.com/product-categories/stylus",
     "site name": "tv-it.com",
-    "time stamp": "2025-10-20T07:27:04.559419Z"
+    "time stamp": "2025-10-21T07:27:20.378517Z"
   },
   {
     "id": "1966fa557909",
     "product name": "NOKIA",
-    "product price": 899.0,
+    "product price": 875.0,
     "currency": "EGP",
     "product url": "https://tv-it.com/product-categories/nokia",
     "site name": "tv-it.com",
-    "time stamp": "2025-10-20T07:27:04.559419Z"
+    "time stamp": "2025-10-21T07:27:20.378517Z"
   },
   {
     "id": "36460951b4f3",
@@ -1689,7 +1815,7 @@
     "currency": "EGP",
     "product url": "https://tv-it.com/product-categories/mobile-accessories-offers",
     "site name": "tv-it.com",
-    "time stamp": "2025-10-20T07:27:04.559419Z"
+    "time stamp": "2025-10-21T07:27:20.378517Z"
   },
   {
     "id": "59da74ddf276",
@@ -1698,7 +1824,7 @@
     "currency": "EGP",
     "product url": "https://tv-it.com/product-categories/charging-cable",
     "site name": "tv-it.com",
-    "time stamp": "2025-10-20T07:27:04.559419Z"
+    "time stamp": "2025-10-21T07:27:20.378517Z"
   },
   {
     "id": "1fa6fc0757f3",
@@ -1707,7 +1833,7 @@
     "currency": "EGP",
     "product url": "https://tv-it.com/product-categories/earbuds-1",
     "site name": "tv-it.com",
-    "time stamp": "2025-10-20T07:27:04.559419Z"
+    "time stamp": "2025-10-21T07:27:20.378517Z"
   },
   {
     "id": "f8e9a26e9ae6",
@@ -1716,7 +1842,7 @@
     "currency": "EGP",
     "product url": "https://tv-it.com/product-categories/power-bank",
     "site name": "tv-it.com",
-    "time stamp": "2025-10-20T07:27:04.559419Z"
+    "time stamp": "2025-10-21T07:27:20.378517Z"
   },
   {
     "id": "fbce2f135599",
@@ -1725,7 +1851,7 @@
     "currency": "EGP",
     "product url": "https://tv-it.com/product-categories/charger",
     "site name": "tv-it.com",
-    "time stamp": "2025-10-20T07:27:04.559419Z"
+    "time stamp": "2025-10-21T07:27:20.378517Z"
   },
   {
     "id": "8387b898dd29",
@@ -1734,7 +1860,7 @@
     "currency": "EGP",
     "product url": "https://tv-it.com/product-categories/playstation-games",
     "site name": "tv-it.com",
-    "time stamp": "2025-10-20T07:27:04.559419Z"
+    "time stamp": "2025-10-21T07:27:20.378517Z"
   },
   {
     "id": "504287f3628d",
@@ -1743,7 +1869,7 @@
     "currency": "EGP",
     "product url": "https://tv-it.com/product-categories/rush-brush",
     "site name": "tv-it.com",
-    "time stamp": "2025-10-20T07:27:04.559419Z"
+    "time stamp": "2025-10-21T07:27:20.378517Z"
   },
   {
     "id": "c280224932dc",
@@ -1752,7 +1878,7 @@
     "currency": "EGP",
     "product url": "https://tv-it.com/product-categories/kenwood-offers",
     "site name": "tv-it.com",
-    "time stamp": "2025-10-20T07:27:04.559419Z"
+    "time stamp": "2025-10-21T07:27:20.378517Z"
   },
   {
     "id": "9fddd8e75d13",
@@ -1761,7 +1887,7 @@
     "currency": "EGP",
     "product url": "https://tv-it.com/product-categories/steam-irons-1",
     "site name": "tv-it.com",
-    "time stamp": "2025-10-20T07:27:04.559419Z"
+    "time stamp": "2025-10-21T07:27:20.378517Z"
   },
   {
     "id": "5afe79a6c898",
@@ -1770,7 +1896,7 @@
     "currency": "EGP",
     "product url": "https://tv-it.com/product-categories/kitchen-appliances",
     "site name": "tv-it.com",
-    "time stamp": "2025-10-20T07:27:04.559419Z"
+    "time stamp": "2025-10-21T07:27:20.378517Z"
   },
   {
     "id": "3a9dbf3a65d8",
@@ -1779,7 +1905,7 @@
     "currency": "EGP",
     "product url": "https://tv-it.com/product-categories/fan",
     "site name": "tv-it.com",
-    "time stamp": "2025-10-20T07:27:04.559419Z"
+    "time stamp": "2025-10-21T07:27:20.378517Z"
   },
   {
     "id": "b6bb16b5184b",
@@ -1788,7 +1914,7 @@
     "currency": "EGP",
     "product url": "https://tv-it.com/product-categories/ventilating-fan-1",
     "site name": "tv-it.com",
-    "time stamp": "2025-10-20T07:27:04.559419Z"
+    "time stamp": "2025-10-21T07:27:20.378517Z"
   },
   {
     "id": "d35288ba87c4",
@@ -1797,7 +1923,7 @@
     "currency": "EGP",
     "product url": "https://tv-it.com/product-categories/best-selling",
     "site name": "tv-it.com",
-    "time stamp": "2025-10-20T07:27:04.559419Z"
+    "time stamp": "2025-10-21T07:27:20.378517Z"
   },
   {
     "id": "de19cbd41840",
@@ -1806,6 +1932,6 @@
     "currency": "EGP",
     "product url": "https://tv-it.com/product-categories/outlet",
     "site name": "tv-it.com",
-    "time stamp": "2025-10-20T07:27:04.559419Z"
+    "time stamp": "2025-10-21T07:27:20.378517Z"
   }
 ]
