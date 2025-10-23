@@ -1,25 +1,25 @@
 {
-  "generated_at": "2025-10-22T07:42:25.083883Z",
+  "generated_at": "2025-10-23T07:15:00.831369Z",
   "min_price": 100.0,
   "max_price": 2500.0,
   "sites": {
     "www.games2egypt.com": 0,
-    "shamystores.com": 80,
+    "shamystores.com": 0,
     "www.gamesworldegypt.com": 0,
-    "egygamer.com": 28,
-    "thegamecaveegypt.com": 47,
+    "egygamer.com": 0,
+    "thegamecaveegypt.com": 0,
     "gamerscolony.net": 0,
     "egyptlaptop.com": 0,
-    "compume.com.eg": 4,
-    "www.compumarts.com": 39,
+    "compume.com.eg": 0,
+    "www.compumarts.com": 0,
     "hardwaremarket.net": 0,
-    "ahw.store": 76,
-    "www.pcs-souq.com": 100,
+    "ahw.store": 0,
+    "www.pcs-souq.com": 0,
     "rabbitstore-eg.com": 0,
-    "tv-it.com": 237,
-    "egyptgamestore.com": 864
+    "tv-it.com": 0,
+    "egyptgamestore.com": 0
   },
-  "total_raw": 1475,
-  "total_clean": 217,
+  "total_raw": 0,
+  "total_clean": 0,
   "dynamic_mode": "auto"
 }
