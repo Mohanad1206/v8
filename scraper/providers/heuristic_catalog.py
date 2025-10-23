@@ -2,7 +2,19 @@ from .base import HttpClient, soup_from, og_content, guess_price
 from typing import List, Dict
 from urllib.parse import urljoin, urlparse
 import re
-SA
+
+class HeuristicCatalogProvider:
+    def __init__(self, base_url: str, source: str, client: HttpClient):
+        self.base_url = base_url
+        self.source = source
+        self.client = client
+
+    def discover_product_urls(self, limit: int = 0) -> List[str]:
+        urls = []
+        # Try common catalog paths
+        paths = ["/shop", "/products", "/catalog", "/gaming", "/store"]
+        for path in paths:
+            try:
                 r = self.client.get(urljoin(self.base_url, path))
                 soup = soup_from(r)
                 for a in soup.find_all("a", href=True):
