@@ -5,7 +5,6 @@ A scraper-only toolkit that gathers gaming accessory products from multiple Egyp
 ## Key features
 - Multi-strategy scraping (sitemaps → heuristics → optional dynamic rendering via Playwright).
 - **Dynamic mode**: `auto` (fallback when static is weak), `always`, or `never`.
-- **Proxy hooks** via env (`HTTP_PROXY` / `HTTPS_PROXY` / `ALL_PROXY`) — pass one as a GitHub secret to improve reliability.
 - Outputs saved **inside the repo** so you can inspect raw JSON/CSV before any downstream processing.
 - Small front-end viewer in `web/` for quick product browsing.
 
@@ -38,14 +37,13 @@ python -m http.server 4000
 
 ## Run on GitHub Actions
 1. Create a new GitHub repository and push these files.
-2. (Optional) Add a secret `SCRAPER_PROXY_URL` if you want to route through a proxy.
-3. Go to **Actions → “Scrape & Publish (Egypt Gaming)” → Run workflow** and set inputs:
+2. Go to **Actions → "Scrape & Publish (Egypt Gaming)" → Run workflow** and set inputs:
    - `limit_per_site`: `0` = unlimited (default)
    - `min_price`: `100`
    - `max_price`: `2500`
    - `dynamic_mode`: `auto` | `never` | `always`
-4. The workflow commits updated CSV/JSON to `data/…` and the viewer dataset to `web/data/products.json`.
+3. The workflow commits updated CSV/JSON to `data/…` and the viewer dataset to `web/data/products.json`.
 
 ## Notes
-- Respect each site’s Terms and robots rules; tune `scraper/scrape_config.yaml` for delays/timeouts.
-- If a site still yields no data, try `dynamic_mode=always` and/or configure a proxy. For particularly stubborn stores, add site‑specific selectors in a custom provider.
+- Respect each site's Terms and robots rules; tune `scraper/scrape_config.yaml` for delays/timeouts.
+- If a site still yields no data, try `dynamic_mode=always`. For particularly stubborn stores, add site‑specific selectors in a custom provider.

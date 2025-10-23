@@ -32,13 +32,10 @@ class PlaywrightDynamicProvider:
     def __init__(self, base_url: str):
         self.base_url = base_url.rstrip("/")
         self.source = urlparse(self.base_url).netloc
-        self.proxy = os.getenv("ALL_PROXY") or os.getenv("HTTPS_PROXY") or os.getenv("HTTP_PROXY")
 
     def _launch(self):
         pw = sync_playwright().start()
         launch_args = {"headless": True}
-        if self.proxy:
-            launch_args["proxy"] = {"server": self.proxy}
         browser = pw.chromium.launch(**launch_args)
         ctx = browser.new_context(locale="en-EG", user_agent=os.getenv("SCRAPER_USER_AGENT", None))
         stealth_sync(ctx)
