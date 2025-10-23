@@ -26,6 +26,7 @@ def og_content(soup: BeautifulSoup, prop: str):
     return tag["content"].strip() if tag and tag.get("content") else None
 
 def guess_price(soup: BeautifulSoup):
+    from .util import parse_price_any  # Import here to avoid circular import
     for prop in ["product:price:amount", "og:price:amount"]:
         c = og_content(soup, prop)
         if c:
@@ -34,8 +35,7 @@ def guess_price(soup: BeautifulSoup):
     cand = soup.select("[class*=price], [id*=price]")
     for el in cand[:10]:
         txt = el.get_text(" ", strip=True)
-        m = re.search(r'(\d{2,6}(?:[.,]\d{2})?)', txt.replace(',', ''))
-        if m:
-            try: return float(m.group(1))
-            except: pass
+        price = parse_price_any(txt)
+        if price is not None:
+            return price
     return None

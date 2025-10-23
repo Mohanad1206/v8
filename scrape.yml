@@ -1,0 +1,79 @@
+name: Scrape & Publish (Egypt Gaming)
+
+permissions:
+  contents: write
+
+on:
+  schedule:
+    - cron: '0 6 * * *'
+  workflow_dispatch:
+    inputs:
+      limit_per_site:
+        description: '0 = unlimited'
+        required: false
+        default: '0'
+      min_price:
+        description: 'Min price EGP'
+        required: false
+        default: '100'
+      max_price:
+        description: 'Max price EGP'
+        required: false
+        default: '2500'
+      dynamic_mode:
+        description: 'auto | never | always'
+        required: false
+        default: 'auto'
+
+concurrency:
+  group: scrape-eg-gaming
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 180
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install Python deps
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r scraper/requirements.txt
+
+      - name: Install Playwright browsers
+        run: |
+          python -m playwright install --with-deps
+
+      - name: Export proxy (if set as secret)
+        if: ${{ secrets.SCRAPER_PROXY_URL != '' }}
+        run: |
+          echo "ALL_PROXY=${{ secrets.SCRAPER_PROXY_URL }}" >> $GITHUB_ENV
+          echo "HTTPS_PROXY=${{ secrets.SCRAPER_PROXY_URL }}" >> $GITHUB_ENV
+          echo "HTTP_PROXY=${{ secrets.SCRAPER_PROXY_URL }}" >> $GITHUB_ENV
+
+      - name: Run scraper
+        env:
+          SCRAPER_DYNAMIC_MODE: ${{ github.event.inputs.dynamic_mode || 'auto' }}
+        run: |
+          python scraper/run_all.py \
+            --sites-file scraper/sites.txt \
+            --min-price ${{ github.event.inputs.min_price || 100 }} \
+            --max-price ${{ github.event.inputs.max_price || 2500 }} \
+            --limit-per-site ${{ github.event.inputs.limit_per_site || 0 }} \
+            --dynamic-mode ${{ github.event.inputs.dynamic_mode || 'auto' }}
+
+      - name: Commit & push data
+        run: |
+          git config user.name "edith-bot"
+          git config user.email "edith@example.com"
+          git add data/ web/data/products.json
+          git commit -m "data: update products $(date -u +'%Y-%m-%dT%H:%M:%SZ')" || echo "No changes"
+          git push || echo "Nothing to push"
