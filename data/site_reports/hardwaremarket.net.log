@@ -1,5 +1,5 @@
-[2026-02-24T07:12:05.115086Z] Trying ShopifySitemapProvider
-[2026-02-24T07:12:08.418154Z] ShopifySitemapProvider yielded 0 items
-[2026-02-24T07:12:08.418172Z] Trying GenericSitemapProvider
-[2026-02-24T07:12:09.469317Z] GenericSitemapProvider yielded 0 items
-[2026-02-24T07:12:09.469332Z] ERROR HeuristicCatalogProvider: HeuristicCatalogProvider.__init__() missing 1 required positional argument: 'client'
+[2026-02-25T07:30:25.849974Z] Trying ShopifySitemapProvider
+[2026-02-25T07:30:29.330019Z] ShopifySitemapProvider yielded 0 items
+[2026-02-25T07:30:29.330037Z] Trying GenericSitemapProvider
+[2026-02-25T07:30:30.422269Z] GenericSitemapProvider yielded 0 items
+[2026-02-25T07:30:30.422282Z] ERROR HeuristicCatalogProvider: HeuristicCatalogProvider.__init__() missing 1 required positional argument: 'client'
